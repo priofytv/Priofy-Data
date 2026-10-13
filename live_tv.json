@@ -1809,11 +1809,11 @@
     "servers": [
       {
         "name": "Server 1",
-        "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/tracks-v1a1/mono.ts.m3u8"
+        "url": "https://flussonic.defineatoz.com/TSports2/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Server 2",
-        "url": "http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8"
+        "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/tracks-v1a1/mono.ts.m3u8"
       },
       {
         "name": "Server 3",
