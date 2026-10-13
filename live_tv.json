@@ -1423,10 +1423,14 @@
     "servers": [
       {
         "name": "Server 1",
-        "url": "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8"
+        "url": "https://cdn.pishow.tv/ott/live/1459/master.m3u8"
       },
       {
         "name": "Server 2",
+        "url": "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8"
+      },
+      {
+        "name": "Server 3",
         "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8"
       }
     ]
@@ -1491,10 +1495,14 @@
       },
       {
         "name": "Server 2",
-        "url": "https://tvsen6.aynaott.com/FsD43fcG/index.m3u8?e=1784102593&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=5da1770fba3540984206a834fafb382a"
+        "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
       },
       {
         "name": "Server 3",
+        "url": "https://tvsen6.aynaott.com/FsD43fcG/index.m3u8?e=1784102593&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=5da1770fba3540984206a834fafb382a"
+      },
+      {
+        "name": "Server 4",
         "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8"
       }
     ]
