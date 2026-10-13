@@ -2669,27 +2669,14 @@
     ]
   },
   {
-    "category": "☮️ REQUEST",
     "id": "158",
-    "link_live": [
-      {
-        "name": "Server 1",
-        "display_name": "Server 1",
-        "url": "http://103.151.60.162:2122/play/a0f5/index.m3u8",
-        "stream_link": "http://103.151.60.162:2122/play/a0f5/index.m3u8"
-      }
-    ],
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44Z56zKoiEJjAokoaE6XaUIBTdrjejdvmb-RfOxONrA&s=10",
+    "category": "☮️ REQUEST",
     "name": "Star Bangla",
-    "server1": "http://103.151.60.162:2122/play/a0f5/index.m3u8",
-    "url": "http://103.151.60.162:2122/play/a0f5/index.m3u8",
-    "visibility": "unpublic",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44Z56zKoiEJjAokoaE6XaUIBTdrjejdvmb-RfOxONrA&s=10",
     "servers": [
       {
         "name": "Server 1",
-        "display_name": "Server 1",
-        "url": "http://103.151.60.162:2122/play/a0f5/index.m3u8",
-        "stream_link": "http://103.151.60.162:2122/play/a0f5/index.m3u8"
+        "url": "http://103.238.115.159:8080/samitv/index.m3u8"
       }
     ]
   },
