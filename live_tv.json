@@ -4212,46 +4212,48 @@
     "logo": "https:\/\/i.ibb.co\/tw4jHB2W\/Cartoon-Network-2010-logo-svg.png",
     "servers": [
       {
-        "name": "Server 1",
-        "display_name": "Server 1",
-        "url": "https:\/\/vodzong.mjunoon.tv:8087\/streamtest\/cartoon-network-87\/playlist.m3u8",
-        "stream_link": "https:\/\/vodzong.mjunoon.tv:8087\/streamtest\/cartoon-network-87\/playlist.m3u8"
+        "name": "Ott Plus",
+        "display_name": "Ott Plus",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/cn_sd_abr\/index.m3u8",
+        "url": "https:\/\/stream.ottplus.live\/live\/cn_sd_abr\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/s3.ideationtec.live\/Cartoon_Network\/Cartoon_Network.m3u8",
-        "stream_link": "https:\/\/s3.ideationtec.live\/Cartoon_Network\/Cartoon_Network.m3u8"
+        "stream_link": "https:\/\/vodzong.mjunoon.tv:8087\/streamtest\/cartoon-network-87\/playlist.m3u8",
+        "url": "https:\/\/vodzong.mjunoon.tv:8087\/streamtest\/cartoon-network-87\/playlist.m3u8"
       },
       {
-        "name": "Ott Plus",
-        "display_name": "Ott Plus",
-        "url": "https:\/\/stream.ottplus.live\/live\/cn_sd_abr\/index.m3u8",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/cn_sd_abr\/index.m3u8"
+        "name": "Server 3",
+        "display_name": "Server 3",
+        "stream_link": "https:\/\/s3.ideationtec.live\/Cartoon_Network\/Cartoon_Network.m3u8",
+        "url": "https:\/\/s3.ideationtec.live\/Cartoon_Network\/Cartoon_Network.m3u8"
       }
     ],
     "link_live": [
       {
-        "name": "Server 1",
-        "display_name": "Server 1",
-        "url": "https:\/\/vodzong.mjunoon.tv:8087\/streamtest\/cartoon-network-87\/playlist.m3u8",
-        "stream_link": "https:\/\/vodzong.mjunoon.tv:8087\/streamtest\/cartoon-network-87\/playlist.m3u8"
+        "name": "Ott Plus",
+        "display_name": "Ott Plus",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/cn_sd_abr\/index.m3u8",
+        "url": "https:\/\/stream.ottplus.live\/live\/cn_sd_abr\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/s3.ideationtec.live\/Cartoon_Network\/Cartoon_Network.m3u8",
-        "stream_link": "https:\/\/s3.ideationtec.live\/Cartoon_Network\/Cartoon_Network.m3u8"
+        "stream_link": "https:\/\/vodzong.mjunoon.tv:8087\/streamtest\/cartoon-network-87\/playlist.m3u8",
+        "url": "https:\/\/vodzong.mjunoon.tv:8087\/streamtest\/cartoon-network-87\/playlist.m3u8"
       },
       {
-        "name": "Ott Plus",
-        "display_name": "Ott Plus",
-        "url": "https:\/\/stream.ottplus.live\/live\/cn_sd_abr\/index.m3u8",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/cn_sd_abr\/index.m3u8"
+        "name": "Server 3",
+        "display_name": "Server 3",
+        "stream_link": "https:\/\/s3.ideationtec.live\/Cartoon_Network\/Cartoon_Network.m3u8",
+        "url": "https:\/\/s3.ideationtec.live\/Cartoon_Network\/Cartoon_Network.m3u8"
       }
     ],
-    "server1": "https:\/\/vodzong.mjunoon.tv:8087\/streamtest\/cartoon-network-87\/playlist.m3u8",
-    "url": "https:\/\/vodzong.mjunoon.tv:8087\/streamtest\/cartoon-network-87\/playlist.m3u8"
+    "url": "https:\/\/stream.ottplus.live\/live\/cn_sd_abr\/index.m3u8",
+    "server1": "https:\/\/stream.ottplus.live\/live\/cn_sd_abr\/index.m3u8",
+    "server2": "https:\/\/vodzong.mjunoon.tv:8087\/streamtest\/cartoon-network-87\/playlist.m3u8",
+    "server3": "https:\/\/s3.ideationtec.live\/Cartoon_Network\/Cartoon_Network.m3u8"
   },
   {
     "id": "98",
