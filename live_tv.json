@@ -1800,20 +1800,33 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/Star-News\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/Star-News\/index.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/Star-News\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/Star-News\/index.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8"
       }
     ],
-    "server1": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8",
-    "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8"
+    "server1": "http:\/\/103.135.253.32:8080\/Star-News\/index.m3u8",
+    "url": "http:\/\/103.135.253.32:8080\/Star-News\/index.m3u8",
+    "server2": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8"
   },
   {
     "id": "38",
