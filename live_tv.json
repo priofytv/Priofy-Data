@@ -2569,8 +2569,8 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.114.11.37:8081\/Colors-bangla\/index.m3u8",
-        "url": "http:\/\/103.114.11.37:8081\/Colors-bangla\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/Color-HD\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/Color-HD\/index.m3u8"
       },
       {
         "name": "Server 2",
@@ -2601,8 +2601,8 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.114.11.37:8081\/Colors-bangla\/index.m3u8",
-        "url": "http:\/\/103.114.11.37:8081\/Colors-bangla\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/Color-HD\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/Color-HD\/index.m3u8"
       },
       {
         "name": "Server 2",
@@ -2629,8 +2629,8 @@
         "url": "http:\/\/198.195.239.50:8095\/colorsBangla\/index.m3u8"
       }
     ],
-    "server1": "http:\/\/103.114.11.37:8081\/Colors-bangla\/index.m3u8",
-    "url": "http:\/\/103.114.11.37:8081\/Colors-bangla\/index.m3u8",
+    "server1": "http:\/\/103.135.253.32:8080\/Color-HD\/index.m3u8",
+    "url": "http:\/\/103.135.253.32:8080\/Color-HD\/index.m3u8",
     "server2": "https:\/\/robitv.com\/rn\/http:\/\/103.141.70.136:8080\/\/bdtv\/restrem\/34.m3u8",
     "server3": "http:\/\/flowutc.com:80\/live\/MAGTF8AV71\/bUiJLEJKG5\/76179.ts",
     "server4": "http:\/\/rgkkw.live:80\/live\/1Aoen7elp5\/IgMJ60tmAa\/98882.ts",
