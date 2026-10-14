@@ -8,108 +8,108 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/8bb8578c-3a1d-4041-8223-7a129a9c3f8c\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
         "url": "https:\/\/live.btvlive.gov.bd\/live\/8bb8578c-3a1d-4041-8223-7a129a9c3f8c\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
+        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/8bb8578c-3a1d-4041-8223-7a129a9c3f8c\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
         "referer": "https:\/\/www.btvlive.gov.bd\/"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/btv\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/btv\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.defineatoz.com\/btv\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/btv\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/d96eb7f4-83c2-4472-9597-3568390a8ebf\/index.m3u8",
         "url": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/d96eb7f4-83c2-4472-9597-3568390a8ebf\/index.m3u8",
+        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/d96eb7f4-83c2-4472-9597-3568390a8ebf\/index.m3u8",
         "referer": "https:\/\/www.btvlive.gov.bd"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/a707f2dc-9704-413a-a67c-17c64a77c350\/index.m3u8",
         "url": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/a707f2dc-9704-413a-a67c-17c64a77c350\/index.m3u8",
+        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/a707f2dc-9704-413a-a67c-17c64a77c350\/index.m3u8",
         "referer": "https:\/\/www.btvlive.gov.bd"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/9ee3b4f9-fd0a-47c5-a135-2575c5691613\/index.m3u8",
         "url": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/9ee3b4f9-fd0a-47c5-a135-2575c5691613\/index.m3u8",
+        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/9ee3b4f9-fd0a-47c5-a135-2575c5691613\/index.m3u8",
         "referer": "https:\/\/www.btvlive.gov.bd"
       },
       {
         "name": "Server 6",
         "display_name": "Server 6",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/btvbd-office-sg.stream\/index.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/btvbd-office-sg.stream\/index.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/btvbd-office-sg.stream\/index.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/btvbd-office-sg.stream\/index.m3u8"
       },
       {
         "name": "Server 7",
         "display_name": "Server 7",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/12.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/12.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/12.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/12.m3u8"
       },
       {
         "name": "Server 8",
         "display_name": "Server 8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/TjGR1GcxKetHNVcMVxbq\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/TjGR1GcxKetHNVcMVxbq\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/TjGR1GcxKetHNVcMVxbq\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/TjGR1GcxKetHNVcMVxbq\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/8bb8578c-3a1d-4041-8223-7a129a9c3f8c\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
         "url": "https:\/\/live.btvlive.gov.bd\/live\/8bb8578c-3a1d-4041-8223-7a129a9c3f8c\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
+        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/8bb8578c-3a1d-4041-8223-7a129a9c3f8c\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
         "referer": "https:\/\/www.btvlive.gov.bd\/"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/btv\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/btv\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.defineatoz.com\/btv\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/btv\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/d96eb7f4-83c2-4472-9597-3568390a8ebf\/index.m3u8",
         "url": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/d96eb7f4-83c2-4472-9597-3568390a8ebf\/index.m3u8",
+        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/d96eb7f4-83c2-4472-9597-3568390a8ebf\/index.m3u8",
         "referer": "https:\/\/www.btvlive.gov.bd"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/a707f2dc-9704-413a-a67c-17c64a77c350\/index.m3u8",
         "url": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/a707f2dc-9704-413a-a67c-17c64a77c350\/index.m3u8",
+        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/a707f2dc-9704-413a-a67c-17c64a77c350\/index.m3u8",
         "referer": "https:\/\/www.btvlive.gov.bd"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/9ee3b4f9-fd0a-47c5-a135-2575c5691613\/index.m3u8",
         "url": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/9ee3b4f9-fd0a-47c5-a135-2575c5691613\/index.m3u8",
+        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/9ee3b4f9-fd0a-47c5-a135-2575c5691613\/index.m3u8",
         "referer": "https:\/\/www.btvlive.gov.bd"
       },
       {
         "name": "Server 6",
         "display_name": "Server 6",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/btvbd-office-sg.stream\/index.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/btvbd-office-sg.stream\/index.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/btvbd-office-sg.stream\/index.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/btvbd-office-sg.stream\/index.m3u8"
       },
       {
         "name": "Server 7",
         "display_name": "Server 7",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/12.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/12.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/12.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/12.m3u8"
       },
       {
         "name": "Server 8",
         "display_name": "Server 8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/TjGR1GcxKetHNVcMVxbq\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/TjGR1GcxKetHNVcMVxbq\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/TjGR1GcxKetHNVcMVxbq\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/TjGR1GcxKetHNVcMVxbq\/index.m3u8"
       }
     ],
     "url": "https:\/\/live.btvlive.gov.bd\/live\/8bb8578c-3a1d-4041-8223-7a129a9c3f8c\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
@@ -1775,20 +1775,33 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channels.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channels.stream\/playlist.m3u8"
+        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/live-orgin\/channels.stream\/chunks.m3u8",
+        "url": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/live-orgin\/channels.stream\/chunks.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channels.stream\/playlist.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channels.stream\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channels.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channels.stream\/playlist.m3u8"
+        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/live-orgin\/channels.stream\/chunks.m3u8",
+        "url": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/live-orgin\/channels.stream\/chunks.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channels.stream\/playlist.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channels.stream\/playlist.m3u8"
       }
     ],
-    "server1": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channels.stream\/playlist.m3u8",
-    "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channels.stream\/playlist.m3u8"
+    "url": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/live-orgin\/channels.stream\/chunks.m3u8",
+    "server1": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/live-orgin\/channels.stream\/chunks.m3u8",
+    "server2": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channels.stream\/playlist.m3u8"
   },
   {
     "id": "36",
