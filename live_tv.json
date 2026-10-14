@@ -5205,56 +5205,59 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/YrVDF8gu\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/YrVDF8gu\/index.m3u8"
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8"
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8"
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8",
+        "url": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/YrVDF8gu\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/YrVDF8gu\/index.m3u8"
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8"
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8"
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8",
+        "url": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8"
       }
     ],
-    "server1": "https:\/\/tvsen6.aynaott.com\/YrVDF8gu\/index.m3u8",
-    "url": "https:\/\/tvsen6.aynaott.com\/YrVDF8gu\/index.m3u8"
+    "server1": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
+    "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
+    "server2": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
+    "server3": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts",
+    "server4": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8"
   },
   {
     "id": "129",
