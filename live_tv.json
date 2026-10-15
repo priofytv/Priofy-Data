@@ -4372,61 +4372,64 @@
     "id": "101",
     "category": "24\/7 Live",
     "name": "Live Sports 2",
-    "logo": "https:\/\/i.ibb.co\/VW3PbPSV\/file-00000000fc0872099de4da517216de6f-1.png",
+    "logo": "https:\/\/ibb.co.com\/xt1vrgbM",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8"
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8",
+        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8"
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8",
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8",
-        "stream_link": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8"
+        "stream_link": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8",
+        "url": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8"
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8",
+        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8"
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8",
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8",
-        "stream_link": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8"
+        "stream_link": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8",
+        "url": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8"
       }
     ],
+    "url": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8",
     "server1": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8",
-    "url": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8"
+    "server2": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8",
+    "server3": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8",
+    "server4": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8"
   },
   {
     "id": "102",
