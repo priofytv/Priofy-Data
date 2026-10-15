@@ -4340,28 +4340,28 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen7.aynaott.com\/rEBp38Ax\/tracks-v1a1\/mono.ts.m3u8",
-        "url": "https:\/\/tvsen7.aynaott.com\/rEBp38Ax\/tracks-v1a1\/mono.ts.m3u8"
+        "url": "https:\/\/tvsen7.aynaott.com\/rEBp38Ax\/tracks-v1a1\/mono.ts.m3u8",
+        "stream_link": "https:\/\/tvsen7.aynaott.com\/rEBp38Ax\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8",
-        "url": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8"
+        "url": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8",
+        "stream_link": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen7.aynaott.com\/rEBp38Ax\/tracks-v1a1\/mono.ts.m3u8",
-        "url": "https:\/\/tvsen7.aynaott.com\/rEBp38Ax\/tracks-v1a1\/mono.ts.m3u8"
+        "url": "https:\/\/tvsen7.aynaott.com\/rEBp38Ax\/tracks-v1a1\/mono.ts.m3u8",
+        "stream_link": "https:\/\/tvsen7.aynaott.com\/rEBp38Ax\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8",
-        "url": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8"
+        "url": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8",
+        "stream_link": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8"
       }
     ],
     "url": "https:\/\/tvsen7.aynaott.com\/rEBp38Ax\/tracks-v1a1\/mono.ts.m3u8",
@@ -4372,7 +4372,7 @@
     "id": "101",
     "category": "24\/7 Live",
     "name": "Live Sports 2",
-    "logo": "https:\/\/ibb.co.com\/xt1vrgbM",
+    "logo": "https:\/\/i.ibb.co.com\/1trV4XN9\/sportsevent.png",
     "servers": [
       {
         "name": "Server 1",
