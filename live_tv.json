@@ -2275,72 +2275,72 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/index.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/tracks-v1a1\/mono.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen7.aynascope.net\/zY3hJ7pQ2vM5gD8s\/tracks-v1a1\/mono.ts.m3u8",
-        "url": "https:\/\/tvsen7.aynascope.net\/zY3hJ7pQ2vM5gD8s\/tracks-v1a1\/mono.ts.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/PTV\/index.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/PTV\/index.m3u8"
+        "stream_link": "https:\/\/tvsen7.aynascope.net\/zY3hJ7pQ2vM5gD8s\/tracks-v1a1\/mono.ts.m3u8",
+        "url": "https:\/\/tvsen7.aynascope.net\/zY3hJ7pQ2vM5gD8s\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/premiumtvs.space:80\/live\/samsung2861\/manager5554\/89.ts",
-        "url": "http:\/\/premiumtvs.space:80\/live\/samsung2861\/manager5554\/89.ts"
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/PTV\/index.m3u8",
+        "url": "https:\/\/flussonic.defineatoz.com\/PTV\/index.m3u8"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "stream_link": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/tracks-v1a1\/mono.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "http:\/\/premiumtvs.space:80\/live\/samsung2861\/manager5554\/89.ts",
+        "url": "http:\/\/premiumtvs.space:80\/live\/samsung2861\/manager5554\/89.ts"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/index.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/tracks-v1a1\/mono.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen7.aynascope.net\/zY3hJ7pQ2vM5gD8s\/tracks-v1a1\/mono.ts.m3u8",
-        "url": "https:\/\/tvsen7.aynascope.net\/zY3hJ7pQ2vM5gD8s\/tracks-v1a1\/mono.ts.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/PTV\/index.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/PTV\/index.m3u8"
+        "stream_link": "https:\/\/tvsen7.aynascope.net\/zY3hJ7pQ2vM5gD8s\/tracks-v1a1\/mono.ts.m3u8",
+        "url": "https:\/\/tvsen7.aynascope.net\/zY3hJ7pQ2vM5gD8s\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/premiumtvs.space:80\/live\/samsung2861\/manager5554\/89.ts",
-        "url": "http:\/\/premiumtvs.space:80\/live\/samsung2861\/manager5554\/89.ts"
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/PTV\/index.m3u8",
+        "url": "https:\/\/flussonic.defineatoz.com\/PTV\/index.m3u8"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "stream_link": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/tracks-v1a1\/mono.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "http:\/\/premiumtvs.space:80\/live\/samsung2861\/manager5554\/89.ts",
+        "url": "http:\/\/premiumtvs.space:80\/live\/samsung2861\/manager5554\/89.ts"
       }
     ],
-    "url": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/index.m3u8",
-    "server1": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/index.m3u8",
-    "server2": "https:\/\/tvsen7.aynascope.net\/zY3hJ7pQ2vM5gD8s\/tracks-v1a1\/mono.ts.m3u8",
-    "server3": "https:\/\/flussonic.defineatoz.com\/PTV\/index.m3u8",
-    "server4": "http:\/\/premiumtvs.space:80\/live\/samsung2861\/manager5554\/89.ts",
-    "server5": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/tracks-v1a1\/mono.m3u8"
+    "url": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/tracks-v1a1\/mono.m3u8",
+    "server1": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/tracks-v1a1\/mono.m3u8",
+    "server2": "http:\/\/103.135.253.32:8080\/PTV-SPORTS\/index.m3u8",
+    "server3": "https:\/\/tvsen7.aynascope.net\/zY3hJ7pQ2vM5gD8s\/tracks-v1a1\/mono.ts.m3u8",
+    "server4": "https:\/\/flussonic.defineatoz.com\/PTV\/index.m3u8",
+    "server5": "http:\/\/premiumtvs.space:80\/live\/samsung2861\/manager5554\/89.ts"
   },
   {
     "id": "48",
