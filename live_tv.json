@@ -2799,8 +2799,8 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.135.253.32:8080\/STAR-MOVIES\/index.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/STAR-MOVIES\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8"
       },
       {
         "name": "Server 2",
@@ -2819,8 +2819,8 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.135.253.32:8080\/STAR-MOVIES\/index.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/STAR-MOVIES\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8"
       },
       {
         "name": "Server 2",
@@ -2835,8 +2835,8 @@
         "url": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8"
       }
     ],
-    "url": "http:\/\/103.135.253.32:8080\/STAR-MOVIES\/index.m3u8",
-    "server1": "http:\/\/103.135.253.32:8080\/STAR-MOVIES\/index.m3u8",
+    "url": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8",
+    "server1": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8",
     "server2": "http:\/\/41.205.93.154\/STAR-PLUS\/index.m3u8",
     "server3": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8"
   },
