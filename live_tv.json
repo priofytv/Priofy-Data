@@ -20,8 +20,8 @@
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/d96eb7f4-83c2-4472-9597-3568390a8ebf\/index.m3u8",
-        "url": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/d96eb7f4-83c2-4472-9597-3568390a8ebf\/index.m3u8",
+        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/d3fb5452-4303-4c09-bd58-f274d90a5c2b\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
+        "url": "https:\/\/live.btvlive.gov.bd\/live\/d3fb5452-4303-4c09-bd58-f274d90a5c2b\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
         "referer": "https:\/\/www.btvlive.gov.bd"
       },
       {
@@ -79,8 +79,8 @@
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/d96eb7f4-83c2-4472-9597-3568390a8ebf\/index.m3u8",
-        "url": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/d96eb7f4-83c2-4472-9597-3568390a8ebf\/index.m3u8",
+        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/d3fb5452-4303-4c09-bd58-f274d90a5c2b\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
+        "url": "https:\/\/live.btvlive.gov.bd\/live\/d3fb5452-4303-4c09-bd58-f274d90a5c2b\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
         "referer": "https:\/\/www.btvlive.gov.bd"
       },
       {
@@ -125,7 +125,7 @@
     "url": "http:\/\/103.135.253.32:8080\/BTV\/index.m3u8",
     "server1": "http:\/\/103.135.253.32:8080\/BTV\/index.m3u8",
     "server2": "https:\/\/flussonic.defineatoz.com\/btv\/tracks-v1a1\/mono.m3u8",
-    "server3": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/d96eb7f4-83c2-4472-9597-3568390a8ebf\/index.m3u8",
+    "server3": "https:\/\/live.btvlive.gov.bd\/live\/d3fb5452-4303-4c09-bd58-f274d90a5c2b\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
     "server4": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/a707f2dc-9704-413a-a67c-17c64a77c350\/index.m3u8",
     "server5": "https:\/\/live.btvlive.gov.bd\/live\/ea34b6a4-0fb9-4d12-ba5d-6be0534f5155\/BD\/9ee3b4f9-fd0a-47c5-a135-2575c5691613\/index.m3u8",
     "server6": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/btvbd-office-sg.stream\/index.m3u8",
