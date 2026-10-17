@@ -7119,9 +7119,8 @@
   {
     "id": "1792243378643",
     "name": "ETV Music",
-    "category": "MUSIC",
+    "category": "🎧 Music",
     "logo": "https:\/\/jiotvimages.cdn.jio.com\/dare_images\/images\/ETVMusic12.png",
-    "server1": "https:\/\/cc-szivnms4rlah6.akamaized.net\/WWBI\/Amagi\/ETV_Music_IN\/playlist.m3u8",
     "url": "https:\/\/cc-szivnms4rlah6.akamaized.net\/WWBI\/Amagi\/ETV_Music_IN\/playlist.m3u8",
     "servers": [
       {
@@ -7138,6 +7137,7 @@
         "stream_link": "https:\/\/cc-szivnms4rlah6.akamaized.net\/WWBI\/Amagi\/ETV_Music_IN\/playlist.m3u8",
         "url": "https:\/\/cc-szivnms4rlah6.akamaized.net\/WWBI\/Amagi\/ETV_Music_IN\/playlist.m3u8"
       }
-    ]
+    ],
+    "server1": "https:\/\/cc-szivnms4rlah6.akamaized.net\/WWBI\/Amagi\/ETV_Music_IN\/playlist.m3u8"
   }
 ]
