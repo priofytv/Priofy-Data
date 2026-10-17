@@ -520,6 +520,10 @@
         "display_name": "Server 2",
         "url": "https://bd.toffeeplay.workers.dev/live/bangla_tv.m3u8",
         "stream_link": "https://bd.toffeeplay.workers.dev/live/bangla_tv.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "url": "https://bd.toffeeplay.workers.dev/live/bangla_tv_22.m3u8"
       }
     ]
   },
@@ -584,6 +588,10 @@
         "display_name": "Server 4",
         "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8",
         "stream_link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "url": "https://bd.toffeeplay.workers.dev/live/anandatv_22.m3u8"
       }
     ]
   },
