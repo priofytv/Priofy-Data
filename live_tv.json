@@ -7162,19 +7162,32 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
-        "stream_link": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8"
+        "stream_link": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
+        "url": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "https:\/\/bdix.ottking.top:8082\/Sami-TV\/video.m3u8?token=Sami-TV",
+        "url": "https:\/\/bdix.ottking.top:8082\/Sami-TV\/video.m3u8?token=Sami-TV"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
-        "stream_link": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8"
+        "stream_link": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
+        "url": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "https:\/\/bdix.ottking.top:8082\/Sami-TV\/video.m3u8?token=Sami-TV",
+        "url": "https:\/\/bdix.ottking.top:8082\/Sami-TV\/video.m3u8?token=Sami-TV"
       }
     ],
-    "server1": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8"
+    "server1": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
+    "server2": "https:\/\/bdix.ottking.top:8082\/Sami-TV\/video.m3u8?token=Sami-TV"
   },
   {
     "id": "1792248439880",
