@@ -7327,6 +7327,12 @@
       {
         "name": "Server 2",
         "display_name": "Server 2",
+        "stream_link": "https:\/\/cc-r5hupcym5oehh.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-r5hupcym5oehh\/SBUM\/RunnTV\/BollyFlix_IN\/BollyFlix_IN.m3u8",
+        "url": "https:\/\/cc-r5hupcym5oehh.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-r5hupcym5oehh\/SBUM\/RunnTV\/BollyFlix_IN\/BollyFlix_IN.m3u8"
+      },
+      {
+        "name": "Server 3",
+        "display_name": "Server 3",
         "stream_link": "https:\/\/jmp2.uk\/stvp-IN46000140Q",
         "url": "https:\/\/jmp2.uk\/stvp-IN46000140Q"
       }
@@ -7341,12 +7347,19 @@
       {
         "name": "Server 2",
         "display_name": "Server 2",
+        "stream_link": "https:\/\/cc-r5hupcym5oehh.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-r5hupcym5oehh\/SBUM\/RunnTV\/BollyFlix_IN\/BollyFlix_IN.m3u8",
+        "url": "https:\/\/cc-r5hupcym5oehh.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-r5hupcym5oehh\/SBUM\/RunnTV\/BollyFlix_IN\/BollyFlix_IN.m3u8"
+      },
+      {
+        "name": "Server 3",
+        "display_name": "Server 3",
         "stream_link": "https:\/\/jmp2.uk\/stvp-IN46000140Q",
         "url": "https:\/\/jmp2.uk\/stvp-IN46000140Q"
       }
     ],
     "server1": "https:\/\/d1bnb20pevkrom.cloudfront.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/pb-8xs28buuqfw19\/BollyFlix_IN.m3u8?ads.ads_cdn=cf&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=IN46000140Q&ads.ssai_vendor=SSSLIVE&pb_type=pb-8xs28buuqfw19_cloudfront",
-    "server2": "https:\/\/jmp2.uk\/stvp-IN46000140Q"
+    "server2": "https:\/\/cc-r5hupcym5oehh.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-r5hupcym5oehh\/SBUM\/RunnTV\/BollyFlix_IN\/BollyFlix_IN.m3u8",
+    "server3": "https:\/\/jmp2.uk\/stvp-IN46000140Q"
   },
   {
     "id": "1792256028347",
