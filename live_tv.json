@@ -880,8 +880,8 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.135.253.32:8080\/Channel-9\/index.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/Channel-9\/index.m3u8"
+        "stream_link": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY",
+        "url": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY"
       },
       {
         "name": "Server 2",
@@ -912,8 +912,8 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.135.253.32:8080\/Channel-9\/index.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/Channel-9\/index.m3u8"
+        "stream_link": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY",
+        "url": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY"
       },
       {
         "name": "Server 2",
@@ -940,8 +940,8 @@
         "url": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8"
       }
     ],
-    "url": "http:\/\/103.135.253.32:8080\/Channel-9\/index.m3u8",
-    "server1": "http:\/\/103.135.253.32:8080\/Channel-9\/index.m3u8",
+    "url": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY",
+    "server1": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY",
     "server2": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8",
     "server3": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8",
     "server4": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts",
