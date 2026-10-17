@@ -7237,5 +7237,31 @@
         "user_agent": "OTT-KING TV 1.0"
       }
     ]
+  },
+  {
+    "id": "1792252467222",
+    "name": "HUM Masala",
+    "category": "ENTERTAINMENT CHANNELS",
+    "logo": "https:\/\/assets-prod.services.toffeelive.com\/T9O9X5UBm1RY_In7UXFv\/posters\/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png",
+    "server1": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/hum_masala\/playlist.m3u8?edge-cache-token=Expires=1792253835~Starts=1792250235~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWM4MjlkNWUtZDM0Mi00Mjg3LTljZDEtMDVkMjlmMWIzZDc3In0~Signature=S6wr6zog786LNGd7xGZm72pcTUMC2--9v9AXABSmCOSpG_HvQe2ZQgrSoDhO4JwVyr53R6m2jgtYs0AceJ62DA",
+    "url": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/hum_masala\/playlist.m3u8?edge-cache-token=Expires=1792253835~Starts=1792250235~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWM4MjlkNWUtZDM0Mi00Mjg3LTljZDEtMDVkMjlmMWIzZDc3In0~Signature=S6wr6zog786LNGd7xGZm72pcTUMC2--9v9AXABSmCOSpG_HvQe2ZQgrSoDhO4JwVyr53R6m2jgtYs0AceJ62DA",
+    "servers": [
+      {
+        "name": "Server 1",
+        "display_name": "Server 1",
+        "stream_link": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/hum_masala\/playlist.m3u8?edge-cache-token=Expires=1792253835~Starts=1792250235~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWM4MjlkNWUtZDM0Mi00Mjg3LTljZDEtMDVkMjlmMWIzZDc3In0~Signature=S6wr6zog786LNGd7xGZm72pcTUMC2--9v9AXABSmCOSpG_HvQe2ZQgrSoDhO4JwVyr53R6m2jgtYs0AceJ62DA",
+        "url": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/hum_masala\/playlist.m3u8?edge-cache-token=Expires=1792253835~Starts=1792250235~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWM4MjlkNWUtZDM0Mi00Mjg3LTljZDEtMDVkMjlmMWIzZDc3In0~Signature=S6wr6zog786LNGd7xGZm72pcTUMC2--9v9AXABSmCOSpG_HvQe2ZQgrSoDhO4JwVyr53R6m2jgtYs0AceJ62DA",
+        "referer": "https:\/\/toffeelive.com\/"
+      }
+    ],
+    "link_live": [
+      {
+        "name": "Server 1",
+        "display_name": "Server 1",
+        "stream_link": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/hum_masala\/playlist.m3u8?edge-cache-token=Expires=1792253835~Starts=1792250235~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWM4MjlkNWUtZDM0Mi00Mjg3LTljZDEtMDVkMjlmMWIzZDc3In0~Signature=S6wr6zog786LNGd7xGZm72pcTUMC2--9v9AXABSmCOSpG_HvQe2ZQgrSoDhO4JwVyr53R6m2jgtYs0AceJ62DA",
+        "url": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/hum_masala\/playlist.m3u8?edge-cache-token=Expires=1792253835~Starts=1792250235~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWM4MjlkNWUtZDM0Mi00Mjg3LTljZDEtMDVkMjlmMWIzZDc3In0~Signature=S6wr6zog786LNGd7xGZm72pcTUMC2--9v9AXABSmCOSpG_HvQe2ZQgrSoDhO4JwVyr53R6m2jgtYs0AceJ62DA",
+        "referer": "https:\/\/toffeelive.com\/"
+      }
+    ]
   }
 ]
