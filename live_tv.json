@@ -7129,9 +7129,8 @@
   {
     "id": "1792248386106",
     "name": "Sami Tv",
-    "category": "BANGLADESHI",
+    "category": "🇧🇩 Bangladeshi",
     "logo": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjeX91w8ZZaKd4Q9JupVRMV2ka1l4WgzaDfyDSu7HivgDkJDIAa-JkfCYDa5Zn2eOgHG72_747A_razBFjDq239REFynCydheaGexUXW4VWUqBmuoC5lYrQT85i_mj6tKCNubGMd5xWQTSIASGcWzNpD3zuy-RRmKGIqNh-JIJnS4XV_riEQ9hPmc4L6uQ\/w391-h400\/1000087061.png",
-    "server1": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
     "url": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
     "servers": [
       {
@@ -7148,6 +7147,7 @@
         "stream_link": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
         "url": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8"
       }
-    ]
+    ],
+    "server1": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8"
   }
 ]
