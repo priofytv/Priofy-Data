@@ -6418,24 +6418,18 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts"
-      },
-      {
-        "name": "Server 2",
-        "display_name": "Server 2",
         "stream_link": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8",
         "url": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8"
       },
       {
-        "name": "Server 3",
-        "display_name": "Server 3",
+        "name": "Server 2",
+        "display_name": "Server 2",
         "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts",
         "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts"
       },
       {
-        "name": "Server 4",
-        "display_name": "Server 4",
+        "name": "Server 3",
+        "display_name": "Server 3",
         "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/20622.ts",
         "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/20622.ts"
       }
@@ -6444,33 +6438,26 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts"
-      },
-      {
-        "name": "Server 2",
-        "display_name": "Server 2",
         "stream_link": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8",
         "url": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8"
       },
       {
-        "name": "Server 3",
-        "display_name": "Server 3",
+        "name": "Server 2",
+        "display_name": "Server 2",
         "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts",
         "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts"
       },
       {
-        "name": "Server 4",
-        "display_name": "Server 4",
+        "name": "Server 3",
+        "display_name": "Server 3",
         "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/20622.ts",
         "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/20622.ts"
       }
     ],
-    "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts",
-    "server1": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts",
-    "server2": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8",
-    "server3": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts",
-    "server4": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/20622.ts"
+    "url": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8",
+    "server1": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8",
+    "server2": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts",
+    "server3": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/20622.ts"
   },
   {
     "id": "156",
