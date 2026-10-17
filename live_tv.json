@@ -7406,5 +7406,42 @@
     "id": "1792257174394",
     "servers": [],
     "link_live": []
+  },
+  {
+    "id": "1792257203930",
+    "name": "US-BD Journal 24",
+    "category": "🇧🇩 Bangladeshi",
+    "logo": "https:\/\/usbdjournal24.com\/wp-content\/uploads\/2026\/07\/150-Photoroom-e1783372793281.png",
+    "server1": "http:\/\/str24.l9574.com\/510.stream\/index.m3u8",
+    "url": "http:\/\/str24.l9574.com\/510.stream\/index.m3u8",
+    "server2": "https:\/\/live20.bozztv.com\/akamaissh101\/ssh101\/usbdjournal\/chunks.m3u8",
+    "servers": [
+      {
+        "name": "Server 1",
+        "display_name": "Server 1",
+        "stream_link": "http:\/\/str24.l9574.com\/510.stream\/index.m3u8",
+        "url": "http:\/\/str24.l9574.com\/510.stream\/index.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "https:\/\/live20.bozztv.com\/akamaissh101\/ssh101\/usbdjournal\/chunks.m3u8",
+        "url": "https:\/\/live20.bozztv.com\/akamaissh101\/ssh101\/usbdjournal\/chunks.m3u8"
+      }
+    ],
+    "link_live": [
+      {
+        "name": "Server 1",
+        "display_name": "Server 1",
+        "stream_link": "http:\/\/str24.l9574.com\/510.stream\/index.m3u8",
+        "url": "http:\/\/str24.l9574.com\/510.stream\/index.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "https:\/\/live20.bozztv.com\/akamaissh101\/ssh101\/usbdjournal\/chunks.m3u8",
+        "url": "https:\/\/live20.bozztv.com\/akamaissh101\/ssh101\/usbdjournal\/chunks.m3u8"
+      }
+    ]
   }
 ]
