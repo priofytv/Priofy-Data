@@ -2498,6 +2498,10 @@
       {
         "name": "Server 2",
         "url": "103.16.24.4:8083/14.m3u8"
+      },
+      {
+        "name": "Server 3",
+        "url": "http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8"
       }
     ]
   },
