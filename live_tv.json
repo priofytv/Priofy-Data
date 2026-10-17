@@ -1742,44 +1742,59 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9",
+        "url": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9",
+        "url": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/greentv.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/greentv.stream\/playlist.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d",
+        "url": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d"
+      },
+      {
+        "name": "Server 4",
+        "display_name": "Server 4",
+        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/greentv.stream\/playlist.m3u8",
+        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/greentv.stream\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9",
+        "url": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9",
+        "url": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/greentv.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/greentv.stream\/playlist.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d",
+        "url": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d"
+      },
+      {
+        "name": "Server 4",
+        "display_name": "Server 4",
+        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/greentv.stream\/playlist.m3u8",
+        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/greentv.stream\/playlist.m3u8"
       }
     ],
+    "url": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9",
     "server1": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9",
-    "url": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9"
+    "server2": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102650&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=4611739ee78a2cc302c5eb6c7e0ec1d9",
+    "server3": "https:\/\/tvsen6.aynaott.com\/cLuA3hJR\/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d",
+    "server4": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/greentv.stream\/playlist.m3u8"
   },
   {
     "id": "34",
@@ -7136,16 +7151,16 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
-        "url": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8"
+        "url": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
+        "stream_link": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
-        "url": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8"
+        "url": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
+        "stream_link": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8"
       }
     ],
     "server1": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8"
@@ -7160,40 +7175,40 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8",
-        "url": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8"
+        "url": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8",
+        "stream_link": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8",
-        "url": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8"
+        "url": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8",
+        "stream_link": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8",
-        "url": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8"
+        "url": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8",
+        "stream_link": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8",
-        "url": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8"
+        "url": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8",
+        "stream_link": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8",
-        "url": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8"
+        "url": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8",
+        "stream_link": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8",
-        "url": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8"
+        "url": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8",
+        "stream_link": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8"
       }
     ],
     "server1": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8",
