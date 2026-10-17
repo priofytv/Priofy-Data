@@ -7275,5 +7275,29 @@
         "url": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel16bd.stream\/tracks-v1a1\/mono.m3u8"
       }
     ]
+  },
+  {
+    "id": "1792254734846",
+    "name": "The Movie Club",
+    "category": "INDIAN",
+    "logo": "https:\/\/tvpnlogopus.samsungcloud.tv\/platform\/image\/sourcelogo\/vc\/00\/02\/34\/IN38000072R_20260325T012318SQUARE.png",
+    "server1": "https:\/\/sis-global.prod.samsungtv.plus\/v1\/tvpprd\/sc-mp2ar4ca425xo.m3u8",
+    "url": "https:\/\/sis-global.prod.samsungtv.plus\/v1\/tvpprd\/sc-mp2ar4ca425xo.m3u8",
+    "servers": [
+      {
+        "name": "Server 1",
+        "display_name": "Server 1",
+        "stream_link": "https:\/\/sis-global.prod.samsungtv.plus\/v1\/tvpprd\/sc-mp2ar4ca425xo.m3u8",
+        "url": "https:\/\/sis-global.prod.samsungtv.plus\/v1\/tvpprd\/sc-mp2ar4ca425xo.m3u8"
+      }
+    ],
+    "link_live": [
+      {
+        "name": "Server 1",
+        "display_name": "Server 1",
+        "stream_link": "https:\/\/sis-global.prod.samsungtv.plus\/v1\/tvpprd\/sc-mp2ar4ca425xo.m3u8",
+        "url": "https:\/\/sis-global.prod.samsungtv.plus\/v1\/tvpprd\/sc-mp2ar4ca425xo.m3u8"
+      }
+    ]
   }
 ]
