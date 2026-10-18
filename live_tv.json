@@ -7527,9 +7527,8 @@
   {
     "id": "1792347216276",
     "name": "DD Bangla",
-    "category": "🇳🇪 indian",
+    "category": "🇮🇳 Indian",
     "logo": "https:\/\/static.wikia.nocookie.net\/logopedia\/images\/c\/ca\/Dd_2019.webp",
-    "server1": "https:\/\/d3qs3d2rkhfqrt.cloudfront.net\/out\/v1\/7ff57cc9046b4c188b51a0d506f36e7f\/index_3.m3u8",
     "url": "https:\/\/d3qs3d2rkhfqrt.cloudfront.net\/out\/v1\/7ff57cc9046b4c188b51a0d506f36e7f\/index_3.m3u8",
     "servers": [
       {
@@ -7546,6 +7545,7 @@
         "stream_link": "https:\/\/d3qs3d2rkhfqrt.cloudfront.net\/out\/v1\/7ff57cc9046b4c188b51a0d506f36e7f\/index_3.m3u8",
         "url": "https:\/\/d3qs3d2rkhfqrt.cloudfront.net\/out\/v1\/7ff57cc9046b4c188b51a0d506f36e7f\/index_3.m3u8"
       }
-    ]
+    ],
+    "server1": "https:\/\/d3qs3d2rkhfqrt.cloudfront.net\/out\/v1\/7ff57cc9046b4c188b51a0d506f36e7f\/index_3.m3u8"
   }
 ]
