@@ -7242,36 +7242,38 @@
     "name": "Sami Tv",
     "category": "🇧🇩 Bangladeshi",
     "logo": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjeX91w8ZZaKd4Q9JupVRMV2ka1l4WgzaDfyDSu7HivgDkJDIAa-JkfCYDa5Zn2eOgHG72_747A_razBFjDq239REFynCydheaGexUXW4VWUqBmuoC5lYrQT85i_mj6tKCNubGMd5xWQTSIASGcWzNpD3zuy-RRmKGIqNh-JIJnS4XV_riEQ9hPmc4L6uQ\/w391-h400\/1000087061.png",
-    "url": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
+    "url": "http:\/\/103.238.115.159:8080\/samitv\/index.m3u8",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
-        "stream_link": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8"
+        "stream_link": "http:\/\/103.238.115.159:8080\/samitv\/index.m3u8",
+        "url": "http:\/\/103.238.115.159:8080\/samitv\/index.m3u8",
+        "user_agent": "DevM3U-Player"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/bdix.ottking.top:8082\/Sami-TV\/video.m3u8?token=Sami-TV",
-        "stream_link": "https:\/\/bdix.ottking.top:8082\/Sami-TV\/video.m3u8?token=Sami-TV"
+        "stream_link": "https:\/\/bdix.ottking.top:8082\/Sami-TV\/video.m3u8?token=Sami-TV",
+        "url": "https:\/\/bdix.ottking.top:8082\/Sami-TV\/video.m3u8?token=Sami-TV"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
-        "stream_link": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8"
+        "stream_link": "http:\/\/103.238.115.159:8080\/samitv\/index.m3u8",
+        "url": "http:\/\/103.238.115.159:8080\/samitv\/index.m3u8",
+        "user_agent": "DevM3U-Player"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/bdix.ottking.top:8082\/Sami-TV\/video.m3u8?token=Sami-TV",
-        "stream_link": "https:\/\/bdix.ottking.top:8082\/Sami-TV\/video.m3u8?token=Sami-TV"
+        "stream_link": "https:\/\/bdix.ottking.top:8082\/Sami-TV\/video.m3u8?token=Sami-TV",
+        "url": "https:\/\/bdix.ottking.top:8082\/Sami-TV\/video.m3u8?token=Sami-TV"
       }
     ],
-    "server1": "http:\/\/data2.ottking.top:8080\/Sami-tv\/index.m3u8",
+    "server1": "http:\/\/103.238.115.159:8080\/samitv\/index.m3u8",
     "server2": "https:\/\/bdix.ottking.top:8082\/Sami-TV\/video.m3u8?token=Sami-TV"
   },
   {
@@ -7534,16 +7536,16 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/d3qs3d2rkhfqrt.cloudfront.net\/out\/v1\/7ff57cc9046b4c188b51a0d506f36e7f\/index_3.m3u8",
-        "url": "https:\/\/d3qs3d2rkhfqrt.cloudfront.net\/out\/v1\/7ff57cc9046b4c188b51a0d506f36e7f\/index_3.m3u8"
+        "url": "https:\/\/d3qs3d2rkhfqrt.cloudfront.net\/out\/v1\/7ff57cc9046b4c188b51a0d506f36e7f\/index_3.m3u8",
+        "stream_link": "https:\/\/d3qs3d2rkhfqrt.cloudfront.net\/out\/v1\/7ff57cc9046b4c188b51a0d506f36e7f\/index_3.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/d3qs3d2rkhfqrt.cloudfront.net\/out\/v1\/7ff57cc9046b4c188b51a0d506f36e7f\/index_3.m3u8",
-        "url": "https:\/\/d3qs3d2rkhfqrt.cloudfront.net\/out\/v1\/7ff57cc9046b4c188b51a0d506f36e7f\/index_3.m3u8"
+        "url": "https:\/\/d3qs3d2rkhfqrt.cloudfront.net\/out\/v1\/7ff57cc9046b4c188b51a0d506f36e7f\/index_3.m3u8",
+        "stream_link": "https:\/\/d3qs3d2rkhfqrt.cloudfront.net\/out\/v1\/7ff57cc9046b4c188b51a0d506f36e7f\/index_3.m3u8"
       }
     ],
     "server1": "https:\/\/d3qs3d2rkhfqrt.cloudfront.net\/out\/v1\/7ff57cc9046b4c188b51a0d506f36e7f\/index_3.m3u8"
