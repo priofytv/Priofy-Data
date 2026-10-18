@@ -7517,35 +7517,29 @@
     "name": "Channel S",
     "category": "🇧🇩 Bangladesh",
     "logo": "https:\/\/assets-prod.services.toffeelive.com\/WyPuDJsBEef-9-uVUA_z\/posters\/ea20055c-a824-443c-8083-ce8e2da8b922.png",
-    "url": "https:\/\/tv5.genatuz070.workers.dev\/cdn\/live\/slang\/channel_s_tv_576\/channel_s_tv_576.m3u8?bitrate=1800000&channel=channel_s_tv_576&gp_id=&hdnea=exp=1789775163~acl=\/*~id=24997527701217361759883699099657~hmac=da41ae13dd0df394bbee85db1ee158496b15768c54a00087aeb1fdfdec9b9e8a",
+    "url": "https:\/\/box.bbaria.net:8083\/ChannelS\/video.m3u8",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tv5.genatuz070.workers.dev\/cdn\/live\/slang\/channel_s_tv_576\/channel_s_tv_576.m3u8?bitrate=1800000&channel=channel_s_tv_576&gp_id=&hdnea=exp=1789775163~acl=\/*~id=24997527701217361759883699099657~hmac=da41ae13dd0df394bbee85db1ee158496b15768c54a00087aeb1fdfdec9b9e8a",
-        "url": "https:\/\/tv5.genatuz070.workers.dev\/cdn\/live\/slang\/channel_s_tv_576\/channel_s_tv_576.m3u8?bitrate=1800000&channel=channel_s_tv_576&gp_id=&hdnea=exp=1789775163~acl=\/*~id=24997527701217361759883699099657~hmac=da41ae13dd0df394bbee85db1ee158496b15768c54a00087aeb1fdfdec9b9e8a"
-      },
-      {
-        "name": "Server 2",
-        "display_name": "Server 2",
-        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/playlist.m3u8",
-        "url": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/playlist.m3u8"
-      },
-      {
-        "name": "Server 3",
-        "display_name": "Server 3",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/channels.stream\/index.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/channels.stream\/index.m3u8"
-      },
-      {
-        "name": "Server 4",
-        "display_name": "Server 4",
         "stream_link": "https:\/\/box.bbaria.net:8083\/ChannelS\/video.m3u8",
         "url": "https:\/\/box.bbaria.net:8083\/ChannelS\/video.m3u8"
       },
       {
-        "name": "Server 5",
-        "display_name": "Server 5",
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "https:\/\/tv5.genatuz070.workers.dev\/cdn\/live\/slang\/channel_s_tv_576\/channel_s_tv_576.m3u8?bitrate=1800000&channel=channel_s_tv_576&gp_id=&hdnea=exp=1789775163~acl=\/*~id=24997527701217361759883699099657~hmac=da41ae13dd0df394bbee85db1ee158496b15768c54a00087aeb1fdfdec9b9e8a",
+        "url": "https:\/\/tv5.genatuz070.workers.dev\/cdn\/live\/slang\/channel_s_tv_576\/channel_s_tv_576.m3u8?bitrate=1800000&channel=channel_s_tv_576&gp_id=&hdnea=exp=1789775163~acl=\/*~id=24997527701217361759883699099657~hmac=da41ae13dd0df394bbee85db1ee158496b15768c54a00087aeb1fdfdec9b9e8a"
+      },
+      {
+        "name": "Server 3",
+        "display_name": "Server 3",
+        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/playlist.m3u8",
+        "url": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/playlist.m3u8"
+      },
+      {
+        "name": "Server 4",
+        "display_name": "Server 4",
         "stream_link": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/live-orgin\/channels.stream\/chunks.m3u8",
         "url": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/live-orgin\/channels.stream\/chunks.m3u8"
       }
@@ -7554,38 +7548,31 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tv5.genatuz070.workers.dev\/cdn\/live\/slang\/channel_s_tv_576\/channel_s_tv_576.m3u8?bitrate=1800000&channel=channel_s_tv_576&gp_id=&hdnea=exp=1789775163~acl=\/*~id=24997527701217361759883699099657~hmac=da41ae13dd0df394bbee85db1ee158496b15768c54a00087aeb1fdfdec9b9e8a",
-        "url": "https:\/\/tv5.genatuz070.workers.dev\/cdn\/live\/slang\/channel_s_tv_576\/channel_s_tv_576.m3u8?bitrate=1800000&channel=channel_s_tv_576&gp_id=&hdnea=exp=1789775163~acl=\/*~id=24997527701217361759883699099657~hmac=da41ae13dd0df394bbee85db1ee158496b15768c54a00087aeb1fdfdec9b9e8a"
-      },
-      {
-        "name": "Server 2",
-        "display_name": "Server 2",
-        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/playlist.m3u8",
-        "url": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/playlist.m3u8"
-      },
-      {
-        "name": "Server 3",
-        "display_name": "Server 3",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/channels.stream\/index.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/channels.stream\/index.m3u8"
-      },
-      {
-        "name": "Server 4",
-        "display_name": "Server 4",
         "stream_link": "https:\/\/box.bbaria.net:8083\/ChannelS\/video.m3u8",
         "url": "https:\/\/box.bbaria.net:8083\/ChannelS\/video.m3u8"
       },
       {
-        "name": "Server 5",
-        "display_name": "Server 5",
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "https:\/\/tv5.genatuz070.workers.dev\/cdn\/live\/slang\/channel_s_tv_576\/channel_s_tv_576.m3u8?bitrate=1800000&channel=channel_s_tv_576&gp_id=&hdnea=exp=1789775163~acl=\/*~id=24997527701217361759883699099657~hmac=da41ae13dd0df394bbee85db1ee158496b15768c54a00087aeb1fdfdec9b9e8a",
+        "url": "https:\/\/tv5.genatuz070.workers.dev\/cdn\/live\/slang\/channel_s_tv_576\/channel_s_tv_576.m3u8?bitrate=1800000&channel=channel_s_tv_576&gp_id=&hdnea=exp=1789775163~acl=\/*~id=24997527701217361759883699099657~hmac=da41ae13dd0df394bbee85db1ee158496b15768c54a00087aeb1fdfdec9b9e8a"
+      },
+      {
+        "name": "Server 3",
+        "display_name": "Server 3",
+        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/playlist.m3u8",
+        "url": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/playlist.m3u8"
+      },
+      {
+        "name": "Server 4",
+        "display_name": "Server 4",
         "stream_link": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/live-orgin\/channels.stream\/chunks.m3u8",
         "url": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/live-orgin\/channels.stream\/chunks.m3u8"
       }
     ],
-    "server1": "https:\/\/tv5.genatuz070.workers.dev\/cdn\/live\/slang\/channel_s_tv_576\/channel_s_tv_576.m3u8?bitrate=1800000&channel=channel_s_tv_576&gp_id=&hdnea=exp=1789775163~acl=\/*~id=24997527701217361759883699099657~hmac=da41ae13dd0df394bbee85db1ee158496b15768c54a00087aeb1fdfdec9b9e8a",
-    "server2": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/playlist.m3u8",
-    "server3": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/channels.stream\/index.m3u8",
-    "server4": "https:\/\/box.bbaria.net:8083\/ChannelS\/video.m3u8",
-    "server5": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/live-orgin\/channels.stream\/chunks.m3u8"
+    "server1": "https:\/\/box.bbaria.net:8083\/ChannelS\/video.m3u8",
+    "server2": "https:\/\/tv5.genatuz070.workers.dev\/cdn\/live\/slang\/channel_s_tv_576\/channel_s_tv_576.m3u8?bitrate=1800000&channel=channel_s_tv_576&gp_id=&hdnea=exp=1789775163~acl=\/*~id=24997527701217361759883699099657~hmac=da41ae13dd0df394bbee85db1ee158496b15768c54a00087aeb1fdfdec9b9e8a",
+    "server3": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/playlist.m3u8",
+    "server4": "https:\/\/app.ncare.live\/live-orgin\/channels.stream\/live-orgin\/channels.stream\/chunks.m3u8"
   }
 ]
