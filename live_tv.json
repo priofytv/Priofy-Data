@@ -3418,6 +3418,10 @@
         "display_name": "Server 3",
         "url": "http://202.70.146.135:8000/play/a00b/index.m3u8",
         "stream_link": "http://202.70.146.135:8000/play/a00b/index.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "url": "http://103.135.253.32:8080/Color-HD/index.m3u8"
       }
     ]
   },
