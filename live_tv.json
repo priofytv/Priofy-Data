@@ -1525,6 +1525,10 @@
         "display_name": "Server 7",
         "url": "http://198.195.239.50:8095/colorsBangla/index.m3u8",
         "stream_link": "http://198.195.239.50:8095/colorsBangla/index.m3u8"
+      },
+      {
+        "name": "Server 1",
+        "url": "http://103.114.11.37:8081/Colors-bangla/index.m3u8"
       }
     ]
   },
@@ -2059,6 +2063,10 @@
         "display_name": "Server 5",
         "url": "http://livetv.akr4m.com:8080/bdtv/restrem/03.m3u8",
         "stream_link": "http://livetv.akr4m.com:8080/bdtv/restrem/03.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "url": "http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8"
       }
     ]
   },
@@ -2317,6 +2325,10 @@
         "display_name": "Server 3",
         "url": "http://198.195.239.50:8095/NICK/index.m3u8",
         "stream_link": "http://198.195.239.50:8095/NICK/index.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "url": "http://103.135.253.32:8080/NICK/index.m3u8"
       }
     ]
   },
