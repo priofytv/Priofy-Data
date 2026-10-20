@@ -28,6 +28,13 @@
         "display_name": "Server 4",
         "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/12.m3u8",
         "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/12.m3u8"
+      },
+      {
+        "name": "Server 5",
+        "display_name": "Server 5",
+        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/524f750a-3654-4b4a-9144-90315c89fe37\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
+        "url": "https:\/\/live.btvlive.gov.bd\/live\/524f750a-3654-4b4a-9144-90315c89fe37\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
+        "referer": "https:\/\/www.btvlive.gov.bd\/"
       }
     ],
     "link_live": [
@@ -54,13 +61,21 @@
         "display_name": "Server 4",
         "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/12.m3u8",
         "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/12.m3u8"
+      },
+      {
+        "name": "Server 5",
+        "display_name": "Server 5",
+        "stream_link": "https:\/\/live.btvlive.gov.bd\/live\/524f750a-3654-4b4a-9144-90315c89fe37\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
+        "url": "https:\/\/live.btvlive.gov.bd\/live\/524f750a-3654-4b4a-9144-90315c89fe37\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8",
+        "referer": "https:\/\/www.btvlive.gov.bd\/"
       }
     ],
     "url": "http:\/\/103.135.253.32:8080\/BTV\/index.m3u8",
     "server1": "http:\/\/103.135.253.32:8080\/BTV\/index.m3u8",
     "server2": "https:\/\/flussonic.defineatoz.com\/btv\/tracks-v1a1\/mono.m3u8",
     "server3": "https:\/\/tvsen6.aynaott.com\/TjGR1GcxKetHNVcMVxbq\/index.m3u8",
-    "server4": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/12.m3u8"
+    "server4": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/12.m3u8",
+    "server5": "https:\/\/live.btvlive.gov.bd\/live\/524f750a-3654-4b4a-9144-90315c89fe37\/BD\/355ba051-9a60-48aa-adcf-5a6c64da8c5c\/index.m3u8"
   },
   {
     "id": "2",
