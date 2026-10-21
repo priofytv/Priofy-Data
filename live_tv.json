@@ -3298,6 +3298,10 @@
         "display_name": "Server 2",
         "url": "https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8",
         "stream_link": "https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8"
+      },
+      {
+        "name": "BDIP",
+        "url": "https://cdn.toffeekids.workers.dev/live/sonyyay.m3u8"
       }
     ]
   },
