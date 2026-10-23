@@ -1247,6 +1247,10 @@
         "display_name": "Server 7",
         "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
         "stream_link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
+      },
+      {
+        "name": "Server 6",
+        "url": "http://103.16.24.4:8083/14.m3u8"
       }
     ]
   },
