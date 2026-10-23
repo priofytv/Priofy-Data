@@ -6610,40 +6610,40 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8"
+        "url": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8",
+        "stream_link": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts",
-        "url": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts"
+        "url": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts",
+        "stream_link": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8",
-        "url": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8"
+        "url": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8",
+        "stream_link": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8"
+        "url": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8",
+        "stream_link": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts",
-        "url": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts"
+        "url": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts",
+        "stream_link": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8",
-        "url": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8"
+        "url": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8",
+        "stream_link": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8"
       }
     ],
     "url": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8",
@@ -7457,32 +7457,6 @@
     "server1": "https:\/\/5dd3981940faa.streamlock.net:443\/thikanatv\/thikanatv\/playlist.m3u8"
   },
   {
-    "id": "1792249893912",
-    "name": "Ten Tv Prime",
-    "category": "🇧🇩 Bangladeshi",
-    "logo": "https:\/\/i.postimg.cc\/ZKbJWkjs\/sm-ten-tv-prime.webp",
-    "url": "https:\/\/app-re.sm-monirul-islam-rs.workers.dev\/Prime-TV\/index.m3u8",
-    "servers": [
-      {
-        "name": "Server 1",
-        "display_name": "Server 1",
-        "url": "https:\/\/app-re.sm-monirul-islam-rs.workers.dev\/Prime-TV\/index.m3u8",
-        "stream_link": "https:\/\/app-re.sm-monirul-islam-rs.workers.dev\/Prime-TV\/index.m3u8",
-        "user_agent": "OTT-KING TV 1.0"
-      }
-    ],
-    "link_live": [
-      {
-        "name": "Server 1",
-        "display_name": "Server 1",
-        "url": "https:\/\/app-re.sm-monirul-islam-rs.workers.dev\/Prime-TV\/index.m3u8",
-        "stream_link": "https:\/\/app-re.sm-monirul-islam-rs.workers.dev\/Prime-TV\/index.m3u8",
-        "user_agent": "OTT-KING TV 1.0"
-      }
-    ],
-    "server1": "https:\/\/app-re.sm-monirul-islam-rs.workers.dev\/Prime-TV\/index.m3u8"
-  },
-  {
     "id": "1792254638466",
     "name": "Channel 16",
     "category": "🇧🇩 Bangladeshi",
@@ -7590,40 +7564,40 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792738828~Starts=1792735228~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=MDdji9rR_AjeRsk5_4SDvNIND-h1ey6Bi5Abm1yHWtK_v9s2kanvPCNKLj8DHssR8-jRPv-unoFcE8Vyo6l1Aw",
-        "url": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792738828~Starts=1792735228~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=MDdji9rR_AjeRsk5_4SDvNIND-h1ey6Bi5Abm1yHWtK_v9s2kanvPCNKLj8DHssR8-jRPv-unoFcE8Vyo6l1Aw"
+        "url": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792738828~Starts=1792735228~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=MDdji9rR_AjeRsk5_4SDvNIND-h1ey6Bi5Abm1yHWtK_v9s2kanvPCNKLj8DHssR8-jRPv-unoFcE8Vyo6l1Aw",
+        "stream_link": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792738828~Starts=1792735228~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=MDdji9rR_AjeRsk5_4SDvNIND-h1ey6Bi5Abm1yHWtK_v9s2kanvPCNKLj8DHssR8-jRPv-unoFcE8Vyo6l1Aw"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792319420~Starts=1792315820~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=G_nqK2rR1ErCuwdaVOdH_ZGVs7Ilm2U1zjtCzJedVae65epX6YV7Qg3IjTp_giteq6nLZ14YwtDYoDdI85ChAQ",
-        "url": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792319420~Starts=1792315820~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=G_nqK2rR1ErCuwdaVOdH_ZGVs7Ilm2U1zjtCzJedVae65epX6YV7Qg3IjTp_giteq6nLZ14YwtDYoDdI85ChAQ"
+        "url": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792319420~Starts=1792315820~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=G_nqK2rR1ErCuwdaVOdH_ZGVs7Ilm2U1zjtCzJedVae65epX6YV7Qg3IjTp_giteq6nLZ14YwtDYoDdI85ChAQ",
+        "stream_link": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792319420~Starts=1792315820~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=G_nqK2rR1ErCuwdaVOdH_ZGVs7Ilm2U1zjtCzJedVae65epX6YV7Qg3IjTp_giteq6nLZ14YwtDYoDdI85ChAQ"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792305017~Starts=1792301417~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=oiDhkFSwd0lFWA0OnXQQSdT8Ui67l7UFru8UOlvkLcmR_Gytdr4QkJqZrMC_4q-1EV1ceomnclyY9L4C53D0AQ",
-        "url": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792305017~Starts=1792301417~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=oiDhkFSwd0lFWA0OnXQQSdT8Ui67l7UFru8UOlvkLcmR_Gytdr4QkJqZrMC_4q-1EV1ceomnclyY9L4C53D0AQ"
+        "url": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792305017~Starts=1792301417~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=oiDhkFSwd0lFWA0OnXQQSdT8Ui67l7UFru8UOlvkLcmR_Gytdr4QkJqZrMC_4q-1EV1ceomnclyY9L4C53D0AQ",
+        "stream_link": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792305017~Starts=1792301417~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=oiDhkFSwd0lFWA0OnXQQSdT8Ui67l7UFru8UOlvkLcmR_Gytdr4QkJqZrMC_4q-1EV1ceomnclyY9L4C53D0AQ"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792738828~Starts=1792735228~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=MDdji9rR_AjeRsk5_4SDvNIND-h1ey6Bi5Abm1yHWtK_v9s2kanvPCNKLj8DHssR8-jRPv-unoFcE8Vyo6l1Aw",
-        "url": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792738828~Starts=1792735228~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=MDdji9rR_AjeRsk5_4SDvNIND-h1ey6Bi5Abm1yHWtK_v9s2kanvPCNKLj8DHssR8-jRPv-unoFcE8Vyo6l1Aw"
+        "url": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792738828~Starts=1792735228~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=MDdji9rR_AjeRsk5_4SDvNIND-h1ey6Bi5Abm1yHWtK_v9s2kanvPCNKLj8DHssR8-jRPv-unoFcE8Vyo6l1Aw",
+        "stream_link": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792738828~Starts=1792735228~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=MDdji9rR_AjeRsk5_4SDvNIND-h1ey6Bi5Abm1yHWtK_v9s2kanvPCNKLj8DHssR8-jRPv-unoFcE8Vyo6l1Aw"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792319420~Starts=1792315820~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=G_nqK2rR1ErCuwdaVOdH_ZGVs7Ilm2U1zjtCzJedVae65epX6YV7Qg3IjTp_giteq6nLZ14YwtDYoDdI85ChAQ",
-        "url": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792319420~Starts=1792315820~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=G_nqK2rR1ErCuwdaVOdH_ZGVs7Ilm2U1zjtCzJedVae65epX6YV7Qg3IjTp_giteq6nLZ14YwtDYoDdI85ChAQ"
+        "url": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792319420~Starts=1792315820~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=G_nqK2rR1ErCuwdaVOdH_ZGVs7Ilm2U1zjtCzJedVae65epX6YV7Qg3IjTp_giteq6nLZ14YwtDYoDdI85ChAQ",
+        "stream_link": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792319420~Starts=1792315820~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=G_nqK2rR1ErCuwdaVOdH_ZGVs7Ilm2U1zjtCzJedVae65epX6YV7Qg3IjTp_giteq6nLZ14YwtDYoDdI85ChAQ"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792305017~Starts=1792301417~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=oiDhkFSwd0lFWA0OnXQQSdT8Ui67l7UFru8UOlvkLcmR_Gytdr4QkJqZrMC_4q-1EV1ceomnclyY9L4C53D0AQ",
-        "url": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792305017~Starts=1792301417~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=oiDhkFSwd0lFWA0OnXQQSdT8Ui67l7UFru8UOlvkLcmR_Gytdr4QkJqZrMC_4q-1EV1ceomnclyY9L4C53D0AQ"
+        "url": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792305017~Starts=1792301417~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=oiDhkFSwd0lFWA0OnXQQSdT8Ui67l7UFru8UOlvkLcmR_Gytdr4QkJqZrMC_4q-1EV1ceomnclyY9L4C53D0AQ",
+        "stream_link": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792305017~Starts=1792301417~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=oiDhkFSwd0lFWA0OnXQQSdT8Ui67l7UFru8UOlvkLcmR_Gytdr4QkJqZrMC_4q-1EV1ceomnclyY9L4C53D0AQ"
       }
     ],
     "server1": "https:\/\/prod-linear-media.toffeelive.com\/cdn\/live\/toffee_movie\/playlist.m3u8?edge-cache-token=Expires=1792738828~Starts=1792735228~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=MDdji9rR_AjeRsk5_4SDvNIND-h1ey6Bi5Abm1yHWtK_v9s2kanvPCNKLj8DHssR8-jRPv-unoFcE8Vyo6l1Aw",
