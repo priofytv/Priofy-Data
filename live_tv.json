@@ -1536,61 +1536,64 @@
     "id": "28",
     "category": "🇧🇩 Bangladeshi",
     "name": "N TV",
-    "logo": "https:\/\/i.ibb.co\/0yjvV7zR\/NTV-Bangladesh-logo-svg-1.png",
+    "logo": "https:\/\/assets-prod.services.toffeelive.com\/wHLVIJ4B7a1HdMSjaGLJ\/posters\/83b89557-3ae8-4ca8-8c5d-3c617359c738.png",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8"
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8",
+        "url": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440"
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440",
+        "url": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8"
+        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8",
+        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8",
-        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8"
+        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8",
+        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8"
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8",
+        "url": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440"
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440",
+        "url": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8"
+        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8",
+        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8",
-        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8"
+        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8",
+        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8"
       }
     ],
+    "url": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8",
     "server1": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8",
-    "url": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8"
+    "server2": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440",
+    "server3": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8",
+    "server4": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8"
   },
   {
     "id": "29",
