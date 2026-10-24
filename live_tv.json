@@ -579,49 +579,51 @@
     "id": "10",
     "category": "🇧🇩 Bangladeshi",
     "name": "DBC News",
-    "logo": "https:\/\/i.ibb.co\/4g8zSV6J\/svg.png",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcT-J1dct4N4MV56Gms1sEwgLUkozCw-lI8eedFMPQ23vBD3SQxVUKf4pEg&s=10",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8",
-        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8"
+        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8",
+        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8",
-        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8"
+        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8",
+        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts"
       }
     ],
+    "url": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8",
     "server1": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8",
-    "url": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8"
+    "server2": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8",
+    "server3": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts"
   },
   {
     "id": "11",
