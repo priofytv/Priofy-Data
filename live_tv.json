@@ -134,64 +134,64 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8",
-        "url": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8"
+        "url": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8",
+        "stream_link": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8",
-        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8"
+        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8",
+        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv_2.m3u8",
-        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv_2.m3u8"
+        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv_2.m3u8",
+        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv_2.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8",
-        "url": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8"
+        "url": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8",
+        "stream_link": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8",
-        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8"
+        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8",
+        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv_2.m3u8",
-        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv_2.m3u8"
+        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv_2.m3u8",
+        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv_2.m3u8"
       }
     ],
     "url": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8",
@@ -210,40 +210,40 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/tracks-v1a1\/mono.m3u8",
-        "url": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/tracks-v1a1\/mono.m3u8"
+        "url": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_1_hd_abr\/live\/channel_1_hd_720\/chunks.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/channel_1_hd_abr\/live\/channel_1_hd_720\/chunks.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/channel_1_hd_abr\/live\/channel_1_hd_720\/chunks.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_1_hd_abr\/live\/channel_1_hd_720\/chunks.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/playlist.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/playlist.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/tracks-v1a1\/mono.m3u8",
-        "url": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/tracks-v1a1\/mono.m3u8"
+        "url": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_1_hd_abr\/live\/channel_1_hd_720\/chunks.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/channel_1_hd_abr\/live\/channel_1_hd_720\/chunks.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/channel_1_hd_abr\/live\/channel_1_hd_720\/chunks.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_1_hd_abr\/live\/channel_1_hd_720\/chunks.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/playlist.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/playlist.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/playlist.m3u8"
       }
     ],
     "url": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel1bd.stream\/tracks-v1a1\/mono.m3u8",
@@ -308,52 +308,52 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/atnbangla\/index.m3u8?",
-        "url": "https:\/\/tvsen5.aynaott.com\/atnbangla\/index.m3u8?"
+        "url": "https:\/\/tvsen5.aynaott.com\/atnbangla\/index.m3u8?",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/atnbangla\/index.m3u8?"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/P3y2URgG7LDe\/index.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/P3y2URgG7LDe\/index.m3u8"
+        "url": "https:\/\/tvsen5.aynaott.com\/P3y2URgG7LDe\/index.m3u8",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/P3y2URgG7LDe\/index.m3u8"
       },
       {
         "name": "Server 3 BD",
         "display_name": "Server 3 BD",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/atnbd-8-org.stream\/index.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/atnbd-8-org.stream\/index.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/atnbd-8-org.stream\/index.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/atnbd-8-org.stream\/index.m3u8"
       },
       {
         "name": "Server 4 UK",
         "display_name": "Server 4 UK",
-        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/atnbanglauk-off.stream\/playlist.m3u8",
-        "url": "https:\/\/app.ncare.live\/live-orgin\/atnbanglauk-off.stream\/playlist.m3u8"
+        "url": "https:\/\/app.ncare.live\/live-orgin\/atnbanglauk-off.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/atnbanglauk-off.stream\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/atnbangla\/index.m3u8?",
-        "url": "https:\/\/tvsen5.aynaott.com\/atnbangla\/index.m3u8?"
+        "url": "https:\/\/tvsen5.aynaott.com\/atnbangla\/index.m3u8?",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/atnbangla\/index.m3u8?"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/P3y2URgG7LDe\/index.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/P3y2URgG7LDe\/index.m3u8"
+        "url": "https:\/\/tvsen5.aynaott.com\/P3y2URgG7LDe\/index.m3u8",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/P3y2URgG7LDe\/index.m3u8"
       },
       {
         "name": "Server 3 BD",
         "display_name": "Server 3 BD",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/atnbd-8-org.stream\/index.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/atnbd-8-org.stream\/index.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/atnbd-8-org.stream\/index.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/atnbd-8-org.stream\/index.m3u8"
       },
       {
         "name": "Server 4 UK",
         "display_name": "Server 4 UK",
-        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/atnbanglauk-off.stream\/playlist.m3u8",
-        "url": "https:\/\/app.ncare.live\/live-orgin\/atnbanglauk-off.stream\/playlist.m3u8"
+        "url": "https:\/\/app.ncare.live\/live-orgin\/atnbanglauk-off.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/atnbanglauk-off.stream\/playlist.m3u8"
       }
     ],
     "url": "https:\/\/tvsen5.aynaott.com\/atnbangla\/index.m3u8?",
@@ -371,40 +371,40 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts"
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts",
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts"
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts",
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts"
       }
     ],
     "url": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8",
@@ -421,40 +421,40 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8"
+        "url": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8"
+        "url": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts"
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts",
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8"
+        "url": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8"
+        "url": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts"
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts",
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts"
       }
     ],
     "url": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8",
@@ -471,52 +471,52 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8"
       },
       {
         "name": "Ayna",
         "display_name": "Ayna",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8",
-        "url": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8"
+        "url": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8",
+        "stream_link": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8",
-        "url": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8"
+        "url": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8",
+        "stream_link": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8"
       },
       {
         "name": "Ayna",
         "display_name": "Ayna",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8",
-        "url": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8"
+        "url": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8",
+        "stream_link": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8",
-        "url": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8"
+        "url": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8",
+        "stream_link": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8"
       }
     ],
     "url": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8",
@@ -534,40 +534,40 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8",
-        "url": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8"
+        "url": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8",
+        "stream_link": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8",
-        "url": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8"
+        "url": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8",
+        "stream_link": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts"
       }
     ],
     "url": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8",
@@ -584,40 +584,40 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8",
-        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8"
+        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8",
+        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8",
-        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8"
+        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8",
+        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/DBC-News.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/420.ts"
       }
     ],
     "url": "https:\/\/tvsen6.aynaott.com\/pF66Tkz0qFwP2aMMqHyt\/index.m3u8",
@@ -634,52 +634,52 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/independent_tv_abr\/live\/independent_tv_720\/chunks.m3u8",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/independent_tv_abr\/live\/independent_tv_720\/chunks.m3u8"
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/independent_tv_abr\/live\/independent_tv_720\/chunks.m3u8",
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/independent_tv_abr\/live\/independent_tv_720\/chunks.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/23.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/23.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/23.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/23.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/independent-8-org.stream\/playlist.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/independent-8-org.stream\/playlist.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/independent-8-org.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/independent-8-org.stream\/playlist.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/999.ts",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/999.ts"
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/999.ts",
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/999.ts"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/independent_tv_abr\/live\/independent_tv_720\/chunks.m3u8",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/independent_tv_abr\/live\/independent_tv_720\/chunks.m3u8"
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/independent_tv_abr\/live\/independent_tv_720\/chunks.m3u8",
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/independent_tv_abr\/live\/independent_tv_720\/chunks.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/23.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/23.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/23.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/23.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/independent-8-org.stream\/playlist.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/independent-8-org.stream\/playlist.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/independent-8-org.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/independent-8-org.stream\/playlist.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/999.ts",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/999.ts"
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/999.ts",
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/999.ts"
       }
     ],
     "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/independent_tv_abr\/live\/independent_tv_720\/chunks.m3u8",
@@ -805,40 +805,40 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8",
-        "url": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8"
+        "url": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8",
+        "stream_link": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8"
       },
       {
         "name": "Jagobd",
         "display_name": "Jagobd",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8",
-        "url": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8"
+        "url": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8",
+        "stream_link": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8"
       },
       {
         "name": "Jagobd",
         "display_name": "Jagobd",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8"
       }
     ],
     "url": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8",
@@ -855,52 +855,52 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8",
-        "url": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8"
+        "url": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8",
+        "stream_link": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts"
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts",
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8",
-        "url": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8"
+        "url": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8",
+        "stream_link": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts"
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts",
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts"
       }
     ],
     "url": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8",
@@ -918,64 +918,64 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY",
-        "url": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY"
+        "url": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY",
+        "stream_link": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts"
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts",
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY",
-        "url": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY"
+        "url": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY",
+        "stream_link": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts"
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts",
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8"
       }
     ],
     "url": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY",
@@ -1174,16 +1174,16 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8",
-        "url": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8"
+        "url": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8",
-        "url": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8"
+        "url": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8"
       }
     ],
     "url": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8",
@@ -1246,40 +1246,40 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts"
       }
     ],
     "url": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8",
@@ -1344,16 +1344,16 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/stream.shariarsuvo.com\/hls5\/rajdhanicable.m3u8",
-        "url": "https:\/\/stream.shariarsuvo.com\/hls5\/rajdhanicable.m3u8"
+        "url": "https:\/\/stream.shariarsuvo.com\/hls5\/rajdhanicable.m3u8",
+        "stream_link": "https:\/\/stream.shariarsuvo.com\/hls5\/rajdhanicable.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/stream.shariarsuvo.com\/hls5\/rajdhanicable.m3u8",
-        "url": "https:\/\/stream.shariarsuvo.com\/hls5\/rajdhanicable.m3u8"
+        "url": "https:\/\/stream.shariarsuvo.com\/hls5\/rajdhanicable.m3u8",
+        "stream_link": "https:\/\/stream.shariarsuvo.com\/hls5\/rajdhanicable.m3u8"
       }
     ],
     "url": "https:\/\/stream.shariarsuvo.com\/hls5\/rajdhanicable.m3u8",
@@ -1428,40 +1428,40 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/116.204.149.16\/satv\/index.m3u8",
-        "url": "http:\/\/116.204.149.16\/satv\/index.m3u8"
+        "url": "http:\/\/116.204.149.16\/satv\/index.m3u8",
+        "stream_link": "http:\/\/116.204.149.16\/satv\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/116.204.149.16\/satv\/index.m3u8",
-        "url": "http:\/\/116.204.149.16\/satv\/index.m3u8"
+        "url": "http:\/\/116.204.149.16\/satv\/index.m3u8",
+        "stream_link": "http:\/\/116.204.149.16\/satv\/index.m3u8"
       }
     ],
     "url": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8",
@@ -1478,52 +1478,52 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/AkyX5dunzju4cpo26dr7\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/AkyX5dunzju4cpo26dr7\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/AkyX5dunzju4cpo26dr7\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/AkyX5dunzju4cpo26dr7\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/Mohona-TV.m3u8",
-        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/Mohona-TV.m3u8"
+        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/Mohona-TV.m3u8",
+        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/Mohona-TV.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/397.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/397.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/397.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/397.ts"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/mohona_tv_abr\/index.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/mohona_tv_abr\/index.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/mohona_tv_abr\/index.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/mohona_tv_abr\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/AkyX5dunzju4cpo26dr7\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/AkyX5dunzju4cpo26dr7\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/AkyX5dunzju4cpo26dr7\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/AkyX5dunzju4cpo26dr7\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/Mohona-TV.m3u8",
-        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/Mohona-TV.m3u8"
+        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/Mohona-TV.m3u8",
+        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/Mohona-TV.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/397.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/397.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/397.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/397.ts"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/mohona_tv_abr\/index.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/mohona_tv_abr\/index.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/mohona_tv_abr\/index.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/mohona_tv_abr\/index.m3u8"
       }
     ],
     "url": "https:\/\/tvsen6.aynaott.com\/AkyX5dunzju4cpo26dr7\/index.m3u8",
@@ -1541,52 +1541,52 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8"
+        "url": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440",
-        "url": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440"
+        "url": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8",
-        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8"
+        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8",
-        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8"
+        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8",
+        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8"
+        "url": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440",
-        "url": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440"
+        "url": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/JHPxHAWonztVucyc4GzF\/tracks-v1a1\/mono.ts.m3u8?e=1782665440"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8",
-        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8"
+        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8",
-        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8"
+        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8",
+        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/n_tv.m3u8"
       }
     ],
     "url": "https:\/\/tvsen5.aynaott.com\/xV4jEKf3D9zc\/index.m3u8",
@@ -1604,16 +1604,16 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8"
       }
     ],
     "url": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8",
@@ -1940,40 +1940,40 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/box.bbaria.net\/Nagorik_TV\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/box.bbaria.net\/Nagorik_TV\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/box.bbaria.net\/Nagorik_TV\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/box.bbaria.net\/Nagorik_TV\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/38.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/38.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/38.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/38.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/box.bbaria.net\/Nagorik_TV\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/box.bbaria.net\/Nagorik_TV\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/box.bbaria.net\/Nagorik_TV\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/box.bbaria.net\/Nagorik_TV\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/38.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/38.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/38.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/38.m3u8"
       }
     ],
     "url": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8",
@@ -1990,28 +1990,28 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.135.253.32:8080\/Star-News\/index.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/Star-News\/index.m3u8"
+        "url": "http:\/\/103.135.253.32:8080\/Star-News\/index.m3u8",
+        "stream_link": "http:\/\/103.135.253.32:8080\/Star-News\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.135.253.32:8080\/Star-News\/index.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/Star-News\/index.m3u8"
+        "url": "http:\/\/103.135.253.32:8080\/Star-News\/index.m3u8",
+        "stream_link": "http:\/\/103.135.253.32:8080\/Star-News\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/starnewsbd.stream\/playlist.m3u8"
       }
     ],
     "url": "http:\/\/103.135.253.32:8080\/Star-News\/index.m3u8",
@@ -2027,52 +2027,52 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/global_tv_abr\/index.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/global_tv_abr\/index.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/global_tv_abr\/index.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/global_tv_abr\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/y0q9eFAuquAtvTxRzUHq\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/y0q9eFAuquAtvTxRzUHq\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/y0q9eFAuquAtvTxRzUHq\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/y0q9eFAuquAtvTxRzUHq\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/Global-tv.stream\/playlist.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/Global-tv.stream\/playlist.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/Global-tv.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/Global-tv.stream\/playlist.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/116.204.149.16\/globaltv\/tracks-v1a1\/mono.m3u8",
-        "url": "http:\/\/116.204.149.16\/globaltv\/tracks-v1a1\/mono.m3u8"
+        "url": "http:\/\/116.204.149.16\/globaltv\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "http:\/\/116.204.149.16\/globaltv\/tracks-v1a1\/mono.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/global_tv_abr\/index.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/global_tv_abr\/index.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/global_tv_abr\/index.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/global_tv_abr\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/y0q9eFAuquAtvTxRzUHq\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/y0q9eFAuquAtvTxRzUHq\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/y0q9eFAuquAtvTxRzUHq\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/y0q9eFAuquAtvTxRzUHq\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/Global-tv.stream\/playlist.m3u8",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/Global-tv.stream\/playlist.m3u8"
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/Global-tv.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/Global-tv.stream\/playlist.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/116.204.149.16\/globaltv\/tracks-v1a1\/mono.m3u8",
-        "url": "http:\/\/116.204.149.16\/globaltv\/tracks-v1a1\/mono.m3u8"
+        "url": "http:\/\/116.204.149.16\/globaltv\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "http:\/\/116.204.149.16\/globaltv\/tracks-v1a1\/mono.m3u8"
       }
     ],
     "url": "https:\/\/stream.ottplus.live\/live\/global_tv_abr\/index.m3u8",
@@ -2090,28 +2090,28 @@
       {
         "name": "Jagobd",
         "display_name": "Jagobd",
-        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/timetvusa.stream\/playlist.m3u8",
-        "url": "https:\/\/app.ncare.live\/live-orgin\/timetvusa.stream\/playlist.m3u8"
+        "url": "https:\/\/app.ncare.live\/live-orgin\/timetvusa.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/timetvusa.stream\/playlist.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/cdn.streamcast.xyz\/timetv\/index.fmp4.m3u8",
-        "url": "https:\/\/cdn.streamcast.xyz\/timetv\/index.fmp4.m3u8"
+        "url": "https:\/\/cdn.streamcast.xyz\/timetv\/index.fmp4.m3u8",
+        "stream_link": "https:\/\/cdn.streamcast.xyz\/timetv\/index.fmp4.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Jagobd",
         "display_name": "Jagobd",
-        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/timetvusa.stream\/playlist.m3u8",
-        "url": "https:\/\/app.ncare.live\/live-orgin\/timetvusa.stream\/playlist.m3u8"
+        "url": "https:\/\/app.ncare.live\/live-orgin\/timetvusa.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/timetvusa.stream\/playlist.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/cdn.streamcast.xyz\/timetv\/index.fmp4.m3u8",
-        "url": "https:\/\/cdn.streamcast.xyz\/timetv\/index.fmp4.m3u8"
+        "url": "https:\/\/cdn.streamcast.xyz\/timetv\/index.fmp4.m3u8",
+        "stream_link": "https:\/\/cdn.streamcast.xyz\/timetv\/index.fmp4.m3u8"
       }
     ],
     "url": "https:\/\/app.ncare.live\/live-orgin\/timetvusa.stream\/playlist.m3u8",
@@ -2127,16 +2127,16 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/iptvbd.live\/metv1080\/1080.m3u8",
-        "url": "https:\/\/iptvbd.live\/metv1080\/1080.m3u8"
+        "url": "https:\/\/iptvbd.live\/metv1080\/1080.m3u8",
+        "stream_link": "https:\/\/iptvbd.live\/metv1080\/1080.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/iptvbd.live\/metv1080\/1080.m3u8",
-        "url": "https:\/\/iptvbd.live\/metv1080\/1080.m3u8"
+        "url": "https:\/\/iptvbd.live\/metv1080\/1080.m3u8",
+        "stream_link": "https:\/\/iptvbd.live\/metv1080\/1080.m3u8"
       }
     ],
     "url": "https:\/\/iptvbd.live\/metv1080\/1080.m3u8",
@@ -2151,16 +2151,16 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8",
-        "url": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8"
+        "url": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8",
+        "stream_link": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8",
-        "url": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8"
+        "url": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8",
+        "stream_link": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8"
       }
     ],
     "url": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8",
@@ -2175,16 +2175,16 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8",
-        "url": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8"
+        "url": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8",
+        "stream_link": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8",
-        "url": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8"
+        "url": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8",
+        "stream_link": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8"
       }
     ],
     "url": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8",
@@ -2223,16 +2223,16 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI\/chsukoff.stream\/playlist.m3u8",
-        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI\/chsukoff.stream\/playlist.m3u8"
+        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI\/chsukoff.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI\/chsukoff.stream\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI\/chsukoff.stream\/playlist.m3u8",
-        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI\/chsukoff.stream\/playlist.m3u8"
+        "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI\/chsukoff.stream\/playlist.m3u8",
+        "stream_link": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI\/chsukoff.stream\/playlist.m3u8"
       }
     ],
     "url": "https:\/\/app.ncare.live\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI\/chsukoff.stream\/playlist.m3u8",
@@ -2247,136 +2247,136 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a030\/index.m3u8",
-        "url": "http:\/\/103.151.60.162:2122\/play\/a030\/index.m3u8"
+        "url": "http:\/\/103.151.60.162:2122\/play\/a030\/index.m3u8",
+        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a030\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8"
+        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "stream_link": "https:\/\/flussonic.deltainfonet.com\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.deltainfonet.com\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.deltainfonet.com\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.deltainfonet.com\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 6",
         "display_name": "Server 6",
-        "stream_link": "http:\/\/45.117.61.162\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8",
-        "url": "http:\/\/45.117.61.162\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8"
+        "url": "http:\/\/45.117.61.162\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "http:\/\/45.117.61.162\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 7",
         "display_name": "Server 7",
-        "stream_link": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8",
-        "url": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8"
+        "url": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8",
+        "stream_link": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8"
       },
       {
         "name": "Server 8",
         "display_name": "Server 8",
-        "stream_link": "http:\/\/103.114.11.37:8081\/T-Sports-FHD\/index.m3u8?token=dsgdfgsdfgasf",
-        "url": "http:\/\/103.114.11.37:8081\/T-Sports-FHD\/index.m3u8?token=dsgdfgsdfgasf"
+        "url": "http:\/\/103.114.11.37:8081\/T-Sports-FHD\/index.m3u8?token=dsgdfgsdfgasf",
+        "stream_link": "http:\/\/103.114.11.37:8081\/T-Sports-FHD\/index.m3u8?token=dsgdfgsdfgasf"
       },
       {
         "name": "Server 9",
         "display_name": "Server 9",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 10",
         "display_name": "Server 10",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8"
+        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8"
       },
       {
         "name": "Server 11",
         "display_name": "Server 11",
-        "stream_link": "http:\/\/103.16.24.4:8083\/14.m3u8",
-        "url": "http:\/\/103.16.24.4:8083\/14.m3u8"
+        "url": "http:\/\/103.16.24.4:8083\/14.m3u8",
+        "stream_link": "http:\/\/103.16.24.4:8083\/14.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a030\/index.m3u8",
-        "url": "http:\/\/103.151.60.162:2122\/play\/a030\/index.m3u8"
+        "url": "http:\/\/103.151.60.162:2122\/play\/a030\/index.m3u8",
+        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a030\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/02.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8"
+        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjkl\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "stream_link": "https:\/\/flussonic.deltainfonet.com\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.deltainfonet.com\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.deltainfonet.com\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.deltainfonet.com\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 6",
         "display_name": "Server 6",
-        "stream_link": "http:\/\/45.117.61.162\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8",
-        "url": "http:\/\/45.117.61.162\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8"
+        "url": "http:\/\/45.117.61.162\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "http:\/\/45.117.61.162\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 7",
         "display_name": "Server 7",
-        "stream_link": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8",
-        "url": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8"
+        "url": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8",
+        "stream_link": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8"
       },
       {
         "name": "Server 8",
         "display_name": "Server 8",
-        "stream_link": "http:\/\/103.114.11.37:8081\/T-Sports-FHD\/index.m3u8?token=dsgdfgsdfgasf",
-        "url": "http:\/\/103.114.11.37:8081\/T-Sports-FHD\/index.m3u8?token=dsgdfgsdfgasf"
+        "url": "http:\/\/103.114.11.37:8081\/T-Sports-FHD\/index.m3u8?token=dsgdfgsdfgasf",
+        "stream_link": "http:\/\/103.114.11.37:8081\/T-Sports-FHD\/index.m3u8?token=dsgdfgsdfgasf"
       },
       {
         "name": "Server 9",
         "display_name": "Server 9",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 10",
         "display_name": "Server 10",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8"
+        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8"
       },
       {
         "name": "Server 11",
         "display_name": "Server 11",
-        "stream_link": "http:\/\/103.16.24.4:8083\/14.m3u8",
-        "url": "http:\/\/103.16.24.4:8083\/14.m3u8"
+        "url": "http:\/\/103.16.24.4:8083\/14.m3u8",
+        "stream_link": "http:\/\/103.16.24.4:8083\/14.m3u8"
       }
     ],
     "url": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8",
@@ -2617,28 +2617,28 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/Starsports2\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/Starsports2\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.defineatoz.com\/Starsports2\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/Starsports2\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen7.aynaott.com\/ssport2hd\/index.m3u8",
-        "url": "https:\/\/tvsen7.aynaott.com\/ssport2hd\/index.m3u8"
+        "url": "https:\/\/tvsen7.aynaott.com\/ssport2hd\/index.m3u8",
+        "stream_link": "https:\/\/tvsen7.aynaott.com\/ssport2hd\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/Starsports2\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/Starsports2\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.defineatoz.com\/Starsports2\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/Starsports2\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen7.aynaott.com\/ssport2hd\/index.m3u8",
-        "url": "https:\/\/tvsen7.aynaott.com\/ssport2hd\/index.m3u8"
+        "url": "https:\/\/tvsen7.aynaott.com\/ssport2hd\/index.m3u8",
+        "stream_link": "https:\/\/tvsen7.aynaott.com\/ssport2hd\/index.m3u8"
       }
     ],
     "url": "https:\/\/flussonic.defineatoz.com\/Starsports2\/tracks-v1a1\/mono.m3u8",
@@ -2654,52 +2654,52 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/Starsports1\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/Starsports1\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.defineatoz.com\/Starsports1\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/Starsports1\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/starsportshindiii.pages.dev\/index.m3u8",
-        "url": "https:\/\/starsportshindiii.pages.dev\/index.m3u8"
+        "url": "https:\/\/starsportshindiii.pages.dev\/index.m3u8",
+        "stream_link": "https:\/\/starsportshindiii.pages.dev\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/streamhub.dhruvpatil681.workers.dev\/1088.m3u8",
-        "url": "https:\/\/streamhub.dhruvpatil681.workers.dev\/1088.m3u8"
+        "url": "https:\/\/streamhub.dhruvpatil681.workers.dev\/1088.m3u8",
+        "stream_link": "https:\/\/streamhub.dhruvpatil681.workers.dev\/1088.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/39.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/39.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/39.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/39.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/Starsports1\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/Starsports1\/tracks-v1a1\/mono.m3u8"
+        "url": "https:\/\/flussonic.defineatoz.com\/Starsports1\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/Starsports1\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/starsportshindiii.pages.dev\/index.m3u8",
-        "url": "https:\/\/starsportshindiii.pages.dev\/index.m3u8"
+        "url": "https:\/\/starsportshindiii.pages.dev\/index.m3u8",
+        "stream_link": "https:\/\/starsportshindiii.pages.dev\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/streamhub.dhruvpatil681.workers.dev\/1088.m3u8",
-        "url": "https:\/\/streamhub.dhruvpatil681.workers.dev\/1088.m3u8"
+        "url": "https:\/\/streamhub.dhruvpatil681.workers.dev\/1088.m3u8",
+        "stream_link": "https:\/\/streamhub.dhruvpatil681.workers.dev\/1088.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/39.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/39.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/39.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/39.m3u8"
       }
     ],
     "url": "https:\/\/flussonic.defineatoz.com\/Starsports1\/tracks-v1a1\/mono.m3u8",
@@ -2777,52 +2777,52 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/smil:zeebangla.smil\/chunklist_b2628000.m3u8",
-        "url": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/smil:zeebangla.smil\/chunklist_b2628000.m3u8"
+        "url": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/smil:zeebangla.smil\/chunklist_b2628000.m3u8",
+        "stream_link": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/smil:zeebangla.smil\/chunklist_b2628000.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_720\/index.m3u8",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_720\/index.m3u8"
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_720\/index.m3u8",
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_720\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/zee_bangla_abr\/live\/zee_bangla_720\/chunks.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/zee_bangla_abr\/live\/zee_bangla_720\/chunks.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/zee_bangla_abr\/live\/zee_bangla_720\/chunks.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/zee_bangla_abr\/live\/zee_bangla_720\/chunks.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/ZeeBangla\/tracks-v1a1\/mono.ts.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/ZeeBangla\/tracks-v1a1\/mono.ts.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/ZeeBangla\/tracks-v1a1\/mono.ts.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/ZeeBangla\/tracks-v1a1\/mono.ts.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/smil:zeebangla.smil\/chunklist_b2628000.m3u8",
-        "url": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/smil:zeebangla.smil\/chunklist_b2628000.m3u8"
+        "url": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/smil:zeebangla.smil\/chunklist_b2628000.m3u8",
+        "stream_link": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/smil:zeebangla.smil\/chunklist_b2628000.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_720\/index.m3u8",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_720\/index.m3u8"
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_720\/index.m3u8",
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_720\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/zee_bangla_abr\/live\/zee_bangla_720\/chunks.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/zee_bangla_abr\/live\/zee_bangla_720\/chunks.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/zee_bangla_abr\/live\/zee_bangla_720\/chunks.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/zee_bangla_abr\/live\/zee_bangla_720\/chunks.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/ZeeBangla\/tracks-v1a1\/mono.ts.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/ZeeBangla\/tracks-v1a1\/mono.ts.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/ZeeBangla\/tracks-v1a1\/mono.ts.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/ZeeBangla\/tracks-v1a1\/mono.ts.m3u8"
       }
     ],
     "url": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/smil:zeebangla.smil\/chunklist_b2628000.m3u8",
@@ -2835,49 +2835,51 @@
     "id": "54",
     "category": "🇮🇳 Indian",
     "name": "Sony Aath",
-    "logo": "https:\/\/i.ibb.co\/Wv8hYnxh\/SONY-AATH.png",
+    "logo": "https:\/\/i.ibb.co.com\/xxjSP5h\/Sony-Aath-Logo-Vector.png",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8"
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8",
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8",
+        "url": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/cdn.toffeein.workers.dev\/live\/sonyaath.m3u8",
-        "stream_link": "https:\/\/cdn.toffeein.workers.dev\/live\/sonyaath.m3u8"
+        "stream_link": "https:\/\/cdn.toffeein.workers.dev\/live\/sonyaath.m3u8",
+        "url": "https:\/\/cdn.toffeein.workers.dev\/live\/sonyaath.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8"
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8",
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8",
+        "url": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/cdn.toffeein.workers.dev\/live\/sonyaath.m3u8",
-        "stream_link": "https:\/\/cdn.toffeein.workers.dev\/live\/sonyaath.m3u8"
+        "stream_link": "https:\/\/cdn.toffeein.workers.dev\/live\/sonyaath.m3u8",
+        "url": "https:\/\/cdn.toffeein.workers.dev\/live\/sonyaath.m3u8"
       }
     ],
+    "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8",
     "server1": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8",
-    "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8"
+    "server2": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8",
+    "server3": "https:\/\/cdn.toffeein.workers.dev\/live\/sonyaath.m3u8"
   },
   {
     "id": "55",
@@ -3200,16 +3202,16 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/live-stream.utkalbongo.com\/hls\/livebanglatvstream.m3u8",
-        "url": "https:\/\/live-stream.utkalbongo.com\/hls\/livebanglatvstream.m3u8"
+        "url": "https:\/\/live-stream.utkalbongo.com\/hls\/livebanglatvstream.m3u8",
+        "stream_link": "https:\/\/live-stream.utkalbongo.com\/hls\/livebanglatvstream.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/live-stream.utkalbongo.com\/hls\/livebanglatvstream.m3u8",
-        "url": "https:\/\/live-stream.utkalbongo.com\/hls\/livebanglatvstream.m3u8"
+        "url": "https:\/\/live-stream.utkalbongo.com\/hls\/livebanglatvstream.m3u8",
+        "stream_link": "https:\/\/live-stream.utkalbongo.com\/hls\/livebanglatvstream.m3u8"
       }
     ],
     "url": "https:\/\/live-stream.utkalbongo.com\/hls\/livebanglatvstream.m3u8",
@@ -3332,16 +3334,16 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/aajtaklive-amd.akamaized.net\/hls\/live\/2014416\/aajtak\/aajtaklive\/live_720p\/chunks.m3u8",
-        "url": "https:\/\/aajtaklive-amd.akamaized.net\/hls\/live\/2014416\/aajtak\/aajtaklive\/live_720p\/chunks.m3u8"
+        "url": "https:\/\/aajtaklive-amd.akamaized.net\/hls\/live\/2014416\/aajtak\/aajtaklive\/live_720p\/chunks.m3u8",
+        "stream_link": "https:\/\/aajtaklive-amd.akamaized.net\/hls\/live\/2014416\/aajtak\/aajtaklive\/live_720p\/chunks.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/aajtaklive-amd.akamaized.net\/hls\/live\/2014416\/aajtak\/aajtaklive\/live_720p\/chunks.m3u8",
-        "url": "https:\/\/aajtaklive-amd.akamaized.net\/hls\/live\/2014416\/aajtak\/aajtaklive\/live_720p\/chunks.m3u8"
+        "url": "https:\/\/aajtaklive-amd.akamaized.net\/hls\/live\/2014416\/aajtak\/aajtaklive\/live_720p\/chunks.m3u8",
+        "stream_link": "https:\/\/aajtaklive-amd.akamaized.net\/hls\/live\/2014416\/aajtak\/aajtaklive\/live_720p\/chunks.m3u8"
       }
     ],
     "url": "https:\/\/aajtaklive-amd.akamaized.net\/hls\/live\/2014416\/aajtak\/aajtaklive\/live_720p\/chunks.m3u8",
@@ -3356,16 +3358,16 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8",
-        "url": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8"
+        "url": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8",
+        "stream_link": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8",
-        "url": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8"
+        "url": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8",
+        "stream_link": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8"
       }
     ],
     "url": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8",
@@ -5690,16 +5692,16 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/dzkyvlfyge.erbvr.com\/PeaceTvBangla\/tracks-v3a1\/mono.m3u8",
-        "url": "https:\/\/dzkyvlfyge.erbvr.com\/PeaceTvBangla\/tracks-v3a1\/mono.m3u8"
+        "url": "https:\/\/dzkyvlfyge.erbvr.com\/PeaceTvBangla\/tracks-v3a1\/mono.m3u8",
+        "stream_link": "https:\/\/dzkyvlfyge.erbvr.com\/PeaceTvBangla\/tracks-v3a1\/mono.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/dzkyvlfyge.erbvr.com\/PeaceTvBangla\/tracks-v3a1\/mono.m3u8",
-        "url": "https:\/\/dzkyvlfyge.erbvr.com\/PeaceTvBangla\/tracks-v3a1\/mono.m3u8"
+        "url": "https:\/\/dzkyvlfyge.erbvr.com\/PeaceTvBangla\/tracks-v3a1\/mono.m3u8",
+        "stream_link": "https:\/\/dzkyvlfyge.erbvr.com\/PeaceTvBangla\/tracks-v3a1\/mono.m3u8"
       }
     ],
     "url": "https:\/\/dzkyvlfyge.erbvr.com\/PeaceTvBangla\/tracks-v3a1\/mono.m3u8",
@@ -5738,16 +5740,16 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8",
-        "url": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8"
+        "url": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8",
+        "stream_link": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8",
-        "url": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8"
+        "url": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8",
+        "stream_link": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8"
       }
     ],
     "url": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8",
@@ -5834,64 +5836,64 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8"
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8"
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/YrVDF8gu\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/YrVDF8gu\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/YrVDF8gu\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/YrVDF8gu\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8"
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8"
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/391.ts"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_24_abr\/index.m3u8"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/YrVDF8gu\/index.m3u8",
-        "url": "https:\/\/tvsen6.aynaott.com\/YrVDF8gu\/index.m3u8"
+        "url": "https:\/\/tvsen6.aynaott.com\/YrVDF8gu\/index.m3u8",
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/YrVDF8gu\/index.m3u8"
       }
     ],
     "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/channel_24_abr\/index.m3u8",
@@ -6770,40 +6772,40 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8",
-        "url": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8"
+        "url": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8",
+        "stream_link": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/20622.ts",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/20622.ts"
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/20622.ts",
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/20622.ts"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8",
-        "url": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8"
+        "url": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8",
+        "stream_link": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts",
-        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts"
+        "url": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts",
+        "stream_link": "http:\/\/premiumtvs.space\/live\/YqXTywueEV\/damp2purchase\/20622.ts"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/20622.ts",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/20622.ts"
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/20622.ts",
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/20622.ts"
       }
     ],
     "url": "https:\/\/travelxp-travelxp-1-eu.rakuten.wurl.tv\/playlist.m3u8",
