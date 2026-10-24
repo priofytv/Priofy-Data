@@ -3704,61 +3704,64 @@
     "id": "75",
     "category": "🎟️ Movie",
     "name": "B4U Kadak",
-    "logo": "https:\/\/i.ibb.co\/RGYKtfL2\/1000126616-removebg-preview.png",
+    "logo": "https:\/\/assets-prod.services.toffeelive.com\/f_png,w_300,q_85\/PS6F-JQBv9knK3AHqjVz\/posters\/0f83ee72-be0f-4861-94df-30b158d3df8d.webp",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv\/playlist.m3u8",
-        "stream_link": "https:\/\/amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv\/playlist.m3u8"
+        "stream_link": "https:\/\/amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv\/playlist.m3u8",
+        "url": "https:\/\/amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv\/playlist.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1450.m3u8",
-        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1450.m3u8"
+        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1450.m3u8",
+        "url": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1450.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/streams.tangotv.in\/B4UKADAK\/ORIGIN\/index.m3u8",
-        "stream_link": "https:\/\/streams.tangotv.in\/B4UKADAK\/ORIGIN\/index.m3u8"
+        "stream_link": "https:\/\/streams.tangotv.in\/B4UKADAK\/ORIGIN\/index.m3u8",
+        "url": "https:\/\/streams.tangotv.in\/B4UKADAK\/ORIGIN\/index.m3u8"
       },
       {
-        "name": "Server 3",
-        "display_name": "Server 3",
-        "url": "https:\/\/cdn.pishow.tv\/ott\/live\/227\/master.m3u8",
-        "stream_link": "https:\/\/cdn.pishow.tv\/ott\/live\/227\/master.m3u8"
+        "name": "Server 4",
+        "display_name": "Server 4",
+        "stream_link": "https:\/\/cdn.pishow.tv\/ott\/live\/227\/master.m3u8",
+        "url": "https:\/\/cdn.pishow.tv\/ott\/live\/227\/master.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv\/playlist.m3u8",
-        "stream_link": "https:\/\/amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv\/playlist.m3u8"
+        "stream_link": "https:\/\/amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv\/playlist.m3u8",
+        "url": "https:\/\/amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv\/playlist.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1450.m3u8",
-        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1450.m3u8"
+        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1450.m3u8",
+        "url": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1450.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/streams.tangotv.in\/B4UKADAK\/ORIGIN\/index.m3u8",
-        "stream_link": "https:\/\/streams.tangotv.in\/B4UKADAK\/ORIGIN\/index.m3u8"
+        "stream_link": "https:\/\/streams.tangotv.in\/B4UKADAK\/ORIGIN\/index.m3u8",
+        "url": "https:\/\/streams.tangotv.in\/B4UKADAK\/ORIGIN\/index.m3u8"
       },
       {
-        "name": "Server 3",
-        "display_name": "Server 3",
-        "url": "https:\/\/cdn.pishow.tv\/ott\/live\/227\/master.m3u8",
-        "stream_link": "https:\/\/cdn.pishow.tv\/ott\/live\/227\/master.m3u8"
+        "name": "Server 4",
+        "display_name": "Server 4",
+        "stream_link": "https:\/\/cdn.pishow.tv\/ott\/live\/227\/master.m3u8",
+        "url": "https:\/\/cdn.pishow.tv\/ott\/live\/227\/master.m3u8"
       }
     ],
+    "url": "https:\/\/amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv\/playlist.m3u8",
     "server1": "https:\/\/amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv\/playlist.m3u8",
-    "url": "https:\/\/amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv\/playlist.m3u8"
+    "server2": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1450.m3u8",
+    "server3": "https:\/\/streams.tangotv.in\/B4UKADAK\/ORIGIN\/index.m3u8",
+    "server4": "https:\/\/cdn.pishow.tv\/ott\/live\/227\/master.m3u8"
   },
   {
     "id": "76",
