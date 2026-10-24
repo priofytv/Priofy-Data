@@ -3470,25 +3470,25 @@
     "id": "69",
     "category": "🇮🇳 Indian",
     "name": "Colors Rishtey",
-    "logo": "https:\/\/i.ibb.co\/LXV2sXHy\/Colors-Rishtey.png",
+    "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/19\/Colors_Rishtey_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/rishteyuk_1800\/chunks.m3u8",
-        "stream_link": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/rishteyuk_1800\/chunks.m3u8"
+        "stream_link": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/rishteyuk_1800\/chunks.m3u8",
+        "url": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/rishteyuk_1800\/chunks.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/rishteyuk_1800\/chunks.m3u8",
-        "stream_link": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/rishteyuk_1800\/chunks.m3u8"
+        "stream_link": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/rishteyuk_1800\/chunks.m3u8",
+        "url": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/rishteyuk_1800\/chunks.m3u8"
       }
     ],
-    "server1": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/rishteyuk_1800\/chunks.m3u8",
-    "url": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/rishteyuk_1800\/chunks.m3u8"
+    "url": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/rishteyuk_1800\/chunks.m3u8",
+    "server1": "https:\/\/d1rc86nwwc9fag.cloudfront.net\/260723\/rishteyuk_1800\/chunks.m3u8"
   },
   {
     "id": "70",
