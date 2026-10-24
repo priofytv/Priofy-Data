@@ -464,61 +464,64 @@
     "id": "8",
     "category": "🇧🇩 Bangladeshi",
     "name": "Channel I",
-    "logo": "https:\/\/i.ibb.co\/q3fqX7x8\/Channeli-BD.webp",
+    "logo": "https:\/\/assets-prod.services.toffeelive.com\/qnv835oBcqxnFHJBuQcB\/posters\/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8"
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8",
+        "url": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8"
       },
       {
         "name": "Ayna",
         "display_name": "Ayna",
-        "url": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8",
-        "stream_link": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8"
+        "stream_link": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8",
+        "url": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8",
-        "stream_link": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8"
+        "stream_link": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8",
+        "url": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8"
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8",
+        "url": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8"
       },
       {
         "name": "Ayna",
         "display_name": "Ayna",
-        "url": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8",
-        "stream_link": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8"
+        "stream_link": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8",
+        "url": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8",
-        "stream_link": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8"
+        "stream_link": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8",
+        "url": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8"
       }
     ],
+    "url": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8",
     "server1": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8",
-    "url": "https:\/\/stream.ottplus.live\/live\/channel_i_hd_abr\/index.m3u8"
+    "server2": "https:\/\/tvsen6.aynaott.com\/FNHpYvGZ7FkCE10PwTHm\/index.m3u8",
+    "server3": "https:\/\/tvsen3.b-cdn.net\/qUud8Nxs\/tracks-v1a1\/mono.ts.m3u8",
+    "server4": "https:\/\/iptv-proxy.ahmed-bd-org.workers.dev\/channel-i\/index.m3u8"
   },
   {
     "id": "9",
