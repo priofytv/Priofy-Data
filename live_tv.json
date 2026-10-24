@@ -913,73 +913,77 @@
     "id": "16",
     "category": "🇧🇩 Bangladeshi",
     "name": "Channel 9 HD",
-    "logo": "https:\/\/i.ibb.co\/mVpx32NM\/Channel9-bd-svg-1.png",
+    "logo": "https:\/\/s3.aynaott.com\/storage\/a959f06b4fc9e1421f867b6c1601fe43",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY",
-        "stream_link": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY"
+        "stream_link": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY",
+        "url": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8"
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8"
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8",
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts"
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts",
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "url": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY",
-        "stream_link": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY"
+        "stream_link": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY",
+        "url": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8"
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8"
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8",
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts"
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts",
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "url": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8"
       }
     ],
+    "url": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY",
     "server1": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY",
-    "url": "http:\/\/dvltv.cc\/play\/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY"
+    "server2": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8",
+    "server3": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/16.m3u8",
+    "server4": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/434.ts",
+    "server5": "https:\/\/tvsen6.aynaott.com\/kajlsd57jnkdf\/index.m3u8"
   },
   {
     "id": "17",
