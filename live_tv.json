@@ -3337,25 +3337,25 @@
     "id": "65",
     "category": "🇮🇳 Indian",
     "name": "TV9 Bangla",
-    "logo": "https:\/\/i.ibb.co\/VW4DyCYv\/image.jpg",
+    "logo": "https:\/\/images.tv9bangla.com\/wp-content\/themes\/tv9bangla\/images\/tv9-bangla-logo.svg",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8",
-        "stream_link": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8"
+        "stream_link": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8",
+        "url": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8",
-        "stream_link": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8"
+        "stream_link": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8",
+        "url": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8"
       }
     ],
-    "server1": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8",
-    "url": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8"
+    "url": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8",
+    "server1": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/playlist.m3u8"
   },
   {
     "id": "66",
