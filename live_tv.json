@@ -529,49 +529,51 @@
     "id": "9",
     "category": "🇧🇩 Bangladeshi",
     "name": "Boishakhi TV",
-    "logo": "https:\/\/i.ibb.co\/hJZfDpz3\/Boishakhi-TV-logo-svg-1.png",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR5gWAVR1rGn3K2O6T0_4hfjjKpa3_K4QJZSkWJ8yUDVA&s=10",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8",
-        "stream_link": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8"
+        "stream_link": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8",
+        "url": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8",
-        "stream_link": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8"
+        "stream_link": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8",
+        "url": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts"
       }
     ],
+    "url": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8",
     "server1": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8",
-    "url": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8"
+    "server2": "https:\/\/tvsen6.aynaott.com\/1d3uG9VCgrR9DRtWZM57\/index.m3u8",
+    "server3": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/429.ts"
   },
   {
     "id": "10",
