@@ -798,49 +798,51 @@
     "id": "14",
     "category": "🇧🇩 Bangladeshi",
     "name": "Movie Bangla",
-    "logo": "https:\/\/i.ibb.co\/3Y53wdYB\/images.png",
+    "logo": "https:\/\/assets-prod.services.toffeelive.com\/CXz4PJwBcqxnFHJBPwrG\/posters\/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8",
-        "stream_link": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8"
+        "stream_link": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8",
+        "url": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8"
       },
       {
         "name": "Jagobd",
         "display_name": "Jagobd",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8"
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8",
+        "url": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8",
-        "stream_link": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8"
+        "stream_link": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8",
+        "url": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8"
       },
       {
         "name": "Jagobd",
         "display_name": "Jagobd",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8"
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8",
+        "url": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8"
       }
     ],
+    "url": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8",
     "server1": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8",
-    "url": "http:\/\/alvetv.com\/moviebanglatv\/8080\/index.m3u8"
+    "server2": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/tracks-v1a1\/mono.m3u8",
+    "server3": "https:\/\/stream.ottplus.live\/live\/movie_bangla_abr\/index.m3u8"
   },
   {
     "id": "15",
