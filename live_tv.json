@@ -1599,25 +1599,25 @@
     "id": "29",
     "category": "🇧🇩 Bangladeshi",
     "name": "Jonmobhumi TV",
-    "logo": "https:\/\/i.ibb.co\/ywNq2VB\/Final-Red-Logo.png",
+    "logo": "https:\/\/raw.githubusercontent.com\/BadhanStrom\/img\/refs\/heads\/main\/jhonmobhumitv.png",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8"
       }
     ],
-    "server1": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8",
-    "url": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8"
+    "url": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8",
+    "server1": "https:\/\/jtvs.ncare.live\/Gznr84Woj7UEye3OPVeWq2ForboWAgdV\/jonmobhumitv.stream\/tracks-v1a1\/mono.m3u8"
   },
   {
     "id": "30",
