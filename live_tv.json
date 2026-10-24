@@ -850,61 +850,64 @@
     "id": "15",
     "category": "🇧🇩 Bangladeshi",
     "name": "Ekattor TV",
-    "logo": "https:\/\/i.ibb.co\/gMR5Qpvw\/Ekattor-TV-logo-svg-1.png",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcS_5hhxUHGZtOHAOQTNANwwcLfBLEkRmU20DxYa66kJIg&s=10",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8",
-        "stream_link": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8"
+        "stream_link": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8",
+        "url": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts"
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts",
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8",
-        "stream_link": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8"
+        "stream_link": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8",
+        "url": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts"
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts",
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts"
       }
     ],
+    "url": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8",
     "server1": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8",
-    "url": "https:\/\/tvsen6.aynaott.com\/EWDrV5QskgarZEUBb3pU\/index.m3u8"
+    "server2": "http:\/\/stream.ottplus.live\/live\/ekattor_tv_abr\/index.m3u8",
+    "server3": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/428.ts",
+    "server4": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/428.ts"
   },
   {
     "id": "16",
