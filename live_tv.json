@@ -2145,25 +2145,25 @@
     "id": "41",
     "category": "🇧🇩 Bangladeshi",
     "name": "Deshe Bideshe",
-    "logo": "https:\/\/i.ibb.co\/358kpM5b\/1000116386-removebg-preview-1.png",
+    "logo": "https:\/\/pbs.twimg.com\/profile_images\/739539785304281088\/zMwNO936_400x400.jpg",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8",
-        "stream_link": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8"
+        "stream_link": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8",
+        "url": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8",
-        "stream_link": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8"
+        "stream_link": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8",
+        "url": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8"
       }
     ],
-    "server1": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8",
-    "url": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8"
+    "url": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8",
+    "server1": "https:\/\/dbcanada.sonarbanglatv.com\/deshebideshe\/dbtv\/index.m3u8"
   },
   {
     "id": "42",
