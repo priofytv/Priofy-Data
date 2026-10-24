@@ -3106,61 +3106,64 @@
     "id": "58",
     "category": "🇮🇳 Indian",
     "name": "Sananda TV",
-    "logo": "https:\/\/i.ibb.co\/Y4RP5h66\/Sananda-TV-logo-2011.webp",
+    "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/d\/d0\/Sananda_TV_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/live-stream.amarbanglatv.in:8080\/hls\/sanandatv\/index.m3u8",
-        "stream_link": "http:\/\/live-stream.amarbanglatv.in:8080\/hls\/sanandatv\/index.m3u8"
+        "stream_link": "http:\/\/live-stream.amarbanglatv.in:8080\/hls\/sanandatv\/index.m3u8",
+        "url": "http:\/\/live-stream.amarbanglatv.in:8080\/hls\/sanandatv\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/27.124.71.27\/Zee_Bangla\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "http:\/\/27.124.71.27\/Zee_Bangla\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "http:\/\/27.124.71.27\/Zee_Bangla\/tracks-v1a1\/mono.m3u8",
+        "url": "http:\/\/27.124.71.27\/Zee_Bangla\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/sanandatv.stream\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/sanandatv.stream\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/sanandatv.stream\/tracks-v1a1\/mono.m3u8",
+        "url": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/sanandatv.stream\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/live.sanandatelevision.in\/sananda\/index.m3u8",
-        "stream_link": "https:\/\/live.sanandatelevision.in\/sananda\/index.m3u8"
+        "stream_link": "https:\/\/live.sanandatelevision.in\/sananda\/index.m3u8",
+        "url": "https:\/\/live.sanandatelevision.in\/sananda\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/live-stream.amarbanglatv.in:8080\/hls\/sanandatv\/index.m3u8",
-        "stream_link": "http:\/\/live-stream.amarbanglatv.in:8080\/hls\/sanandatv\/index.m3u8"
+        "stream_link": "http:\/\/live-stream.amarbanglatv.in:8080\/hls\/sanandatv\/index.m3u8",
+        "url": "http:\/\/live-stream.amarbanglatv.in:8080\/hls\/sanandatv\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/27.124.71.27\/Zee_Bangla\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "http:\/\/27.124.71.27\/Zee_Bangla\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "http:\/\/27.124.71.27\/Zee_Bangla\/tracks-v1a1\/mono.m3u8",
+        "url": "http:\/\/27.124.71.27\/Zee_Bangla\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/sanandatv.stream\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/sanandatv.stream\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/sanandatv.stream\/tracks-v1a1\/mono.m3u8",
+        "url": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/sanandatv.stream\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/live.sanandatelevision.in\/sananda\/index.m3u8",
-        "stream_link": "https:\/\/live.sanandatelevision.in\/sananda\/index.m3u8"
+        "stream_link": "https:\/\/live.sanandatelevision.in\/sananda\/index.m3u8",
+        "url": "https:\/\/live.sanandatelevision.in\/sananda\/index.m3u8"
       }
     ],
+    "url": "http:\/\/live-stream.amarbanglatv.in:8080\/hls\/sanandatv\/index.m3u8",
     "server1": "http:\/\/live-stream.amarbanglatv.in:8080\/hls\/sanandatv\/index.m3u8",
-    "url": "http:\/\/live-stream.amarbanglatv.in:8080\/hls\/sanandatv\/index.m3u8"
+    "server2": "http:\/\/27.124.71.27\/Zee_Bangla\/tracks-v1a1\/mono.m3u8",
+    "server3": "http:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/sanandatv.stream\/tracks-v1a1\/mono.m3u8",
+    "server4": "https:\/\/live.sanandatelevision.in\/sananda\/index.m3u8"
   },
   {
     "id": "59",
