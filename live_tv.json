@@ -1169,25 +1169,25 @@
     "id": "20",
     "category": "🇧🇩 Bangladeshi",
     "name": "JagoNews24",
-    "logo": "https:\/\/cdn.jagonews24.com\/media\/common\/logo.png",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSS8QoffUmrOUwmi18WkifDfSOlgg3Egxhsi2nojWAVnw&s",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8"
+        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8",
+        "url": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8"
+        "stream_link": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8",
+        "url": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8"
       }
     ],
-    "server1": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8",
-    "url": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8"
+    "url": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8",
+    "server1": "https:\/\/app.ncare.live\/live-orgin\/jagonews24.stream\/playlist.m3u8"
   },
   {
     "id": "21",
