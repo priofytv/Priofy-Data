@@ -1241,49 +1241,51 @@
     "id": "22",
     "category": "🇧🇩 Bangladeshi",
     "name": "Asian TV",
-    "logo": "https:\/\/i.ibb.co\/4ZKFXxM9\/Asian-TV-Logo-svg.png",
+    "logo": "https:\/\/assets-prod.services.toffeelive.com\/MyK__poBEef-9-uVmf5l\/posters\/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts"
       }
     ],
+    "url": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8",
     "server1": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8",
-    "url": "https:\/\/tvsen6.aynaott.com\/pKb5k6NnzxsKpWUs6E8M\/tracks-v1a1\/mono.ts.m3u8"
+    "server2": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/tracks-v1a1\/mono.m3u8",
+    "server3": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/430.ts"
   },
   {
     "id": "23",
