@@ -2170,25 +2170,25 @@
     "id": "42",
     "category": "🇧🇩 Bangladeshi",
     "name": "Deshi TV",
-    "logo": "https:\/\/i.ibb.co\/HTfqC94Y\/32111663-ico.png",
+    "logo": "https:\/\/www.deshitv.com\/images\/\/bangla_logo\/DeshTV24-BanglaLogo.png",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8",
-        "stream_link": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8"
+        "stream_link": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8",
+        "url": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8",
-        "stream_link": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8"
+        "stream_link": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8",
+        "url": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8"
       }
     ],
-    "server1": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8",
-    "url": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8"
+    "url": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8",
+    "server1": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8"
   },
   {
     "id": "43",
