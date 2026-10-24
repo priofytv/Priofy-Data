@@ -366,49 +366,51 @@
     "id": "6",
     "category": "🇧🇩 Bangladeshi",
     "name": "ATN News",
-    "logo": "https:\/\/i.ibb.co\/RpPt7c8R\/ATN-News-Logo-without-slogan-svg.png",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSXr3TsE-Ve3ApOQ0517yhyjoASa83GE2zaWW3ZTDe7DA&s",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts"
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts",
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts"
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts",
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts"
       }
     ],
+    "url": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8",
     "server1": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8",
-    "url": "https:\/\/tvsen6.aynaott.com\/da6WMXAk\/index.m3u8"
+    "server2": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/427.ts",
+    "server3": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/427.ts"
   },
   {
     "id": "7",
