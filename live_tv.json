@@ -3604,37 +3604,38 @@
     "id": "73",
     "category": "🎟️ Movie",
     "name": "&pictures HD",
-    "logo": "https:\/\/i.ibb.co\/4ZqjChvq\/Pictures-2025.png",
+    "logo": "https:\/\/assets-prod.services.toffeelive.com\/f_png,w_300,q_85\/QMwWnZUBtpl-Sbt7S2sx\/posters\/8cad9a82-842a-47bf-a060-f17011f11c07.png",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/stream.ottplus.live\/live\/and_picture_hd_abr\/live\/and_picture_hd_720\/index.m3u8",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/and_picture_hd_abr\/live\/and_picture_hd_720\/index.m3u8"
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/and_picture_hd_abr\/live\/and_picture_hd_720\/index.m3u8",
+        "url": "https:\/\/stream.ottplus.live\/live\/and_picture_hd_abr\/live\/and_picture_hd_720\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/cdn.toffeemovie.workers.dev\/live\/andpicture_hd.m3u8",
-        "stream_link": "https:\/\/cdn.toffeemovie.workers.dev\/live\/andpicture_hd.m3u8"
+        "stream_link": "https:\/\/cdn.toffeemovie.workers.dev\/live\/andpicture_hd.m3u8",
+        "url": "https:\/\/cdn.toffeemovie.workers.dev\/live\/andpicture_hd.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/stream.ottplus.live\/live\/and_picture_hd_abr\/live\/and_picture_hd_720\/index.m3u8",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/and_picture_hd_abr\/live\/and_picture_hd_720\/index.m3u8"
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/and_picture_hd_abr\/live\/and_picture_hd_720\/index.m3u8",
+        "url": "https:\/\/stream.ottplus.live\/live\/and_picture_hd_abr\/live\/and_picture_hd_720\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/cdn.toffeemovie.workers.dev\/live\/andpicture_hd.m3u8",
-        "stream_link": "https:\/\/cdn.toffeemovie.workers.dev\/live\/andpicture_hd.m3u8"
+        "stream_link": "https:\/\/cdn.toffeemovie.workers.dev\/live\/andpicture_hd.m3u8",
+        "url": "https:\/\/cdn.toffeemovie.workers.dev\/live\/andpicture_hd.m3u8"
       }
     ],
+    "url": "https:\/\/stream.ottplus.live\/live\/and_picture_hd_abr\/live\/and_picture_hd_720\/index.m3u8",
     "server1": "https:\/\/stream.ottplus.live\/live\/and_picture_hd_abr\/live\/and_picture_hd_720\/index.m3u8",
-    "url": "https:\/\/stream.ottplus.live\/live\/and_picture_hd_abr\/live\/and_picture_hd_720\/index.m3u8"
+    "server2": "https:\/\/cdn.toffeemovie.workers.dev\/live\/andpicture_hd.m3u8"
   },
   {
     "id": "74",
