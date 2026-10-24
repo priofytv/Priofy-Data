@@ -2993,61 +2993,64 @@
     "id": "56",
     "category": "🇮🇳 Indian",
     "name": "Star Plus HD",
-    "logo": "https:\/\/i.ibb.co\/8k6DLBn\/Star-Plus-hd.webp",
+    "logo": "https:\/\/www.seekpng.com\/png\/detail\/177-1778176_star-plus-hd-logo.png",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8",
-        "stream_link": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8",
-        "stream_link": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/103.151.60.162:2122\/play\/a0fo\/index.m3u8",
-        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a0fo\/index.m3u8"
+        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a0fo\/index.m3u8",
+        "url": "http:\/\/103.151.60.162:2122\/play\/a0fo\/index.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "http:\/\/41.205.93.154\/STAR-PLUS\/index.m3u8",
-        "stream_link": "http:\/\/41.205.93.154\/STAR-PLUS\/index.m3u8"
+        "stream_link": "http:\/\/41.205.93.154\/STAR-PLUS\/index.m3u8",
+        "url": "http:\/\/41.205.93.154\/STAR-PLUS\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8",
-        "stream_link": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8",
-        "stream_link": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/103.151.60.162:2122\/play\/a0fo\/index.m3u8",
-        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a0fo\/index.m3u8"
+        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a0fo\/index.m3u8",
+        "url": "http:\/\/103.151.60.162:2122\/play\/a0fo\/index.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "http:\/\/41.205.93.154\/STAR-PLUS\/index.m3u8",
-        "stream_link": "http:\/\/41.205.93.154\/STAR-PLUS\/index.m3u8"
+        "stream_link": "http:\/\/41.205.93.154\/STAR-PLUS\/index.m3u8",
+        "url": "http:\/\/41.205.93.154\/STAR-PLUS\/index.m3u8"
       }
     ],
+    "url": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8",
     "server1": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8",
-    "url": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8"
+    "server2": "http:\/\/103.135.253.32:8080\/STAR-PLUS\/index.m3u8",
+    "server3": "http:\/\/103.151.60.162:2122\/play\/a0fo\/index.m3u8",
+    "server4": "http:\/\/41.205.93.154\/STAR-PLUS\/index.m3u8"
   },
   {
     "id": "57",
