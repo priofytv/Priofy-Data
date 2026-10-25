@@ -6388,9 +6388,11 @@
     "id": "143",
     "category": "🐤 Kids",
     "name": "Super Hungama",
-    "logo": "https:\/\/cdn.jsdelivr.net\/gh\/zisanongit\/images@refs\/heads\/main\/Super_Hungama_Logo.png",
+    "logo": "https:\/\/raw.githubusercontent.com\/saeidrahmanbd\/BDIX-IPTV\/main\/logos\/super-hungama.png",
     "servers": [],
-    "link_live": []
+    "link_live": [],
+    "url": "",
+    "server1": ""
   },
   {
     "id": "144",
