@@ -6920,37 +6920,38 @@
     "id": "157",
     "category": "📖 Infotainment",
     "name": "BBC Earth",
-    "logo": "https:\/\/cdn.jsdelivr.net\/gh\/zisanongit\/images@refs\/heads\/main\/Sony_BBC_Earth.png",
+    "logo": "http:\/\/198.195.239.50\/img\/channels\/SONY%20BBC%20EARTH%20HD.png",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist.m3u8",
-        "stream_link": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist.m3u8"
+        "stream_link": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist.m3u8",
+        "url": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist540p.m3u8",
-        "stream_link": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist540p.m3u8"
+        "stream_link": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist540p.m3u8",
+        "url": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist540p.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist.m3u8",
-        "stream_link": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist.m3u8"
+        "stream_link": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist.m3u8",
+        "url": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist540p.m3u8",
-        "stream_link": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist540p.m3u8"
+        "stream_link": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist540p.m3u8",
+        "url": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist540p.m3u8"
       }
     ],
+    "url": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist.m3u8",
     "server1": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist.m3u8",
-    "url": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist.m3u8"
+    "server2": "https:\/\/amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\/BBCStudios-BBCEarthA-hls\/playlist540p.m3u8"
   },
   {
     "id": "158",
