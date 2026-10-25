@@ -5026,25 +5026,25 @@
     "id": "103",
     "category": "🐤 Kids",
     "name": "ZB Cartoon",
-    "logo": "https:\/\/i.ibb.co\/jkZJybSN\/1000121890-removebg-preview.png",
+    "logo": "https:\/\/jiotvimages.cdn.jio.com\/dare_images\/images\/channel\/edfaebe9084c7a7c494b0e61a48aad39.png",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/server.zillarbarta.com\/zbcatun\/video.m3u8",
-        "stream_link": "https:\/\/server.zillarbarta.com\/zbcatun\/video.m3u8"
+        "stream_link": "https:\/\/server.zillarbarta.com\/zbcatun\/video.m3u8",
+        "url": "https:\/\/server.zillarbarta.com\/zbcatun\/video.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/server.zillarbarta.com\/zbcatun\/video.m3u8",
-        "stream_link": "https:\/\/server.zillarbarta.com\/zbcatun\/video.m3u8"
+        "stream_link": "https:\/\/server.zillarbarta.com\/zbcatun\/video.m3u8",
+        "url": "https:\/\/server.zillarbarta.com\/zbcatun\/video.m3u8"
       }
     ],
-    "server1": "https:\/\/server.zillarbarta.com\/zbcatun\/video.m3u8",
-    "url": "https:\/\/server.zillarbarta.com\/zbcatun\/video.m3u8"
+    "url": "https:\/\/server.zillarbarta.com\/zbcatun\/video.m3u8",
+    "server1": "https:\/\/server.zillarbarta.com\/zbcatun\/video.m3u8"
   },
   {
     "id": "104",
