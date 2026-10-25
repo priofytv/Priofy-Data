@@ -6150,37 +6150,38 @@
     "id": "135",
     "category": "🎧 Music",
     "name": "Dhoom Music",
-    "logo": "https:\/\/raw.githubusercontent.com\/zisanongit\/images\/refs\/heads\/main\/dhoom_music.png",
+    "logo": "https:\/\/otapp.store\/uploads\/tv_image\/sm\/dhoom-music-bangla.png",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/3006.m3u8",
-        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/3006.m3u8"
+        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/3006.m3u8",
+        "url": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/3006.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/mumt06.tangotv.in\/qYyB8fXVDHOOMMUSIC\/index.m3u8",
-        "stream_link": "https:\/\/mumt06.tangotv.in\/qYyB8fXVDHOOMMUSIC\/index.m3u8"
+        "stream_link": "https:\/\/mumt06.tangotv.in\/qYyB8fXVDHOOMMUSIC\/index.m3u8",
+        "url": "https:\/\/mumt06.tangotv.in\/qYyB8fXVDHOOMMUSIC\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/3006.m3u8",
-        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/3006.m3u8"
+        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/3006.m3u8",
+        "url": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/3006.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/mumt06.tangotv.in\/qYyB8fXVDHOOMMUSIC\/index.m3u8",
-        "stream_link": "https:\/\/mumt06.tangotv.in\/qYyB8fXVDHOOMMUSIC\/index.m3u8"
+        "stream_link": "https:\/\/mumt06.tangotv.in\/qYyB8fXVDHOOMMUSIC\/index.m3u8",
+        "url": "https:\/\/mumt06.tangotv.in\/qYyB8fXVDHOOMMUSIC\/index.m3u8"
       }
     ],
+    "url": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/3006.m3u8",
     "server1": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/3006.m3u8",
-    "url": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/3006.m3u8"
+    "server2": "https:\/\/mumt06.tangotv.in\/qYyB8fXVDHOOMMUSIC\/index.m3u8"
   },
   {
     "id": "136",
