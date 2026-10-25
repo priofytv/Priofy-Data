@@ -6398,25 +6398,25 @@
     "id": "144",
     "category": "🎟️ Movie",
     "name": "Colors Cineplex Bollywood",
-    "logo": "https:\/\/cdn.jsdelivr.net\/gh\/zisanongit\/images@refs\/heads\/main\/Colors-Cineplex-Bollywood.png",
+    "logo": "https:\/\/xstreamcp-assets-msp.streamready.in\/assets\/LIVETV\/LIVECHANNEL\/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD\/images\/LOGO_HD\/image.png",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/live.balajibroadband.com:3500\/live\/1763.m3u8",
-        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/1763.m3u8"
+        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/1763.m3u8",
+        "url": "http:\/\/live.balajibroadband.com:3500\/live\/1763.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/live.balajibroadband.com:3500\/live\/1763.m3u8",
-        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/1763.m3u8"
+        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/1763.m3u8",
+        "url": "http:\/\/live.balajibroadband.com:3500\/live\/1763.m3u8"
       }
     ],
-    "server1": "http:\/\/live.balajibroadband.com:3500\/live\/1763.m3u8",
-    "url": "http:\/\/live.balajibroadband.com:3500\/live\/1763.m3u8"
+    "url": "http:\/\/live.balajibroadband.com:3500\/live\/1763.m3u8",
+    "server1": "http:\/\/live.balajibroadband.com:3500\/live\/1763.m3u8"
   },
   {
     "id": "145",
