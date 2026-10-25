@@ -5686,25 +5686,25 @@
     "id": "120",
     "category": "📖 Infotainment",
     "name": "History TV",
-    "logo": "https:\/\/raw.githubusercontent.com\/zisanongit\/images\/refs\/heads\/main\/History_TV.png",
+    "logo": "https:\/\/dtil.tmsimg.com\/assets\/s143132_ld_h15_aa.png?lock=720x540",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/n18syndication.akamaized.net\/bpk-tv\/History_TV18_Hindi_NW18_MOB\/output01\/master.m3u8",
-        "stream_link": "https:\/\/n18syndication.akamaized.net\/bpk-tv\/History_TV18_Hindi_NW18_MOB\/output01\/master.m3u8"
+        "stream_link": "https:\/\/n18syndication.akamaized.net\/bpk-tv\/History_TV18_Hindi_NW18_MOB\/output01\/master.m3u8",
+        "url": "https:\/\/n18syndication.akamaized.net\/bpk-tv\/History_TV18_Hindi_NW18_MOB\/output01\/master.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/n18syndication.akamaized.net\/bpk-tv\/History_TV18_Hindi_NW18_MOB\/output01\/master.m3u8",
-        "stream_link": "https:\/\/n18syndication.akamaized.net\/bpk-tv\/History_TV18_Hindi_NW18_MOB\/output01\/master.m3u8"
+        "stream_link": "https:\/\/n18syndication.akamaized.net\/bpk-tv\/History_TV18_Hindi_NW18_MOB\/output01\/master.m3u8",
+        "url": "https:\/\/n18syndication.akamaized.net\/bpk-tv\/History_TV18_Hindi_NW18_MOB\/output01\/master.m3u8"
       }
     ],
-    "server1": "https:\/\/n18syndication.akamaized.net\/bpk-tv\/History_TV18_Hindi_NW18_MOB\/output01\/master.m3u8",
-    "url": "https:\/\/n18syndication.akamaized.net\/bpk-tv\/History_TV18_Hindi_NW18_MOB\/output01\/master.m3u8"
+    "url": "https:\/\/n18syndication.akamaized.net\/bpk-tv\/History_TV18_Hindi_NW18_MOB\/output01\/master.m3u8",
+    "server1": "https:\/\/n18syndication.akamaized.net\/bpk-tv\/History_TV18_Hindi_NW18_MOB\/output01\/master.m3u8"
   },
   {
     "id": "121",
