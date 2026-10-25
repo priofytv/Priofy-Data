@@ -6639,61 +6639,64 @@
     "id": "151",
     "category": "🇮🇳 Indian",
     "name": "Zee TV HD",
-    "logo": "https:\/\/cdn.jsdelivr.net\/gh\/zisanongit\/images@refs\/heads\/main\/Zee_TV_HD.png",
+    "logo": "https:\/\/assets-prod.services.toffeelive.com\/f_png,w_300,q_85\/ltPQX5UBm1RY_In7b3F1\/posters\/d039d9df-9877-4969-a0b6-56888ebe2385.png",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/41.205.93.154\/ZEE-TV\/index.m3u8",
-        "stream_link": "http:\/\/41.205.93.154\/ZEE-TV\/index.m3u8"
+        "stream_link": "http:\/\/41.205.93.154\/ZEE-TV\/index.m3u8",
+        "url": "http:\/\/41.205.93.154\/ZEE-TV\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/d47ddb99.wurl.com\/master\/f36d25e7e52f1ba8d7e56eb859c636563214f541\/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw\/playlist.m3u8",
-        "stream_link": "https:\/\/d47ddb99.wurl.com\/master\/f36d25e7e52f1ba8d7e56eb859c636563214f541\/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw\/playlist.m3u8"
+        "stream_link": "https:\/\/d47ddb99.wurl.com\/master\/f36d25e7e52f1ba8d7e56eb859c636563214f541\/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw\/playlist.m3u8",
+        "url": "https:\/\/d47ddb99.wurl.com\/master\/f36d25e7e52f1ba8d7e56eb859c636563214f541\/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw\/playlist.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_tv_hd_abr\/index.m3u8",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_tv_hd_abr\/index.m3u8"
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_tv_hd_abr\/index.m3u8",
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_tv_hd_abr\/index.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/stream.ottplus.live\/live\/zee_tv_hd_abr\/index.m3u8",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/zee_tv_hd_abr\/index.m3u8"
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/zee_tv_hd_abr\/index.m3u8",
+        "url": "https:\/\/stream.ottplus.live\/live\/zee_tv_hd_abr\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/41.205.93.154\/ZEE-TV\/index.m3u8",
-        "stream_link": "http:\/\/41.205.93.154\/ZEE-TV\/index.m3u8"
+        "stream_link": "http:\/\/41.205.93.154\/ZEE-TV\/index.m3u8",
+        "url": "http:\/\/41.205.93.154\/ZEE-TV\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/d47ddb99.wurl.com\/master\/f36d25e7e52f1ba8d7e56eb859c636563214f541\/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw\/playlist.m3u8",
-        "stream_link": "https:\/\/d47ddb99.wurl.com\/master\/f36d25e7e52f1ba8d7e56eb859c636563214f541\/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw\/playlist.m3u8"
+        "stream_link": "https:\/\/d47ddb99.wurl.com\/master\/f36d25e7e52f1ba8d7e56eb859c636563214f541\/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw\/playlist.m3u8",
+        "url": "https:\/\/d47ddb99.wurl.com\/master\/f36d25e7e52f1ba8d7e56eb859c636563214f541\/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw\/playlist.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_tv_hd_abr\/index.m3u8",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_tv_hd_abr\/index.m3u8"
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_tv_hd_abr\/index.m3u8",
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_tv_hd_abr\/index.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/stream.ottplus.live\/live\/zee_tv_hd_abr\/index.m3u8",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/zee_tv_hd_abr\/index.m3u8"
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/zee_tv_hd_abr\/index.m3u8",
+        "url": "https:\/\/stream.ottplus.live\/live\/zee_tv_hd_abr\/index.m3u8"
       }
     ],
+    "url": "http:\/\/41.205.93.154\/ZEE-TV\/index.m3u8",
     "server1": "http:\/\/41.205.93.154\/ZEE-TV\/index.m3u8",
-    "url": "http:\/\/41.205.93.154\/ZEE-TV\/index.m3u8"
+    "server2": "https:\/\/d47ddb99.wurl.com\/master\/f36d25e7e52f1ba8d7e56eb859c636563214f541\/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw\/playlist.m3u8",
+    "server3": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_tv_hd_abr\/index.m3u8",
+    "server4": "https:\/\/stream.ottplus.live\/live\/zee_tv_hd_abr\/index.m3u8"
   },
   {
     "id": "152",
