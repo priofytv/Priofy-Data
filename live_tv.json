@@ -6456,25 +6456,25 @@
     "id": "147",
     "category": "🐤 Kids",
     "name": "Sonic",
-    "logo": "https:\/\/cdn.jsdelivr.net\/gh\/zisanongit\/images@refs\/heads\/main\/Sonic.png",
+    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQQ0tqPBqxSn6GezRCxRme3pOKZC3MNK0ca8zAFj3RVfg&s=10",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/live.balajibroadband.com:3500\/live\/1345.m3u8",
-        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/1345.m3u8"
+        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/1345.m3u8",
+        "url": "http:\/\/live.balajibroadband.com:3500\/live\/1345.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/live.balajibroadband.com:3500\/live\/1345.m3u8",
-        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/1345.m3u8"
+        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/1345.m3u8",
+        "url": "http:\/\/live.balajibroadband.com:3500\/live\/1345.m3u8"
       }
     ],
-    "server1": "http:\/\/live.balajibroadband.com:3500\/live\/1345.m3u8",
-    "url": "http:\/\/live.balajibroadband.com:3500\/live\/1345.m3u8"
+    "url": "http:\/\/live.balajibroadband.com:3500\/live\/1345.m3u8",
+    "server1": "http:\/\/live.balajibroadband.com:3500\/live\/1345.m3u8"
   },
   {
     "id": "148",
