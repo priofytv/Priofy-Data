@@ -5246,25 +5246,25 @@
     "id": "109",
     "category": "🎧 Music",
     "name": "Zoom",
-    "logo": "https:\/\/i.ibb.co\/C3QsrJ7F\/Zoom-2018.png",
+    "logo": "https:\/\/web.aynaott.com\/storage\/019dd92f-107c-7056-9e79-e5233f6e51d9\/uploads\/images\/2026-07-16\/images_d5f21c410f16519379a4ca7f1c4a14f5_playmist_zoom_tv400x400.jpg",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/pubads.g.doubleclick.net\/ssai\/event\/JCAm25qkRXiKcK1AJMlvKQ\/master.m3u8",
-        "stream_link": "https:\/\/pubads.g.doubleclick.net\/ssai\/event\/JCAm25qkRXiKcK1AJMlvKQ\/master.m3u8"
+        "stream_link": "https:\/\/pubads.g.doubleclick.net\/ssai\/event\/JCAm25qkRXiKcK1AJMlvKQ\/master.m3u8",
+        "url": "https:\/\/pubads.g.doubleclick.net\/ssai\/event\/JCAm25qkRXiKcK1AJMlvKQ\/master.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/pubads.g.doubleclick.net\/ssai\/event\/JCAm25qkRXiKcK1AJMlvKQ\/master.m3u8",
-        "stream_link": "https:\/\/pubads.g.doubleclick.net\/ssai\/event\/JCAm25qkRXiKcK1AJMlvKQ\/master.m3u8"
+        "stream_link": "https:\/\/pubads.g.doubleclick.net\/ssai\/event\/JCAm25qkRXiKcK1AJMlvKQ\/master.m3u8",
+        "url": "https:\/\/pubads.g.doubleclick.net\/ssai\/event\/JCAm25qkRXiKcK1AJMlvKQ\/master.m3u8"
       }
     ],
-    "server1": "https:\/\/pubads.g.doubleclick.net\/ssai\/event\/JCAm25qkRXiKcK1AJMlvKQ\/master.m3u8",
-    "url": "https:\/\/pubads.g.doubleclick.net\/ssai\/event\/JCAm25qkRXiKcK1AJMlvKQ\/master.m3u8"
+    "url": "https:\/\/pubads.g.doubleclick.net\/ssai\/event\/JCAm25qkRXiKcK1AJMlvKQ\/master.m3u8",
+    "server1": "https:\/\/pubads.g.doubleclick.net\/ssai\/event\/JCAm25qkRXiKcK1AJMlvKQ\/master.m3u8"
   },
   {
     "id": "110",
