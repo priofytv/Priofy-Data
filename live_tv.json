@@ -6389,10 +6389,24 @@
     "category": "🐤 Kids",
     "name": "Super Hungama",
     "logo": "https:\/\/raw.githubusercontent.com\/saeidrahmanbd\/BDIX-IPTV\/main\/logos\/super-hungama.png",
-    "servers": [],
-    "link_live": [],
-    "url": "",
-    "server1": ""
+    "servers": [
+      {
+        "name": "Server 1",
+        "display_name": "Server 1",
+        "stream_link": "http:\/\/rgkkw.live\/live\/4dfoydR2gZ\/clever3still\/66162.ts",
+        "url": "http:\/\/rgkkw.live\/live\/4dfoydR2gZ\/clever3still\/66162.ts"
+      }
+    ],
+    "link_live": [
+      {
+        "name": "Server 1",
+        "display_name": "Server 1",
+        "stream_link": "http:\/\/rgkkw.live\/live\/4dfoydR2gZ\/clever3still\/66162.ts",
+        "url": "http:\/\/rgkkw.live\/live\/4dfoydR2gZ\/clever3still\/66162.ts"
+      }
+    ],
+    "url": "http:\/\/rgkkw.live\/live\/4dfoydR2gZ\/clever3still\/66162.ts",
+    "server1": "http:\/\/rgkkw.live\/live\/4dfoydR2gZ\/clever3still\/66162.ts"
   },
   {
     "id": "144",
