@@ -4652,61 +4652,64 @@
     "id": "96",
     "category": "🐤 Kids",
     "name": "Disney JR",
-    "logo": "https:\/\/i.ibb.co\/rf5VSnXn\/Disney-Jr-2024-logo.png",
+    "logo": "https:\/\/s3.aynaott.com\/storage\/31a070024b6516e3738baec70168f0b6",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/181.78.14.26:4000\/play\/a073\/index.m3u8",
-        "stream_link": "http:\/\/181.78.14.26:4000\/play\/a073\/index.m3u8"
+        "stream_link": "http:\/\/181.78.14.26:4000\/play\/a073\/index.m3u8",
+        "url": "http:\/\/181.78.14.26:4000\/play\/a073\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/45.134.141.161:2200\/ARG\/Disney_Junior\/index.m3u8",
-        "stream_link": "http:\/\/45.134.141.161:2200\/ARG\/Disney_Junior\/index.m3u8"
+        "stream_link": "http:\/\/45.134.141.161:2200\/ARG\/Disney_Junior\/index.m3u8",
+        "url": "http:\/\/45.134.141.161:2200\/ARG\/Disney_Junior\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/45.185.163.75:8000\/play\/a016\/index.m3u8",
-        "stream_link": "http:\/\/45.185.163.75:8000\/play\/a016\/index.m3u8"
+        "stream_link": "http:\/\/45.185.163.75:8000\/play\/a016\/index.m3u8",
+        "url": "http:\/\/45.185.163.75:8000\/play\/a016\/index.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "http:\/\/23.237.104.106:8080\/USA_DISNEY_JUNIOR\/index.m3u8",
-        "stream_link": "http:\/\/23.237.104.106:8080\/USA_DISNEY_JUNIOR\/index.m3u8"
+        "stream_link": "http:\/\/23.237.104.106:8080\/USA_DISNEY_JUNIOR\/index.m3u8",
+        "url": "http:\/\/23.237.104.106:8080\/USA_DISNEY_JUNIOR\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/181.78.14.26:4000\/play\/a073\/index.m3u8",
-        "stream_link": "http:\/\/181.78.14.26:4000\/play\/a073\/index.m3u8"
+        "stream_link": "http:\/\/181.78.14.26:4000\/play\/a073\/index.m3u8",
+        "url": "http:\/\/181.78.14.26:4000\/play\/a073\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/45.134.141.161:2200\/ARG\/Disney_Junior\/index.m3u8",
-        "stream_link": "http:\/\/45.134.141.161:2200\/ARG\/Disney_Junior\/index.m3u8"
+        "stream_link": "http:\/\/45.134.141.161:2200\/ARG\/Disney_Junior\/index.m3u8",
+        "url": "http:\/\/45.134.141.161:2200\/ARG\/Disney_Junior\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/45.185.163.75:8000\/play\/a016\/index.m3u8",
-        "stream_link": "http:\/\/45.185.163.75:8000\/play\/a016\/index.m3u8"
+        "stream_link": "http:\/\/45.185.163.75:8000\/play\/a016\/index.m3u8",
+        "url": "http:\/\/45.185.163.75:8000\/play\/a016\/index.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "http:\/\/23.237.104.106:8080\/USA_DISNEY_JUNIOR\/index.m3u8",
-        "stream_link": "http:\/\/23.237.104.106:8080\/USA_DISNEY_JUNIOR\/index.m3u8"
+        "stream_link": "http:\/\/23.237.104.106:8080\/USA_DISNEY_JUNIOR\/index.m3u8",
+        "url": "http:\/\/23.237.104.106:8080\/USA_DISNEY_JUNIOR\/index.m3u8"
       }
     ],
+    "url": "http:\/\/181.78.14.26:4000\/play\/a073\/index.m3u8",
     "server1": "http:\/\/181.78.14.26:4000\/play\/a073\/index.m3u8",
-    "url": "http:\/\/181.78.14.26:4000\/play\/a073\/index.m3u8"
+    "server2": "http:\/\/45.134.141.161:2200\/ARG\/Disney_Junior\/index.m3u8",
+    "server3": "http:\/\/45.185.163.75:8000\/play\/a016\/index.m3u8",
+    "server4": "http:\/\/23.237.104.106:8080\/USA_DISNEY_JUNIOR\/index.m3u8"
   },
   {
     "id": "97",
