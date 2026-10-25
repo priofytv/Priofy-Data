@@ -6052,25 +6052,25 @@
     "id": "132",
     "category": "🎟️ Movie",
     "name": "ZB Cinemma",
-    "logo": "https:\/\/i.ibb.co\/S2VyRtV\/ZB-Cinema-removebg-preview.png",
+    "logo": "https:\/\/i.postimg.cc\/L8xzTtQY\/k-Ug6WSk.jpg",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/server.zillarbarta.com\/ZBCINEMA\/index.m3u8",
-        "stream_link": "https:\/\/server.zillarbarta.com\/ZBCINEMA\/index.m3u8"
+        "stream_link": "https:\/\/server.zillarbarta.com\/ZBCINEMA\/index.m3u8",
+        "url": "https:\/\/server.zillarbarta.com\/ZBCINEMA\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/server.zillarbarta.com\/ZBCINEMA\/index.m3u8",
-        "stream_link": "https:\/\/server.zillarbarta.com\/ZBCINEMA\/index.m3u8"
+        "stream_link": "https:\/\/server.zillarbarta.com\/ZBCINEMA\/index.m3u8",
+        "url": "https:\/\/server.zillarbarta.com\/ZBCINEMA\/index.m3u8"
       }
     ],
-    "server1": "https:\/\/server.zillarbarta.com\/ZBCINEMA\/index.m3u8",
-    "url": "https:\/\/server.zillarbarta.com\/ZBCINEMA\/index.m3u8"
+    "url": "https:\/\/server.zillarbarta.com\/ZBCINEMA\/index.m3u8",
+    "server1": "https:\/\/server.zillarbarta.com\/ZBCINEMA\/index.m3u8"
   },
   {
     "id": "133",
