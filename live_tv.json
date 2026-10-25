@@ -5050,25 +5050,25 @@
     "id": "104",
     "category": "🐤 Kids",
     "name": "KiddoMatix",
-    "logo": "https:\/\/i.ibb.co\/m5R2JGWk\/1000123422-removebg-preview.png",
+    "logo": "https:\/\/tvpnlogopus.samsungcloud.tv\/platform\/image\/sourcelogo\/vc\/00\/02\/34\/IN4600008T4_20260623T015209SQUARE.png",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/cc-le0kohm4qt3mk.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-le0kohm4qt3mk\/OTM\/OTM_KiddoMatix-SCTE_SAMSUNG\/playlist.m3u8",
-        "stream_link": "https:\/\/cc-le0kohm4qt3mk.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-le0kohm4qt3mk\/OTM\/OTM_KiddoMatix-SCTE_SAMSUNG\/playlist.m3u8"
+        "stream_link": "https:\/\/cc-le0kohm4qt3mk.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-le0kohm4qt3mk\/OTM\/OTM_KiddoMatix-SCTE_SAMSUNG\/playlist.m3u8",
+        "url": "https:\/\/cc-le0kohm4qt3mk.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-le0kohm4qt3mk\/OTM\/OTM_KiddoMatix-SCTE_SAMSUNG\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/cc-le0kohm4qt3mk.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-le0kohm4qt3mk\/OTM\/OTM_KiddoMatix-SCTE_SAMSUNG\/playlist.m3u8",
-        "stream_link": "https:\/\/cc-le0kohm4qt3mk.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-le0kohm4qt3mk\/OTM\/OTM_KiddoMatix-SCTE_SAMSUNG\/playlist.m3u8"
+        "stream_link": "https:\/\/cc-le0kohm4qt3mk.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-le0kohm4qt3mk\/OTM\/OTM_KiddoMatix-SCTE_SAMSUNG\/playlist.m3u8",
+        "url": "https:\/\/cc-le0kohm4qt3mk.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-le0kohm4qt3mk\/OTM\/OTM_KiddoMatix-SCTE_SAMSUNG\/playlist.m3u8"
       }
     ],
-    "server1": "https:\/\/cc-le0kohm4qt3mk.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-le0kohm4qt3mk\/OTM\/OTM_KiddoMatix-SCTE_SAMSUNG\/playlist.m3u8",
-    "url": "https:\/\/cc-le0kohm4qt3mk.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-le0kohm4qt3mk\/OTM\/OTM_KiddoMatix-SCTE_SAMSUNG\/playlist.m3u8"
+    "url": "https:\/\/cc-le0kohm4qt3mk.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-le0kohm4qt3mk\/OTM\/OTM_KiddoMatix-SCTE_SAMSUNG\/playlist.m3u8",
+    "server1": "https:\/\/cc-le0kohm4qt3mk.akamaized.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-le0kohm4qt3mk\/OTM\/OTM_KiddoMatix-SCTE_SAMSUNG\/playlist.m3u8"
   },
   {
     "id": "105",
