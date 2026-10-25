@@ -1423,45 +1423,45 @@
     "id": "26",
     "category": "🇧🇩 Bangladeshi",
     "name": "SA TV",
-    "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSkx7xzCcjEhXg0bBT8LMmpqP9SJN8vegCna180ygRt_w&s",
+    "logo": "https:\/\/i.ibb.co.com\/Fb0K5NwY\/satv-logo-1.jpg",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8"
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/116.204.149.16\/satv\/index.m3u8",
-        "stream_link": "http:\/\/116.204.149.16\/satv\/index.m3u8"
+        "stream_link": "http:\/\/116.204.149.16\/satv\/index.m3u8",
+        "url": "http:\/\/116.204.149.16\/satv\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8"
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/116.204.149.16\/satv\/index.m3u8",
-        "stream_link": "http:\/\/116.204.149.16\/satv\/index.m3u8"
+        "stream_link": "http:\/\/116.204.149.16\/satv\/index.m3u8",
+        "url": "http:\/\/116.204.149.16\/satv\/index.m3u8"
       }
     ],
     "url": "https:\/\/tvsen6.aynaott.com\/rELXiuUXqbgzPb06Npom\/index.m3u8",
