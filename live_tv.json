@@ -6422,9 +6422,11 @@
     "id": "145",
     "category": "🐤 Kids",
     "name": "Hungama",
-    "logo": "https:\/\/cdn.jsdelivr.net\/gh\/zisanongit\/images@refs\/heads\/main\/Hungama_TV.png",
+    "logo": "http:\/\/198.195.239.50\/img\/channels\/HUNGAMA.png?ref=skym3u.dev",
     "servers": [],
-    "link_live": []
+    "link_live": [],
+    "server1": "",
+    "url": ""
   },
   {
     "id": "146",
