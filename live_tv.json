@@ -5392,49 +5392,51 @@
     "id": "114",
     "category": "🎧 Music",
     "name": "Balle Balle",
-    "logo": "https:\/\/i.ibb.co\/pjFfdDjM\/logo-e1568618159543.png",
+    "logo": "https:\/\/static.wikia.nocookie.net\/logopedia\/images\/a\/af\/Balle_Balle.jpeg\/revision\/latest?cb=20191219123211",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/mcncdndigital.com\/balleballetv\/tracks-v1a1\/mono.ts.m3u8",
-        "stream_link": "https:\/\/mcncdndigital.com\/balleballetv\/tracks-v1a1\/mono.ts.m3u8"
+        "stream_link": "https:\/\/mcncdndigital.com\/balleballetv\/tracks-v1a1\/mono.ts.m3u8",
+        "url": "https:\/\/mcncdndigital.com\/balleballetv\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/d1msejlow1t3l4.cloudfront.net\/fta\/balleballe\/playlist.m3u8?hdnts=st%3D1783658359~exp%3D1783679959~acl%3D%21%2A%2Ffta%2Fballeballe%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1~hmac%3D098f4a20f6ef6a0c1d1c697763a4c76894f60e7544170fbc7e442f16f762ab03",
-        "stream_link": "https:\/\/d1msejlow1t3l4.cloudfront.net\/fta\/balleballe\/playlist.m3u8?hdnts=st%3D1783658359~exp%3D1783679959~acl%3D%21%2A%2Ffta%2Fballeballe%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1~hmac%3D098f4a20f6ef6a0c1d1c697763a4c76894f60e7544170fbc7e442f16f762ab03"
+        "stream_link": "https:\/\/d1msejlow1t3l4.cloudfront.net\/fta\/balleballe\/playlist.m3u8?hdnts=st%3D1783658359~exp%3D1783679959~acl%3D%21%2A%2Ffta%2Fballeballe%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1~hmac%3D098f4a20f6ef6a0c1d1c697763a4c76894f60e7544170fbc7e442f16f762ab03",
+        "url": "https:\/\/d1msejlow1t3l4.cloudfront.net\/fta\/balleballe\/playlist.m3u8?hdnts=st%3D1783658359~exp%3D1783679959~acl%3D%21%2A%2Ffta%2Fballeballe%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1~hmac%3D098f4a20f6ef6a0c1d1c697763a4c76894f60e7544170fbc7e442f16f762ab03"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/1361.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/1361.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/1361.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/1361.ts"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/mcncdndigital.com\/balleballetv\/tracks-v1a1\/mono.ts.m3u8",
-        "stream_link": "https:\/\/mcncdndigital.com\/balleballetv\/tracks-v1a1\/mono.ts.m3u8"
+        "stream_link": "https:\/\/mcncdndigital.com\/balleballetv\/tracks-v1a1\/mono.ts.m3u8",
+        "url": "https:\/\/mcncdndigital.com\/balleballetv\/tracks-v1a1\/mono.ts.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/d1msejlow1t3l4.cloudfront.net\/fta\/balleballe\/playlist.m3u8?hdnts=st%3D1783658359~exp%3D1783679959~acl%3D%21%2A%2Ffta%2Fballeballe%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1~hmac%3D098f4a20f6ef6a0c1d1c697763a4c76894f60e7544170fbc7e442f16f762ab03",
-        "stream_link": "https:\/\/d1msejlow1t3l4.cloudfront.net\/fta\/balleballe\/playlist.m3u8?hdnts=st%3D1783658359~exp%3D1783679959~acl%3D%21%2A%2Ffta%2Fballeballe%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1~hmac%3D098f4a20f6ef6a0c1d1c697763a4c76894f60e7544170fbc7e442f16f762ab03"
+        "stream_link": "https:\/\/d1msejlow1t3l4.cloudfront.net\/fta\/balleballe\/playlist.m3u8?hdnts=st%3D1783658359~exp%3D1783679959~acl%3D%21%2A%2Ffta%2Fballeballe%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1~hmac%3D098f4a20f6ef6a0c1d1c697763a4c76894f60e7544170fbc7e442f16f762ab03",
+        "url": "https:\/\/d1msejlow1t3l4.cloudfront.net\/fta\/balleballe\/playlist.m3u8?hdnts=st%3D1783658359~exp%3D1783679959~acl%3D%21%2A%2Ffta%2Fballeballe%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1~hmac%3D098f4a20f6ef6a0c1d1c697763a4c76894f60e7544170fbc7e442f16f762ab03"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/1361.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/1361.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/1361.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/1361.ts"
       }
     ],
+    "url": "https:\/\/mcncdndigital.com\/balleballetv\/tracks-v1a1\/mono.ts.m3u8",
     "server1": "https:\/\/mcncdndigital.com\/balleballetv\/tracks-v1a1\/mono.ts.m3u8",
-    "url": "https:\/\/mcncdndigital.com\/balleballetv\/tracks-v1a1\/mono.ts.m3u8"
+    "server2": "https:\/\/d1msejlow1t3l4.cloudfront.net\/fta\/balleballe\/playlist.m3u8?hdnts=st%3D1783658359~exp%3D1783679959~acl%3D%21%2A%2Ffta%2Fballeballe%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1~hmac%3D098f4a20f6ef6a0c1d1c697763a4c76894f60e7544170fbc7e442f16f762ab03",
+    "server3": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/1361.ts"
   },
   {
     "id": "115",
