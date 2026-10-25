@@ -6480,61 +6480,64 @@
     "id": "148",
     "category": "🇮🇳 Indian",
     "name": "Colors HD",
-    "logo": "https:\/\/cdn.jsdelivr.net\/gh\/zisanongit\/images@refs\/heads\/main\/Colors_TV.png",
+    "logo": "https:\/\/static.wikia.nocookie.net\/logopedia\/images\/6\/63\/Colors_HD.svg",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/flowutc.com:80\/live\/34FQ94W\/64CW3PG\/72156.ts",
-        "stream_link": "http:\/\/flowutc.com:80\/live\/34FQ94W\/64CW3PG\/72156.ts"
+        "stream_link": "http:\/\/flowutc.com:80\/live\/34FQ94W\/64CW3PG\/72156.ts",
+        "url": "http:\/\/flowutc.com:80\/live\/34FQ94W\/64CW3PG\/72156.ts"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/live.balajibroadband.com:3500\/live\/144.m3u8",
-        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/144.m3u8"
+        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/144.m3u8",
+        "url": "http:\/\/live.balajibroadband.com:3500\/live\/144.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/202.70.146.135:8000\/play\/a00b\/index.m3u8",
-        "stream_link": "http:\/\/202.70.146.135:8000\/play\/a00b\/index.m3u8"
+        "stream_link": "http:\/\/202.70.146.135:8000\/play\/a00b\/index.m3u8",
+        "url": "http:\/\/202.70.146.135:8000\/play\/a00b\/index.m3u8"
       },
       {
-        "name": "Server 2",
-        "display_name": "Server 2",
-        "url": "http:\/\/103.135.253.32:8080\/Color-HD\/index.m3u8",
-        "stream_link": "http:\/\/103.135.253.32:8080\/Color-HD\/index.m3u8"
+        "name": "Server 4",
+        "display_name": "Server 4",
+        "stream_link": "http:\/\/103.135.253.32:8080\/Color-HD\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/Color-HD\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/flowutc.com:80\/live\/34FQ94W\/64CW3PG\/72156.ts",
-        "stream_link": "http:\/\/flowutc.com:80\/live\/34FQ94W\/64CW3PG\/72156.ts"
+        "stream_link": "http:\/\/flowutc.com:80\/live\/34FQ94W\/64CW3PG\/72156.ts",
+        "url": "http:\/\/flowutc.com:80\/live\/34FQ94W\/64CW3PG\/72156.ts"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/live.balajibroadband.com:3500\/live\/144.m3u8",
-        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/144.m3u8"
+        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/144.m3u8",
+        "url": "http:\/\/live.balajibroadband.com:3500\/live\/144.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/202.70.146.135:8000\/play\/a00b\/index.m3u8",
-        "stream_link": "http:\/\/202.70.146.135:8000\/play\/a00b\/index.m3u8"
+        "stream_link": "http:\/\/202.70.146.135:8000\/play\/a00b\/index.m3u8",
+        "url": "http:\/\/202.70.146.135:8000\/play\/a00b\/index.m3u8"
       },
       {
-        "name": "Server 2",
-        "display_name": "Server 2",
-        "url": "http:\/\/103.135.253.32:8080\/Color-HD\/index.m3u8",
-        "stream_link": "http:\/\/103.135.253.32:8080\/Color-HD\/index.m3u8"
+        "name": "Server 4",
+        "display_name": "Server 4",
+        "stream_link": "http:\/\/103.135.253.32:8080\/Color-HD\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/Color-HD\/index.m3u8"
       }
     ],
+    "url": "http:\/\/flowutc.com:80\/live\/34FQ94W\/64CW3PG\/72156.ts",
     "server1": "http:\/\/flowutc.com:80\/live\/34FQ94W\/64CW3PG\/72156.ts",
-    "url": "http:\/\/flowutc.com:80\/live\/34FQ94W\/64CW3PG\/72156.ts"
+    "server2": "http:\/\/live.balajibroadband.com:3500\/live\/144.m3u8",
+    "server3": "http:\/\/202.70.146.135:8000\/play\/a00b\/index.m3u8",
+    "server4": "http:\/\/103.135.253.32:8080\/Color-HD\/index.m3u8"
   },
   {
     "id": "149",
