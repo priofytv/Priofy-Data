@@ -4536,61 +4536,64 @@
     "id": "94",
     "category": "🐤 Kids",
     "name": "Nicktoons",
-    "logo": "https:\/\/i.ibb.co\/TDGMG6pY\/Nicktoons-on-Nickelodeon-Animation-Studio-logo.png",
+    "logo": "https:\/\/s3.aynaott.com\/storage\/a130687320f6b07db4bc3729b9d5e96e",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/stream.mcquack.net\/443\/index.m3u8",
-        "stream_link": "http:\/\/stream.mcquack.net\/443\/index.m3u8"
+        "stream_link": "http:\/\/stream.mcquack.net\/443\/index.m3u8",
+        "url": "http:\/\/stream.mcquack.net\/443\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/stream8.cinerama.uz\/1500\/playlist.m3u8",
-        "stream_link": "https:\/\/stream8.cinerama.uz\/1500\/playlist.m3u8"
+        "stream_link": "https:\/\/stream8.cinerama.uz\/1500\/playlist.m3u8",
+        "url": "https:\/\/stream8.cinerama.uz\/1500\/playlist.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/x1colegal.com\/hls\/stream.m3u8",
-        "stream_link": "https:\/\/x1colegal.com\/hls\/stream.m3u8"
+        "stream_link": "https:\/\/x1colegal.com\/hls\/stream.m3u8",
+        "url": "https:\/\/x1colegal.com\/hls\/stream.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "http:\/\/151.80.18.177:86\/Nickelodeon_FR\/index.m3u8",
-        "stream_link": "http:\/\/151.80.18.177:86\/Nickelodeon_FR\/index.m3u8"
+        "stream_link": "http:\/\/151.80.18.177:86\/Nickelodeon_FR\/index.m3u8",
+        "url": "http:\/\/151.80.18.177:86\/Nickelodeon_FR\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/stream.mcquack.net\/443\/index.m3u8",
-        "stream_link": "http:\/\/stream.mcquack.net\/443\/index.m3u8"
+        "stream_link": "http:\/\/stream.mcquack.net\/443\/index.m3u8",
+        "url": "http:\/\/stream.mcquack.net\/443\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/stream8.cinerama.uz\/1500\/playlist.m3u8",
-        "stream_link": "https:\/\/stream8.cinerama.uz\/1500\/playlist.m3u8"
+        "stream_link": "https:\/\/stream8.cinerama.uz\/1500\/playlist.m3u8",
+        "url": "https:\/\/stream8.cinerama.uz\/1500\/playlist.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/x1colegal.com\/hls\/stream.m3u8",
-        "stream_link": "https:\/\/x1colegal.com\/hls\/stream.m3u8"
+        "stream_link": "https:\/\/x1colegal.com\/hls\/stream.m3u8",
+        "url": "https:\/\/x1colegal.com\/hls\/stream.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "http:\/\/151.80.18.177:86\/Nickelodeon_FR\/index.m3u8",
-        "stream_link": "http:\/\/151.80.18.177:86\/Nickelodeon_FR\/index.m3u8"
+        "stream_link": "http:\/\/151.80.18.177:86\/Nickelodeon_FR\/index.m3u8",
+        "url": "http:\/\/151.80.18.177:86\/Nickelodeon_FR\/index.m3u8"
       }
     ],
+    "url": "http:\/\/stream.mcquack.net\/443\/index.m3u8",
     "server1": "http:\/\/stream.mcquack.net\/443\/index.m3u8",
-    "url": "http:\/\/stream.mcquack.net\/443\/index.m3u8"
+    "server2": "https:\/\/stream8.cinerama.uz\/1500\/playlist.m3u8",
+    "server3": "https:\/\/x1colegal.com\/hls\/stream.m3u8",
+    "server4": "http:\/\/151.80.18.177:86\/Nickelodeon_FR\/index.m3u8"
   },
   {
     "id": "95",
