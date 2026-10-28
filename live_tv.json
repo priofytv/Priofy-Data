@@ -421,46 +421,46 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8"
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts",
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8"
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8",
+        "url": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts"
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8",
+        "url": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8"
+        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts",
+        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8"
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8",
+        "url": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts",
-        "stream_link": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts"
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8",
+        "url": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8"
       }
     ],
-    "url": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8",
-    "server1": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8",
-    "server2": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8",
-    "server3": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts"
+    "url": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts",
+    "server1": "http:\/\/rgkkw.live:8080\/live\/4dfoydR2gZ\/clever3still\/426.ts",
+    "server2": "https:\/\/tvsen5.aynaott.com\/tgUzpPc9r6xw\/index.m3u8",
+    "server3": "https:\/\/tvsen5.aynaott.com\/banglavision\/tracks-v1a1\/mono.ts.m3u8"
   },
   {
     "id": "8",
