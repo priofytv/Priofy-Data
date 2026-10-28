@@ -8043,37 +8043,37 @@
     "name": "STAR GOLD HD",
     "category": "🎟️ Movie",
     "logo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSg4tFcXA9RLE-xLf2trV2orWJtK7PT2CzU8AeT-drS7A&s=10",
-    "url": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8",
+    "url": "http:\/\/103.114.11.37:8081\/StarGold\/index.m3u8?token=dsgdfgsdfgasf",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8",
-        "url": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8"
+        "stream_link": "http:\/\/103.114.11.37:8081\/StarGold\/index.m3u8?token=dsgdfgsdfgasf",
+        "url": "http:\/\/103.114.11.37:8081\/StarGold\/index.m3u8?token=dsgdfgsdfgasf"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8"
+        "stream_link": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8",
+        "url": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8",
-        "url": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8"
+        "stream_link": "http:\/\/103.114.11.37:8081\/StarGold\/index.m3u8?token=dsgdfgsdfgasf",
+        "url": "http:\/\/103.114.11.37:8081\/StarGold\/index.m3u8?token=dsgdfgsdfgasf"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8"
+        "stream_link": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8",
+        "url": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8"
       }
     ],
-    "server1": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8",
-    "server2": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8"
+    "server1": "http:\/\/103.114.11.37:8081\/StarGold\/index.m3u8?token=dsgdfgsdfgasf",
+    "server2": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8"
   },
   {
     "id": "1793183557066",
