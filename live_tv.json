@@ -8143,9 +8143,8 @@
   {
     "id": "1793187430931",
     "name": "Star Sports 1",
-    "category": "SPORTS",
+    "category": "🏏 Sports",
     "logo": "https:\/\/abusaeeidx.github.io\/Tv-Channel-Logo\/CricHD\/runded\/16-by-xfireflix.png",
-    "server1": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Sports%201.m3u8",
     "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Sports%201.m3u8",
     "servers": [
       {
@@ -8164,6 +8163,7 @@
         "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Sports%201.m3u8",
         "referer": "https:\/\/www.rangdhonu.live\/"
       }
-    ]
+    ],
+    "server1": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Sports%201.m3u8"
   }
 ]
