@@ -4431,59 +4431,59 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/198.195.239.50:8095\/NICK\/index.m3u8",
-        "url": "http:\/\/198.195.239.50:8095\/NICK\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/NICK\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/NICK\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/103.135.253.32:8080\/NICK-Jr\/index.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/NICK-Jr\/index.m3u8"
+        "stream_link": "http:\/\/198.195.239.50:8095\/NICK\/index.m3u8",
+        "url": "http:\/\/198.195.239.50:8095\/NICK\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/53.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/53.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/NICK-Jr\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/NICK-Jr\/index.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/103.135.253.32:8080\/NICK\/index.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/NICK\/index.m3u8"
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/53.m3u8",
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/53.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/198.195.239.50:8095\/NICK\/index.m3u8",
-        "url": "http:\/\/198.195.239.50:8095\/NICK\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/NICK\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/NICK\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/103.135.253.32:8080\/NICK-Jr\/index.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/NICK-Jr\/index.m3u8"
+        "stream_link": "http:\/\/198.195.239.50:8095\/NICK\/index.m3u8",
+        "url": "http:\/\/198.195.239.50:8095\/NICK\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/53.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/53.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/NICK-Jr\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/NICK-Jr\/index.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/103.135.253.32:8080\/NICK\/index.m3u8",
-        "url": "http:\/\/103.135.253.32:8080\/NICK\/index.m3u8"
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/53.m3u8",
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/53.m3u8"
       }
     ],
-    "url": "http:\/\/198.195.239.50:8095\/NICK\/index.m3u8",
-    "server1": "http:\/\/198.195.239.50:8095\/NICK\/index.m3u8",
-    "server2": "http:\/\/103.135.253.32:8080\/NICK-Jr\/index.m3u8",
-    "server3": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/53.m3u8",
-    "server4": "http:\/\/103.135.253.32:8080\/NICK\/index.m3u8"
+    "url": "http:\/\/103.135.253.32:8080\/NICK\/index.m3u8",
+    "server1": "http:\/\/103.135.253.32:8080\/NICK\/index.m3u8",
+    "server2": "http:\/\/198.195.239.50:8095\/NICK\/index.m3u8",
+    "server3": "http:\/\/103.135.253.32:8080\/NICK-Jr\/index.m3u8",
+    "server4": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/53.m3u8"
   },
   {
     "id": "92",
