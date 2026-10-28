@@ -5538,52 +5538,52 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Discovery%20HD.m3u8",
-        "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Discovery%20HD.m3u8"
+        "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Discovery%20HD.m3u8",
+        "stream_link": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Discovery%20HD.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/cdn.toffeemovie.workers.dev\/live\/discovery_sd.m3u8",
-        "url": "https:\/\/cdn.toffeemovie.workers.dev\/live\/discovery_sd.m3u8"
+        "url": "https:\/\/cdn.toffeemovie.workers.dev\/live\/discovery_sd.m3u8",
+        "stream_link": "https:\/\/cdn.toffeemovie.workers.dev\/live\/discovery_sd.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/51.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/51.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/51.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/51.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/198.195.239.50:8095\/discovery\/tracks-v1a1\/mono.m3u8",
-        "url": "http:\/\/198.195.239.50:8095\/discovery\/tracks-v1a1\/mono.m3u8"
+        "url": "http:\/\/198.195.239.50:8095\/discovery\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "http:\/\/198.195.239.50:8095\/discovery\/tracks-v1a1\/mono.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Discovery%20HD.m3u8",
-        "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Discovery%20HD.m3u8"
+        "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Discovery%20HD.m3u8",
+        "stream_link": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Discovery%20HD.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/cdn.toffeemovie.workers.dev\/live\/discovery_sd.m3u8",
-        "url": "https:\/\/cdn.toffeemovie.workers.dev\/live\/discovery_sd.m3u8"
+        "url": "https:\/\/cdn.toffeemovie.workers.dev\/live\/discovery_sd.m3u8",
+        "stream_link": "https:\/\/cdn.toffeemovie.workers.dev\/live\/discovery_sd.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/51.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/51.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/51.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/51.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/198.195.239.50:8095\/discovery\/tracks-v1a1\/mono.m3u8",
-        "url": "http:\/\/198.195.239.50:8095\/discovery\/tracks-v1a1\/mono.m3u8"
+        "url": "http:\/\/198.195.239.50:8095\/discovery\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "http:\/\/198.195.239.50:8095\/discovery\/tracks-v1a1\/mono.m3u8"
       }
     ],
     "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Discovery%20HD.m3u8",
@@ -7880,13 +7880,25 @@
     "name": "Discovery Bangla",
     "category": "📖 Infotainment",
     "logo": "https:\/\/assets-prod.services.toffeelive.com\/f_png,w_300,q_85\/KS6x-JQBv9knK3AHwDZy\/posters\/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",
-    "url": "https:\/\/app-re.sm-monirul-islam-rs.workers.dev\/discovery-bangla\/index.m3u8",
+    "url": "http:\/\/elitenova.net\/live\/MAGTF8AV71\/bUiJLEJKG5\/510485.ts",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/app-re.sm-monirul-islam-rs.workers.dev\/discovery-bangla\/index.m3u8",
+        "stream_link": "http:\/\/elitenova.net\/live\/MAGTF8AV71\/bUiJLEJKG5\/510485.ts",
+        "url": "http:\/\/elitenova.net\/live\/MAGTF8AV71\/bUiJLEJKG5\/510485.ts"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "http:\/\/202.70.146.135:8000\/play\/a05z\/index.m3u8",
+        "url": "http:\/\/202.70.146.135:8000\/play\/a05z\/index.m3u8"
+      },
+      {
+        "name": "Server 3",
+        "display_name": "Server 3",
         "stream_link": "https:\/\/app-re.sm-monirul-islam-rs.workers.dev\/discovery-bangla\/index.m3u8",
+        "url": "https:\/\/app-re.sm-monirul-islam-rs.workers.dev\/discovery-bangla\/index.m3u8",
         "referer": "https:\/\/sm-monirul.xyz",
         "user_agent": "OTT-KING TV 1.0"
       }
@@ -7895,13 +7907,27 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/app-re.sm-monirul-islam-rs.workers.dev\/discovery-bangla\/index.m3u8",
+        "stream_link": "http:\/\/elitenova.net\/live\/MAGTF8AV71\/bUiJLEJKG5\/510485.ts",
+        "url": "http:\/\/elitenova.net\/live\/MAGTF8AV71\/bUiJLEJKG5\/510485.ts"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "http:\/\/202.70.146.135:8000\/play\/a05z\/index.m3u8",
+        "url": "http:\/\/202.70.146.135:8000\/play\/a05z\/index.m3u8"
+      },
+      {
+        "name": "Server 3",
+        "display_name": "Server 3",
         "stream_link": "https:\/\/app-re.sm-monirul-islam-rs.workers.dev\/discovery-bangla\/index.m3u8",
+        "url": "https:\/\/app-re.sm-monirul-islam-rs.workers.dev\/discovery-bangla\/index.m3u8",
         "referer": "https:\/\/sm-monirul.xyz",
         "user_agent": "OTT-KING TV 1.0"
       }
     ],
-    "server1": "https:\/\/app-re.sm-monirul-islam-rs.workers.dev\/discovery-bangla\/index.m3u8"
+    "server1": "http:\/\/elitenova.net\/live\/MAGTF8AV71\/bUiJLEJKG5\/510485.ts",
+    "server2": "http:\/\/202.70.146.135:8000\/play\/a05z\/index.m3u8",
+    "server3": "https:\/\/app-re.sm-monirul-islam-rs.workers.dev\/discovery-bangla\/index.m3u8"
   },
   {
     "id": "1792347216276",
