@@ -8139,31 +8139,5 @@
     "server1": "http:\/\/103.151.60.162:2122\/play\/a01b\/index.m3u8?hls",
     "server2": "http:\/\/103.151.60.162:2122\/play\/a01c\/index.m3u8?hls",
     "server3": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8"
-  },
-  {
-    "id": "1793187430931",
-    "name": "Star Sports 1",
-    "category": "🏏 Sports",
-    "logo": "https:\/\/abusaeeidx.github.io\/Tv-Channel-Logo\/CricHD\/runded\/16-by-xfireflix.png",
-    "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Sports%201.m3u8",
-    "servers": [
-      {
-        "name": "Server 1",
-        "display_name": "Server 1",
-        "stream_link": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Sports%201.m3u8",
-        "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Sports%201.m3u8",
-        "referer": "https:\/\/www.rangdhonu.live\/"
-      }
-    ],
-    "link_live": [
-      {
-        "name": "Server 1",
-        "display_name": "Server 1",
-        "stream_link": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Sports%201.m3u8",
-        "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Sports%201.m3u8",
-        "referer": "https:\/\/www.rangdhonu.live\/"
-      }
-    ],
-    "server1": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Sports%201.m3u8"
   }
 ]
