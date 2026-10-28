@@ -8080,11 +8080,17 @@
     "name": "Sony Sports 1 ",
     "category": "🏏 Sports",
     "logo": "https:\/\/xstreamcp-assets-msp.streamready.in\/assets\/LIVETV\/LIVECHANNEL\/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1\/images\/LOGO_HD\/image.png",
-    "url": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8",
+    "url": "http:\/\/103.151.60.162:2122\/play\/a01c\/index.m3u8?hls",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
+        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a01c\/index.m3u8?hls",
+        "url": "http:\/\/103.151.60.162:2122\/play\/a01c\/index.m3u8?hls"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
         "stream_link": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8",
         "url": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8"
       }
@@ -8093,10 +8099,17 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
+        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a01c\/index.m3u8?hls",
+        "url": "http:\/\/103.151.60.162:2122\/play\/a01c\/index.m3u8?hls"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
         "stream_link": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8",
         "url": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8"
       }
     ],
-    "server1": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8"
+    "server1": "http:\/\/103.151.60.162:2122\/play\/a01c\/index.m3u8?hls",
+    "server2": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8"
   }
 ]
