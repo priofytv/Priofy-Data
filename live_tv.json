@@ -2807,40 +2807,40 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/sony_aath_abr\/index.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/sony_aath_abr\/index.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/sony_aath_abr\/index.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/sony_aath_abr\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8"
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8",
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8",
-        "url": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8"
+        "url": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/sony_aath_abr\/index.m3u8",
-        "url": "https:\/\/stream.ottplus.live\/live\/sony_aath_abr\/index.m3u8"
+        "url": "https:\/\/stream.ottplus.live\/live\/sony_aath_abr\/index.m3u8",
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/sony_aath_abr\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8"
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8",
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/sony_aath_abr\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8",
-        "url": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8"
+        "url": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8",
+        "stream_link": "http:\/\/198.195.239.50:8095\/sonyAath\/tracks-v1a1\/mono.m3u8"
       }
     ],
     "url": "https:\/\/stream.ottplus.live\/live\/sony_aath_abr\/index.m3u8",
@@ -4425,7 +4425,7 @@
   {
     "id": "91",
     "category": "🐤 Kids",
-    "name": "Nick",
+    "name": "Nick Bangla",
     "logo": "http:\/\/198.195.239.50\/img\/channels\/NICK.png",
     "servers": [
       {
