@@ -6030,42 +6030,42 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%202.m3u8",
         "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%202.m3u8",
+        "stream_link": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%202.m3u8",
         "referer": "https:\/\/www.rangdhonu.live\/"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test",
-        "url": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test"
+        "url": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test",
+        "stream_link": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%202.m3u8",
         "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%202.m3u8",
+        "stream_link": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%202.m3u8",
         "referer": "https:\/\/www.rangdhonu.live\/"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test",
-        "url": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test"
+        "url": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test",
+        "stream_link": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8",
-        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8"
+        "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8",
+        "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8"
       }
     ],
     "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%202.m3u8",
@@ -8008,26 +8008,26 @@
   {
     "id": "1792956030955",
     "name": "MUSIC BANGLA",
-    "category": "BANGLA MUSIC",
+    "category": "🎧 Music",
     "logo": "https:\/\/static.wikia.nocookie.net\/logopedia\/images\/7\/75\/Music_Bangla_new.jpeg",
-    "server1": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/musicbangla2025.stream\/playlist.m3u8",
     "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/musicbangla2025.stream\/playlist.m3u8",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/musicbangla2025.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/musicbangla2025.stream\/playlist.m3u8"
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/musicbangla2025.stream\/playlist.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/musicbangla2025.stream\/playlist.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/musicbangla2025.stream\/playlist.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/musicbangla2025.stream\/playlist.m3u8"
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/musicbangla2025.stream\/playlist.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/musicbangla2025.stream\/playlist.m3u8"
       }
-    ]
+    ],
+    "server1": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/musicbangla2025.stream\/playlist.m3u8"
   },
   {
     "id": "1792990026435",
@@ -8063,28 +8063,28 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.114.11.37:8081\/StarGold\/index.m3u8?token=dsgdfgsdfgasf",
-        "url": "http:\/\/103.114.11.37:8081\/StarGold\/index.m3u8?token=dsgdfgsdfgasf"
+        "url": "http:\/\/103.114.11.37:8081\/StarGold\/index.m3u8?token=dsgdfgsdfgasf",
+        "stream_link": "http:\/\/103.114.11.37:8081\/StarGold\/index.m3u8?token=dsgdfgsdfgasf"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8",
-        "url": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8"
+        "url": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8",
+        "stream_link": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.114.11.37:8081\/StarGold\/index.m3u8?token=dsgdfgsdfgasf",
-        "url": "http:\/\/103.114.11.37:8081\/StarGold\/index.m3u8?token=dsgdfgsdfgasf"
+        "url": "http:\/\/103.114.11.37:8081\/StarGold\/index.m3u8?token=dsgdfgsdfgasf",
+        "stream_link": "http:\/\/103.114.11.37:8081\/StarGold\/index.m3u8?token=dsgdfgsdfgasf"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8",
-        "url": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8"
+        "url": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8",
+        "stream_link": "http:\/\/66.102.126.10:8000\/play\/a00f\/index.m3u8"
       }
     ],
     "server1": "http:\/\/103.114.11.37:8081\/StarGold\/index.m3u8?token=dsgdfgsdfgasf",
@@ -8100,40 +8100,40 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a01b\/index.m3u8?hls",
-        "url": "http:\/\/103.151.60.162:2122\/play\/a01b\/index.m3u8?hls"
+        "url": "http:\/\/103.151.60.162:2122\/play\/a01b\/index.m3u8?hls",
+        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a01b\/index.m3u8?hls"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a01c\/index.m3u8?hls",
-        "url": "http:\/\/103.151.60.162:2122\/play\/a01c\/index.m3u8?hls"
+        "url": "http:\/\/103.151.60.162:2122\/play\/a01c\/index.m3u8?hls",
+        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a01c\/index.m3u8?hls"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8",
-        "url": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8"
+        "url": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8",
+        "stream_link": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a01b\/index.m3u8?hls",
-        "url": "http:\/\/103.151.60.162:2122\/play\/a01b\/index.m3u8?hls"
+        "url": "http:\/\/103.151.60.162:2122\/play\/a01b\/index.m3u8?hls",
+        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a01b\/index.m3u8?hls"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a01c\/index.m3u8?hls",
-        "url": "http:\/\/103.151.60.162:2122\/play\/a01c\/index.m3u8?hls"
+        "url": "http:\/\/103.151.60.162:2122\/play\/a01c\/index.m3u8?hls",
+        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a01c\/index.m3u8?hls"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8",
-        "url": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8"
+        "url": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8",
+        "stream_link": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8"
       }
     ],
     "server1": "http:\/\/103.151.60.162:2122\/play\/a01b\/index.m3u8?hls",
