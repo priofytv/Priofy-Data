@@ -6030,12 +6030,19 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test",
-        "url": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test"
+        "stream_link": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%202.m3u8",
+        "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%202.m3u8",
+        "referer": "https:\/\/www.rangdhonu.live\/"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
+        "stream_link": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test",
+        "url": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test"
+      },
+      {
+        "name": "Server 3",
+        "display_name": "Server 3",
         "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8",
         "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8"
       }
@@ -6044,19 +6051,27 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test",
-        "url": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test"
+        "stream_link": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%202.m3u8",
+        "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%202.m3u8",
+        "referer": "https:\/\/www.rangdhonu.live\/"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
+        "stream_link": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test",
+        "url": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test"
+      },
+      {
+        "name": "Server 3",
+        "display_name": "Server 3",
         "stream_link": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8",
         "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8"
       }
     ],
-    "url": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test",
-    "server1": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test",
-    "server2": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8"
+    "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%202.m3u8",
+    "server1": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%202.m3u8",
+    "server2": "http:\/\/107.167.16.138\/stargold2\/index.m3u8?token=test",
+    "server3": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8"
   },
   {
     "id": "132",
