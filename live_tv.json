@@ -8089,5 +8089,29 @@
         "url": "http:\/\/livetv.akr4m.com:8080\/bdtv\/restrem\/45.m3u8"
       }
     ]
+  },
+  {
+    "id": "1793183557066",
+    "name": "Sony Sports Ten 1 (1080p)",
+    "category": "SPORTS",
+    "logo": "https:\/\/xstreamcp-assets-msp.streamready.in\/assets\/LIVETV\/LIVECHANNEL\/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1\/images\/LOGO_HD\/image.png",
+    "server1": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8",
+    "url": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8",
+    "servers": [
+      {
+        "name": "Server 1",
+        "display_name": "Server 1",
+        "stream_link": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8",
+        "url": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8"
+      }
+    ],
+    "link_live": [
+      {
+        "name": "Server 1",
+        "display_name": "Server 1",
+        "stream_link": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8",
+        "url": "https:\/\/cloudplay-sonyliv.pages.dev\/ten1.m3u8"
+      }
+    ]
   }
 ]
