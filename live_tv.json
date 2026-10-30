@@ -2214,8 +2214,8 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8",
+        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8"
       },
       {
         "name": "Server 2",
@@ -2274,16 +2274,16 @@
       {
         "name": "Server 11",
         "display_name": "Server 11",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8"
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8",
+        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8"
       },
       {
         "name": "Server 2",
@@ -2342,12 +2342,12 @@
       {
         "name": "Server 11",
         "display_name": "Server 11",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8"
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8"
       }
     ],
-    "url": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8",
-    "server1": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8",
+    "url": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8",
+    "server1": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8",
     "server2": "http:\/\/103.16.24.4:8083\/14.m3u8",
     "server3": "http:\/\/45.117.61.162\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8",
     "server4": "https:\/\/flussonic.defineatoz.com\/TSports2\/tracks-v1a1\/mono.m3u8",
@@ -2357,7 +2357,7 @@
     "server8": "https:\/\/flussonic.deltainfonet.com\/01_Tsports_HD\/tracks-v1a1\/mono.m3u8",
     "server9": "https:\/\/bdixtvbd.netlify.app\/stream\/sports1\/playlist.m3u8",
     "server10": "http:\/\/103.114.11.37:8081\/T-Sports-FHD\/index.m3u8?token=dsgdfgsdfgasf",
-    "server11": "https:\/\/tvsen5.aynaott.com\/TnMn5kZz8aLmjklkk\/index.m3u8"
+    "server11": "https:\/\/flussonic.defineatoz.com\/backup\/tracks-v1a1\/mono.m3u8"
   },
   {
     "id": "46",
