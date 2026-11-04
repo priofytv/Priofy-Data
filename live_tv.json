@@ -7893,41 +7893,26 @@
   },
   {
     "id": "1793814414279",
-    "name": "Star Gold",
-    "category": "NOT PLAYING",
+    "name": "Star Gold HD",
+    "category": "All",
     "logo": "https:\/\/raw.githubusercontent.com\/saeidrahmanbd\/BDIX-IPTV\/main\/logos\/repaired-star-gold-de06c8e974.png",
-    "server1": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%20HD.m3u8",
-    "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%20HD.m3u8",
-    "server2": "http:\/\/103.185.24.134:3001\/Star-Gold\/index.m3u8",
+    "url": "http:\/\/103.135.253.32:8080\/STAR-GOLD-HD\/index.m3u8",
     "servers": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%20HD.m3u8",
-        "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%20HD.m3u8",
-        "referer": "https:\/\/www.rangdhonu.live\/"
-      },
-      {
-        "name": "Server 2",
-        "display_name": "Server 2",
-        "stream_link": "http:\/\/103.185.24.134:3001\/Star-Gold\/index.m3u8",
-        "url": "http:\/\/103.185.24.134:3001\/Star-Gold\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/STAR-GOLD-HD\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/STAR-GOLD-HD\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%20HD.m3u8",
-        "url": "https:\/\/app.uckingcrazy1.workers.dev\/api\/play\/Star%20Gold%20HD.m3u8",
-        "referer": "https:\/\/www.rangdhonu.live\/"
-      },
-      {
-        "name": "Server 2",
-        "display_name": "Server 2",
-        "stream_link": "http:\/\/103.185.24.134:3001\/Star-Gold\/index.m3u8",
-        "url": "http:\/\/103.185.24.134:3001\/Star-Gold\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/STAR-GOLD-HD\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/STAR-GOLD-HD\/index.m3u8"
       }
-    ]
+    ],
+    "server1": "http:\/\/103.135.253.32:8080\/STAR-GOLD-HD\/index.m3u8"
   }
 ]
