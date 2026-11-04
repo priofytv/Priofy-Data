@@ -7907,11 +7907,9 @@
   {
     "id": "1793813775483",
     "name": "Star Movies Select",
-    "category": "MOVIES",
+    "category": "🎟️ Movie",
     "logo": "https:\/\/raw.githubusercontent.com\/saeidrahmanbd\/BDIX-IPTV\/main\/logos\/star-movies-select-37627406.png",
-    "server1": "http:\/\/rgkkw.live\/live\/1Aoen7elp5\/IgMJ60tmAa\/98842.ts",
     "url": "http:\/\/rgkkw.live\/live\/1Aoen7elp5\/IgMJ60tmAa\/98842.ts",
-    "server2": "http:\/\/103.135.253.32:8080\/STAR-MOVIES-SEL\/index.m3u8",
     "servers": [
       {
         "name": "Server 1",
@@ -7939,6 +7937,8 @@
         "stream_link": "http:\/\/103.135.253.32:8080\/STAR-MOVIES-SEL\/index.m3u8",
         "url": "http:\/\/103.135.253.32:8080\/STAR-MOVIES-SEL\/index.m3u8"
       }
-    ]
+    ],
+    "server1": "http:\/\/rgkkw.live\/live\/1Aoen7elp5\/IgMJ60tmAa\/98842.ts",
+    "server2": "http:\/\/103.135.253.32:8080\/STAR-MOVIES-SEL\/index.m3u8"
   }
 ]
