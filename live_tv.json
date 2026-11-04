@@ -140,32 +140,32 @@
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/iptvlive.ahmed-bd-org.workers.dev\/somoy-tv-2\/index.m3u8",
+        "url": "https:\/\/iptvlive.ahmed-bd-org.workers.dev\/somoy-tv-2\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8",
-        "url": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8"
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8",
-        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8"
+        "stream_link": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8",
+        "url": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8"
       },
       {
         "name": "Server 6",
         "display_name": "Server 6",
-        "stream_link": "https:\/\/iptvlive.ahmed-bd-org.workers.dev\/somoy-tv-2\/index.m3u8",
-        "url": "https:\/\/iptvlive.ahmed-bd-org.workers.dev\/somoy-tv-2\/index.m3u8"
+        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8",
+        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8"
       }
     ],
     "link_live": [
@@ -178,41 +178,41 @@
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "stream_link": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/iptvlive.ahmed-bd-org.workers.dev\/somoy-tv-2\/index.m3u8",
+        "url": "https:\/\/iptvlive.ahmed-bd-org.workers.dev\/somoy-tv-2\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "stream_link": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8",
-        "url": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "stream_link": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8",
-        "url": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8"
+        "stream_link": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8"
       },
       {
         "name": "Server 5",
         "display_name": "Server 5",
-        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8",
-        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8"
+        "stream_link": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8",
+        "url": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8"
       },
       {
         "name": "Server 6",
         "display_name": "Server 6",
-        "stream_link": "https:\/\/iptvlive.ahmed-bd-org.workers.dev\/somoy-tv-2\/index.m3u8",
-        "url": "https:\/\/iptvlive.ahmed-bd-org.workers.dev\/somoy-tv-2\/index.m3u8"
+        "stream_link": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8",
+        "url": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8"
       }
     ],
     "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/somoy_tv_abr\/index.m3u8",
     "server1": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/somoy_tv_abr\/index.m3u8",
-    "server2": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8",
-    "server3": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8",
-    "server4": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8",
-    "server5": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8",
-    "server6": "https:\/\/iptvlive.ahmed-bd-org.workers.dev\/somoy-tv-2\/index.m3u8"
+    "server2": "https:\/\/iptvlive.ahmed-bd-org.workers.dev\/somoy-tv-2\/index.m3u8",
+    "server3": "https:\/\/tvsen5.aynaott.com\/somoytv\/tracks-v1a1\/mono.m3u8",
+    "server4": "https:\/\/flussonic.defineatoz.com\/somoy1\/tracks-v1a1\/mono.m3u8",
+    "server5": "http:\/\/198.195.239.50:8095\/somoyTv\/index.m3u8",
+    "server6": "https:\/\/bd.toffeeplay.workers.dev\/live\/somoy_tv.m3u8"
   },
   {
     "id": "3",
