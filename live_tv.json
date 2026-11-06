@@ -6195,8 +6195,8 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_cinema_abr\/index.m3u8",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_cinema_abr\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/ZEE-BANGLA-CINEMA\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/ZEE-BANGLA-CINEMA\/index.m3u8"
       },
       {
         "name": "Server 2",
@@ -6207,6 +6207,18 @@
       {
         "name": "Server 3",
         "display_name": "Server 3",
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_cinema_abr\/index.m3u8",
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_cinema_abr\/index.m3u8"
+      },
+      {
+        "name": "Server 4",
+        "display_name": "Server 4",
+        "stream_link": "https:\/\/d1g8wgjurz8via.cloudfront.net\/bpk-tv\/ColorsHD\/default\/ColorsHD.m3u8",
+        "url": "https:\/\/d1g8wgjurz8via.cloudfront.net\/bpk-tv\/ColorsHD\/default\/ColorsHD.m3u8"
+      },
+      {
+        "name": "Server 5",
+        "display_name": "Server 5",
         "stream_link": "https:\/\/d1g8wgjurz8via.cloudfront.net\/bpk-tv\/NGCHD\/default\/NGCHD.m3u8",
         "url": "https:\/\/d1g8wgjurz8via.cloudfront.net\/bpk-tv\/NGCHD\/default\/NGCHD.m3u8"
       }
@@ -6215,8 +6227,8 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_cinema_abr\/index.m3u8",
-        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_cinema_abr\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/ZEE-BANGLA-CINEMA\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/ZEE-BANGLA-CINEMA\/index.m3u8"
       },
       {
         "name": "Server 2",
@@ -6227,14 +6239,28 @@
       {
         "name": "Server 3",
         "display_name": "Server 3",
+        "stream_link": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_cinema_abr\/index.m3u8",
+        "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_cinema_abr\/index.m3u8"
+      },
+      {
+        "name": "Server 4",
+        "display_name": "Server 4",
+        "stream_link": "https:\/\/d1g8wgjurz8via.cloudfront.net\/bpk-tv\/ColorsHD\/default\/ColorsHD.m3u8",
+        "url": "https:\/\/d1g8wgjurz8via.cloudfront.net\/bpk-tv\/ColorsHD\/default\/ColorsHD.m3u8"
+      },
+      {
+        "name": "Server 5",
+        "display_name": "Server 5",
         "stream_link": "https:\/\/d1g8wgjurz8via.cloudfront.net\/bpk-tv\/NGCHD\/default\/NGCHD.m3u8",
         "url": "https:\/\/d1g8wgjurz8via.cloudfront.net\/bpk-tv\/NGCHD\/default\/NGCHD.m3u8"
       }
     ],
-    "url": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_cinema_abr\/index.m3u8",
-    "server1": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_cinema_abr\/index.m3u8",
+    "url": "http:\/\/103.135.253.32:8080\/ZEE-BANGLA-CINEMA\/index.m3u8",
+    "server1": "http:\/\/103.135.253.32:8080\/ZEE-BANGLA-CINEMA\/index.m3u8",
     "server2": "https:\/\/d1g8wgjurz8via.cloudfront.net\/bpk-tv\/ColorsHD\/default\/ColorsHD.m3u8",
-    "server3": "https:\/\/d1g8wgjurz8via.cloudfront.net\/bpk-tv\/NGCHD\/default\/NGCHD.m3u8"
+    "server3": "https:\/\/drk6xq0vhn.gpcdn.net\/live\/zee_bangla_cinema_abr\/index.m3u8",
+    "server4": "https:\/\/d1g8wgjurz8via.cloudfront.net\/bpk-tv\/ColorsHD\/default\/ColorsHD.m3u8",
+    "server5": "https:\/\/d1g8wgjurz8via.cloudfront.net\/bpk-tv\/NGCHD\/default\/NGCHD.m3u8"
   },
   {
     "id": "143",
