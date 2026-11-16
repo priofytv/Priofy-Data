@@ -6822,33 +6822,48 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#fb:M3U_World_4K",
-        "stream_link": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#fb:M3U_World_4K"
+        "stream_link": "https:\/\/techandeat.online\/sliv\/stream.m3u8?id=1000009247",
+        "url": "https:\/\/techandeat.online\/sliv\/stream.m3u8?id=1000009247",
+        "referer": "https:\/\/techandeat.online"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#skym3u.dev",
-        "stream_link": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#skym3u.dev"
+        "stream_link": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#fb:M3U_World_4K",
+        "url": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#fb:M3U_World_4K"
+      },
+      {
+        "name": "Server 3",
+        "display_name": "Server 3",
+        "stream_link": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#skym3u.dev",
+        "url": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#skym3u.dev"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#fb:M3U_World_4K",
-        "stream_link": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#fb:M3U_World_4K"
+        "stream_link": "https:\/\/techandeat.online\/sliv\/stream.m3u8?id=1000009247",
+        "url": "https:\/\/techandeat.online\/sliv\/stream.m3u8?id=1000009247",
+        "referer": "https:\/\/techandeat.online"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#skym3u.dev",
-        "stream_link": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#skym3u.dev"
+        "stream_link": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#fb:M3U_World_4K",
+        "url": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#fb:M3U_World_4K"
+      },
+      {
+        "name": "Server 3",
+        "display_name": "Server 3",
+        "stream_link": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#skym3u.dev",
+        "url": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#skym3u.dev"
       }
     ],
-    "url": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#fb:M3U_World_4K",
-    "server1": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#fb:M3U_World_4K",
-    "server2": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#skym3u.dev"
+    "url": "https:\/\/techandeat.online\/sliv\/stream.m3u8?id=1000009247",
+    "server1": "https:\/\/techandeat.online\/sliv\/stream.m3u8?id=1000009247",
+    "server2": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#fb:M3U_World_4K",
+    "server3": "http:\/\/103.135.253.32:8080\/HUNGAMA\/index.m3u8#skym3u.dev"
   },
   {
     "id": "146",
