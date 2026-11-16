@@ -3121,57 +3121,57 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/103.151.60.162:2122\/play\/a01p\/index.m3u8?hls",
-        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a01p\/index.m3u8?hls"
+        "stream_link": "http:\/\/27.124.71.27\/Sun_Bangla\/index.m3u8",
+        "url": "http:\/\/27.124.71.27\/Sun_Bangla\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/27.124.71.27\/Sun_Bangla\/index.m3u8",
-        "stream_link": "http:\/\/27.124.71.27\/Sun_Bangla\/index.m3u8"
+        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a01p\/index.m3u8?hls",
+        "url": "http:\/\/103.151.60.162:2122\/play\/a01p\/index.m3u8?hls"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1669.m3u8",
-        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1669.m3u8"
+        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1669.m3u8",
+        "url": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1669.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/box.bbaria.net\/SUN_BANGLA\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "https:\/\/box.bbaria.net\/SUN_BANGLA\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/box.bbaria.net\/SUN_BANGLA\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/box.bbaria.net\/SUN_BANGLA\/tracks-v1a1\/mono.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/103.151.60.162:2122\/play\/a01p\/index.m3u8?hls",
-        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a01p\/index.m3u8?hls"
+        "stream_link": "http:\/\/27.124.71.27\/Sun_Bangla\/index.m3u8",
+        "url": "http:\/\/27.124.71.27\/Sun_Bangla\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/27.124.71.27\/Sun_Bangla\/index.m3u8",
-        "stream_link": "http:\/\/27.124.71.27\/Sun_Bangla\/index.m3u8"
+        "stream_link": "http:\/\/103.151.60.162:2122\/play\/a01p\/index.m3u8?hls",
+        "url": "http:\/\/103.151.60.162:2122\/play\/a01p\/index.m3u8?hls"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1669.m3u8",
-        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1669.m3u8"
+        "stream_link": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1669.m3u8",
+        "url": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1669.m3u8"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/box.bbaria.net\/SUN_BANGLA\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "https:\/\/box.bbaria.net\/SUN_BANGLA\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/box.bbaria.net\/SUN_BANGLA\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/box.bbaria.net\/SUN_BANGLA\/tracks-v1a1\/mono.m3u8"
       }
     ],
-    "url": "http:\/\/103.151.60.162:2122\/play\/a01p\/index.m3u8?hls",
-    "server1": "http:\/\/103.151.60.162:2122\/play\/a01p\/index.m3u8?hls",
-    "server2": "http:\/\/27.124.71.27\/Sun_Bangla\/index.m3u8",
+    "url": "http:\/\/27.124.71.27\/Sun_Bangla\/index.m3u8",
+    "server1": "http:\/\/27.124.71.27\/Sun_Bangla\/index.m3u8",
+    "server2": "http:\/\/103.151.60.162:2122\/play\/a01p\/index.m3u8?hls",
     "server3": "http:\/\/live.balajibroadband.com:3500\/live\/auto\/1669.m3u8",
     "server4": "https:\/\/box.bbaria.net\/SUN_BANGLA\/tracks-v1a1\/mono.m3u8"
   },
