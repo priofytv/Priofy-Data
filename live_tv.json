@@ -1717,56 +1717,59 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/stream.ottplus.live\/live\/nexus_tv_abr\/index.m3u8",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/nexus_tv_abr\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/Epm7WrFa\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/Epm7WrFa\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tvsen6.aynaott.com\/Epm7WrFa\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/Epm7WrFa\/index.m3u8"
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/nexus_tv_abr\/index.m3u8",
+        "url": "https:\/\/stream.ottplus.live\/live\/nexus_tv_abr\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/411.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/411.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/411.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/411.ts"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/nexustv.stream\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/nexustv.stream\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/nexustv.stream\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/nexustv.stream\/tracks-v1a1\/mono.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/stream.ottplus.live\/live\/nexus_tv_abr\/index.m3u8",
-        "stream_link": "https:\/\/stream.ottplus.live\/live\/nexus_tv_abr\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/Epm7WrFa\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/Epm7WrFa\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tvsen6.aynaott.com\/Epm7WrFa\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/Epm7WrFa\/index.m3u8"
+        "stream_link": "https:\/\/stream.ottplus.live\/live\/nexus_tv_abr\/index.m3u8",
+        "url": "https:\/\/stream.ottplus.live\/live\/nexus_tv_abr\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/411.ts",
-        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/411.ts"
+        "stream_link": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/411.ts",
+        "url": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/411.ts"
       },
       {
         "name": "Server 4",
         "display_name": "Server 4",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/nexustv.stream\/tracks-v1a1\/mono.m3u8",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/nexustv.stream\/tracks-v1a1\/mono.m3u8"
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/nexustv.stream\/tracks-v1a1\/mono.m3u8",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/nexustv.stream\/tracks-v1a1\/mono.m3u8"
       }
     ],
-    "server1": "https:\/\/stream.ottplus.live\/live\/nexus_tv_abr\/index.m3u8",
-    "url": "https:\/\/stream.ottplus.live\/live\/nexus_tv_abr\/index.m3u8"
+    "url": "https:\/\/tvsen6.aynaott.com\/Epm7WrFa\/index.m3u8",
+    "server1": "https:\/\/tvsen6.aynaott.com\/Epm7WrFa\/index.m3u8",
+    "server2": "https:\/\/stream.ottplus.live\/live\/nexus_tv_abr\/index.m3u8",
+    "server3": "http:\/\/premiumtvs.space\/live\/1Aoen7elp5\/IgMJ60tmAa\/411.ts",
+    "server4": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/nexustv.stream\/tracks-v1a1\/mono.m3u8"
   },
   {
     "id": "33",
