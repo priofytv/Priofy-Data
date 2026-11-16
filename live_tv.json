@@ -5737,20 +5737,46 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8",
-        "stream_link": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8"
+        "stream_link": "https:\/\/tvsen3.aynaott.com\/z24qLsqV\/index.m3u8",
+        "url": "https:\/\/tvsen3.aynaott.com\/z24qLsqV\/index.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/master.m3u8",
+        "url": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/master.m3u8"
+      },
+      {
+        "name": "Server 3",
+        "display_name": "Server 3",
+        "stream_link": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8",
+        "url": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8",
-        "stream_link": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8"
+        "stream_link": "https:\/\/tvsen3.aynaott.com\/z24qLsqV\/index.m3u8",
+        "url": "https:\/\/tvsen3.aynaott.com\/z24qLsqV\/index.m3u8"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/master.m3u8",
+        "url": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/master.m3u8"
+      },
+      {
+        "name": "Server 3",
+        "display_name": "Server 3",
+        "stream_link": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8",
+        "url": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8"
       }
     ],
-    "url": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8",
-    "server1": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8"
+    "url": "https:\/\/tvsen3.aynaott.com\/z24qLsqV\/index.m3u8",
+    "server1": "https:\/\/tvsen3.aynaott.com\/z24qLsqV\/index.m3u8",
+    "server2": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/master.m3u8",
+    "server3": "https:\/\/streaming.madanichannel.tv\/static\/streaming-playlists\/hls\/d3e49b76-ac06-4689-a641-9200445b647f\/0.m3u8"
   },
   {
     "id": "125",
