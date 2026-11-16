@@ -7264,44 +7264,72 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8",
-        "stream_link": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8"
+        "stream_link": "http:\/\/27.124.71.27\/Movies_Now\/index.m3u8",
+        "url": "http:\/\/27.124.71.27\/Movies_Now\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts",
-        "stream_link": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts"
+        "stream_link": "http:\/\/27.124.71.27\/Movies_Now\/index.m3u8",
+        "url": "http:\/\/27.124.71.27\/Movies_Now\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8",
-        "stream_link": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8"
+      },
+      {
+        "name": "Server 4",
+        "display_name": "Server 4",
+        "stream_link": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts",
+        "url": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts"
+      },
+      {
+        "name": "Server 5",
+        "display_name": "Server 5",
+        "stream_link": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8",
+        "url": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8",
-        "stream_link": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8"
+        "stream_link": "http:\/\/27.124.71.27\/Movies_Now\/index.m3u8",
+        "url": "http:\/\/27.124.71.27\/Movies_Now\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts",
-        "stream_link": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts"
+        "stream_link": "http:\/\/27.124.71.27\/Movies_Now\/index.m3u8",
+        "url": "http:\/\/27.124.71.27\/Movies_Now\/index.m3u8"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8",
-        "stream_link": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8"
+        "stream_link": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8",
+        "url": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8"
+      },
+      {
+        "name": "Server 4",
+        "display_name": "Server 4",
+        "stream_link": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts",
+        "url": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts"
+      },
+      {
+        "name": "Server 5",
+        "display_name": "Server 5",
+        "stream_link": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8",
+        "url": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8"
       }
     ],
-    "server1": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8",
-    "url": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8"
+    "url": "http:\/\/27.124.71.27\/Movies_Now\/index.m3u8",
+    "server1": "http:\/\/27.124.71.27\/Movies_Now\/index.m3u8",
+    "server2": "http:\/\/27.124.71.27\/Movies_Now\/index.m3u8",
+    "server3": "http:\/\/103.135.253.32:8080\/MOVIES-NOW\/index.m3u8",
+    "server4": "http:\/\/opplex.ch:8080\/live\/abdulrehman\/12345678\/109968.ts",
+    "server5": "http:\/\/202.70.146.135:8000\/play\/a057\/index.m3u8"
   },
   {
     "id": "155",
