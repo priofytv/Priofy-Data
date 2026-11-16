@@ -307,44 +307,59 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c",
+        "url": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/News-24.m3u8",
-        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/News-24.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8"
+      },
+      {
+        "name": "Server 4",
+        "display_name": "Server 4",
+        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/News-24.m3u8",
+        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/News-24.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8"
       },
       {
         "name": "Server 2",
         "display_name": "Server 2",
-        "url": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8",
-        "stream_link": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c",
+        "url": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c"
       },
       {
         "name": "Server 3",
         "display_name": "Server 3",
-        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/News-24.m3u8",
-        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/News-24.m3u8"
+        "stream_link": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8",
+        "url": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8"
+      },
+      {
+        "name": "Server 4",
+        "display_name": "Server 4",
+        "stream_link": "https:\/\/tv.kbhub.online\/Bangladesh\/News-24.m3u8",
+        "url": "https:\/\/tv.kbhub.online\/Bangladesh\/News-24.m3u8"
       }
     ],
-    "server1": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c",
-    "url": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c"
+    "url": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8",
+    "server1": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8",
+    "server2": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c",
+    "server3": "https:\/\/tvsen6.aynaott.com\/cdgr3tw6WoG7JyRnLbi0\/index.m3u8",
+    "server4": "https:\/\/tv.kbhub.online\/Bangladesh\/News-24.m3u8"
   },
   {
     "id": "5",
