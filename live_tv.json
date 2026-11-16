@@ -4209,20 +4209,33 @@
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/d27zlkxhgwrfgo.cloudfront.net\/v1\/master\/9d43eacaed199f8d5883927e7aef514a8a08e108\/ETV_CINEMA_H264_cloud_in\/index.m3u8",
-        "stream_link": "https:\/\/d27zlkxhgwrfgo.cloudfront.net\/v1\/master\/9d43eacaed199f8d5883927e7aef514a8a08e108\/ETV_CINEMA_H264_cloud_in\/index.m3u8"
+        "stream_link": "https:\/\/yupplivegcpusa.yuppcdn.net\/100823\/smil:etvcinema.smil\/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+        "url": "https:\/\/yupplivegcpusa.yuppcdn.net\/100823\/smil:etvcinema.smil\/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "https:\/\/d27zlkxhgwrfgo.cloudfront.net\/v1\/master\/9d43eacaed199f8d5883927e7aef514a8a08e108\/ETV_CINEMA_H264_cloud_in\/index.m3u8",
+        "url": "https:\/\/d27zlkxhgwrfgo.cloudfront.net\/v1\/master\/9d43eacaed199f8d5883927e7aef514a8a08e108\/ETV_CINEMA_H264_cloud_in\/index.m3u8"
       }
     ],
     "link_live": [
       {
         "name": "Server 1",
         "display_name": "Server 1",
-        "url": "https:\/\/d27zlkxhgwrfgo.cloudfront.net\/v1\/master\/9d43eacaed199f8d5883927e7aef514a8a08e108\/ETV_CINEMA_H264_cloud_in\/index.m3u8",
-        "stream_link": "https:\/\/d27zlkxhgwrfgo.cloudfront.net\/v1\/master\/9d43eacaed199f8d5883927e7aef514a8a08e108\/ETV_CINEMA_H264_cloud_in\/index.m3u8"
+        "stream_link": "https:\/\/yupplivegcpusa.yuppcdn.net\/100823\/smil:etvcinema.smil\/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+        "url": "https:\/\/yupplivegcpusa.yuppcdn.net\/100823\/smil:etvcinema.smil\/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+      },
+      {
+        "name": "Server 2",
+        "display_name": "Server 2",
+        "stream_link": "https:\/\/d27zlkxhgwrfgo.cloudfront.net\/v1\/master\/9d43eacaed199f8d5883927e7aef514a8a08e108\/ETV_CINEMA_H264_cloud_in\/index.m3u8",
+        "url": "https:\/\/d27zlkxhgwrfgo.cloudfront.net\/v1\/master\/9d43eacaed199f8d5883927e7aef514a8a08e108\/ETV_CINEMA_H264_cloud_in\/index.m3u8"
       }
     ],
-    "url": "https:\/\/d27zlkxhgwrfgo.cloudfront.net\/v1\/master\/9d43eacaed199f8d5883927e7aef514a8a08e108\/ETV_CINEMA_H264_cloud_in\/index.m3u8",
-    "server1": "https:\/\/d27zlkxhgwrfgo.cloudfront.net\/v1\/master\/9d43eacaed199f8d5883927e7aef514a8a08e108\/ETV_CINEMA_H264_cloud_in\/index.m3u8"
+    "url": "https:\/\/yupplivegcpusa.yuppcdn.net\/100823\/smil:etvcinema.smil\/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "server1": "https:\/\/yupplivegcpusa.yuppcdn.net\/100823\/smil:etvcinema.smil\/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "server2": "https:\/\/d27zlkxhgwrfgo.cloudfront.net\/v1\/master\/9d43eacaed199f8d5883927e7aef514a8a08e108\/ETV_CINEMA_H264_cloud_in\/index.m3u8"
   },
   {
     "id": "82",
