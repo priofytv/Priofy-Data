@@ -5078,8 +5078,24 @@
     "category": "🐤 Kids",
     "name": "KidsFlix",
     "logo": "https:\/\/www.kidsflix.com\/themes\/custom\/viva\/kidsflix\/logo.png",
-    "servers": [],
-    "link_live": []
+    "servers": [
+      {
+        "name": "Server 1",
+        "display_name": "Server 1",
+        "stream_link": "https:\/\/stream-us-east-1.getpublica.com\/playlist.m3u8?network_id=50",
+        "url": "https:\/\/stream-us-east-1.getpublica.com\/playlist.m3u8?network_id=50"
+      }
+    ],
+    "link_live": [
+      {
+        "name": "Server 1",
+        "display_name": "Server 1",
+        "stream_link": "https:\/\/stream-us-east-1.getpublica.com\/playlist.m3u8?network_id=50",
+        "url": "https:\/\/stream-us-east-1.getpublica.com\/playlist.m3u8?network_id=50"
+      }
+    ],
+    "server1": "https:\/\/stream-us-east-1.getpublica.com\/playlist.m3u8?network_id=50",
+    "url": "https:\/\/stream-us-east-1.getpublica.com\/playlist.m3u8?network_id=50"
   },
   {
     "id": "102",
