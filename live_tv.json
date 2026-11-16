@@ -1760,46 +1760,61 @@
     "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/d\/d9\/Ekushey_Television_Logo.svg\/1280px-Ekushey_Television_Logo.svg.png",
     "servers": [
       {
+        "name": "Server 1",
+        "display_name": "Server 1",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/SyQuXz8sC3TB\/index.m3u8",
+        "url": "https:\/\/tvsen5.aynaott.com\/SyQuXz8sC3TB\/index.m3u8"
+      },
+      {
         "name": "Official",
         "display_name": "Official",
-        "url": "https:\/\/ekusheyserver.com\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8",
-        "stream_link": "https:\/\/ekusheyserver.com\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8"
+        "stream_link": "https:\/\/ekusheyserver.com\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8",
+        "url": "https:\/\/ekusheyserver.com\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8"
       },
       {
         "name": "Jagobd",
         "display_name": "Jagobd",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/ekusheytv-8-org.stream\/tracks-v1a1\/mono.m3u8?wmsAuthSign=",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/ekusheytv-8-org.stream\/tracks-v1a1\/mono.m3u8?wmsAuthSign="
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/ekusheytv-8-org.stream\/tracks-v1a1\/mono.m3u8?wmsAuthSign=",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/ekusheytv-8-org.stream\/tracks-v1a1\/mono.m3u8?wmsAuthSign="
       },
       {
-        "name": "Server 3",
-        "display_name": "Server 3",
-        "url": "http:\/\/210.4.72.204\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8",
-        "stream_link": "http:\/\/210.4.72.204\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8"
+        "name": "Server 4",
+        "display_name": "Server 4",
+        "stream_link": "http:\/\/210.4.72.204\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8",
+        "url": "http:\/\/210.4.72.204\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8"
       }
     ],
     "link_live": [
       {
+        "name": "Server 1",
+        "display_name": "Server 1",
+        "stream_link": "https:\/\/tvsen5.aynaott.com\/SyQuXz8sC3TB\/index.m3u8",
+        "url": "https:\/\/tvsen5.aynaott.com\/SyQuXz8sC3TB\/index.m3u8"
+      },
+      {
         "name": "Official",
         "display_name": "Official",
-        "url": "https:\/\/ekusheyserver.com\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8",
-        "stream_link": "https:\/\/ekusheyserver.com\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8"
+        "stream_link": "https:\/\/ekusheyserver.com\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8",
+        "url": "https:\/\/ekusheyserver.com\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8"
       },
       {
         "name": "Jagobd",
         "display_name": "Jagobd",
-        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/ekusheytv-8-org.stream\/tracks-v1a1\/mono.m3u8?wmsAuthSign=",
-        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/ekusheytv-8-org.stream\/tracks-v1a1\/mono.m3u8?wmsAuthSign="
+        "stream_link": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/ekusheytv-8-org.stream\/tracks-v1a1\/mono.m3u8?wmsAuthSign=",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/ekusheytv-8-org.stream\/tracks-v1a1\/mono.m3u8?wmsAuthSign="
       },
       {
-        "name": "Server 3",
-        "display_name": "Server 3",
-        "url": "http:\/\/210.4.72.204\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8",
-        "stream_link": "http:\/\/210.4.72.204\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8"
+        "name": "Server 4",
+        "display_name": "Server 4",
+        "stream_link": "http:\/\/210.4.72.204\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8",
+        "url": "http:\/\/210.4.72.204\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8"
       }
     ],
-    "server1": "https:\/\/ekusheyserver.com\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8",
-    "url": "https:\/\/ekusheyserver.com\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8"
+    "url": "https:\/\/tvsen5.aynaott.com\/SyQuXz8sC3TB\/index.m3u8",
+    "server1": "https:\/\/tvsen5.aynaott.com\/SyQuXz8sC3TB\/index.m3u8",
+    "server2": "https:\/\/ekusheyserver.com\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8",
+    "server3": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2\/ekusheytv-8-org.stream\/tracks-v1a1\/mono.m3u8?wmsAuthSign=",
+    "server4": "http:\/\/210.4.72.204\/hls-live\/livepkgr\/_definst_\/liveevent\/livestream3.m3u8"
   },
   {
     "id": "32",
